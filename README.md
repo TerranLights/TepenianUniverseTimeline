@@ -28,3 +28,7 @@
 - depicts a full meta-civilization in orbit around Jupiter and its various moons :: this will be the basis of Outer Tepenia 1
 - similarly with Saturn :: this will be the basis of Outer Tepenia 2
 - similarly with the Centauri binary star system :: this will be the basis of Outer Tepenia: New Centauri
+
+## Future Applications
+
+This Timeline Compendium will also eventually serve as a basis of reference for a "Doll Wiki" website, similar in nature to the Fallout Wiki
