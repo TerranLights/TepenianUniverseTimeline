@@ -18,7 +18,7 @@ There are four main eras (possibly to be expanded) documented within this timeli
 - The Solar Colonization (possibly to-be-renamed)
     - early-4th Millennium to mid-4th Millennium (exact timeline TBD)
     - depicts Mars having been fully and entirely colonized with some light orbital colonization of Jupiter and rudimentary exploration of Saturn
-    - this timeline is the basis for the Cryptograph Helix series
+    - this timeline is the basis for the Cryptograph Helix novel series
 - Post-Solar eras
     - timeline numbers TBD, to serve as the basis of the Outer Tepenia 3d 1st-/3rd-person open-world trilogy of games
     - depicts a full meta-civilization in orbit around Jupiter and its various moons :: this will be the basis of Outer Tepenia 1
