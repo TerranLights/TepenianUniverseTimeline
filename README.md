@@ -1,4 +1,4 @@
-# TepenianUniverseTimeline
+# The Tepenian Universe Grand Timeline
 Reference Compendium for the timeline within the Tepenian universe (to be shared across projects)
 
 There are four main eras (possibly to be expanded) documented within this timeline reference:
