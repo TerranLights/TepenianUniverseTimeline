@@ -1,8 +1,10 @@
 # Universe Timeline
 
-The Cryptograph Helix is the sequel era to **Inner Tepenia** (~2083–2700s). Both are set in the same universe.
+The Cryptograph Helix is the sequel era to **Inner Tepenia** (~2083–2827). Both are set in the same universe.
 
-> The old notes say "2279 A.D." — **this date is outdated/placeholder.** The correct era is approximately the early 3000s–3100s (deliberately fluid; do not lock a specific year until world-building context demands it).
+> The old notes say "2279 A.D." — **this date is outdated/placeholder.** The correct era is approximately the early 3000s–3100s (deliberately fluid; do not lock a specific year until world-building context demands it — this range doesn't yet line up precisely with the root README's "early-to-mid 4th millennium" framing, flagged here rather than silently reconciled).
+
+> **Dates corrected 2026-07-11:** this file previously placed the Long Night War and Inner Tepenia's own present day in the "early 2700s," which predates InnerTepeniaGDD's own canonization of the war to a single precise year (2812) and its present day to ≈2822–2827. Corrected below to match current InnerTepeniaGDD canon.
 
 ## Shared Universe Timeline
 
@@ -12,9 +14,9 @@ The Cryptograph Helix is the sequel era to **Inner Tepenia** (~2083–2700s). Bo
 | **2318** | Jeju-do ruling (April 27) — robot DJ Gyeong-ja Yun's case against her Mafioso boss → robots granted full legal personhood |
 | **~2563–2564** | War of Upper Earth (first anti-robot war). Falkland Treaty (June 21, 2564) — all robots + human allies exiled to Antarctica → Federation of Tepenia |
 | **~2500s** | "Lemmy" enters common usage as the word for "cheers" (in-universe future slang) |
-| **~2630–2640** | Amundsen Tower (Space Elevator at South Pole) completed — Tepenia's greatest achievement |
-| **~2700s** | *Inner Tepenia* game present — Concordia is the last surviving Tepenian city; off-world evacuees have Phobos/Deimos infrastructure, Mars colonization, moving toward Venus |
-| **Early 2700s** | Long Night War (second anti-robot war) — destroys coastal Tepenian cities; Amundsen Tower deliberately destroyed |
+| **~2630–2640** | Amundsen Tower (Space Elevator at South Pole) completed — Tepenia's greatest achievement (tentatively contested against a ~2688 Midpoint placement in the Second Interwar Period timeline — see that file's own caveat, not yet reconciled) |
+| **2812** | Long Night War (second anti-robot war) — destroys coastal Tepenian cities; Amundsen Tower deliberately destroyed |
+| **≈2822–2827** | *Inner Tepenia* game present — Concordia is the last surviving Tepenian city; off-world evacuees have Phobos/Deimos infrastructure, Mars colonization, moving toward Venus |
 | **~3000s–3100s** | ***Cryptograph Helix* series begins** — Silicon Valley tech giants control Mars; DNA Mafia forms; memes evolve toward sentience |
 
 ## How Inner Tepenia Leads Into Cryptograph Helix
@@ -39,6 +41,6 @@ Robot consciousness is settled ancient history by the 3000s. The Cryptograph Hel
 - First sentient robot: 2083. By the 3000s, this is ~1,000 years of settled history.
 - Robot personhood ruling: April 27, 2318 (Jeju-do). Ancient history.
 - Falkland Treaty: June 21, 2564. ~500–600 years before Cryptograph Helix begins.
-- Long Night War: early 2700s. ~300–400 years before Cryptograph Helix.
+- Long Night War: 2812. ~200–300 years before Cryptograph Helix (adjusted from the previous "early 2700s" estimate; the ~300–400yr figure above was calculated against that stale date).
 - Sinian Federation (post-China) already exists by 2318 — consistent with China having collapsed long before the 3000s.
 - Jupiter colonization happens *during* Cryptograph Helix events. At the series' opening, only Mars, its moons, and limited inner solar system regions are colonized.
