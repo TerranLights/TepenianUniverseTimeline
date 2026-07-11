@@ -3,7 +3,7 @@
 ##### Describes three fundamental functions:
 - Who are the characters involved
 - What kind of a world do the characters live in
-- When does it happen
+- When does everything happen
 
 ## There are four main eras (possibly to be expanded) documented within this timeline reference:
 
