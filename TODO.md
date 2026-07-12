@@ -51,8 +51,9 @@ Tracks open work across the Tepenian Universe Timeline repo. Check items off as 
 
 ## Locations / Worldspace
 
-- [ ] `Worldspace/Locations/` is essentially empty (just a blank `README.md`) despite dozens of places already referenced across character files — Concordia and its zodiac-named districts, Belgrano, Zukelli, Dumont d'Urville, Casey, Vostok, the Halley Subnet, etc. These currently exist only as scattered mentions inside character files, with no canonical entry of their own.
+- [x] ~~`Worldspace/Locations/` is essentially empty~~ — **resolved 2026-07-12 as a reference, not a full migration.** InnerTepeniaGDD's city/district geography lives in a large, actively-evolving "Megasheet" system (~60 final documents, ~1.75MB) — too big and too fast-moving to duplicate here without going stale. `Worldspace/Locations/README.md` now maps the hierarchy (city → subnet → Concordia district → game-wide) and lists all 35 cities by subnet, without copying their content. Deep location detail should still be looked up in InnerTepeniaGDD directly.
 - [x] ~~Casey has no lore at all yet~~ — **this was itself stale.** Casey already has a full Megasheet in InnerTepeniaGDD (`City_Megasheets/Mirny_Subnet/Casey/`); not yet migrated here, but not the blocker it was assumed to be (see Pink Lucy resolution above).
+- [ ] If deeper location migration is ever wanted, the natural minimal unit is each tier's compiled `README.md` (already a synthesis of that location's raw inputs) rather than the full staged/DLC-scaffolding files — see `Worldspace/Locations/README.md` for the exact paths.
 
 ## Reference
 
