@@ -26,9 +26,27 @@ Tracks open work across the Tepenian Universe Timeline repo. Check items off as 
 - [ ] **Era 4 — Post-Solar eras** has no `Timeline.md` yet either. Likely needs to be split into three sub-timelines matching the three planned Outer Tepenia games (Jupiter / Saturn / the Centauri binary system).
 - [ ] `to-be-integrated/universe-timeline.md` — a cross-era bridge timeline (Inner Tepenia → Cryptograph Helix) still sitting in the holding-pen folder. Needs to be reconciled and merged into the proper `Timeline Eras/` structure rather than left standalone.
 
+### Era 1 & 2 — event detail still needed
+(both already have a fully-worked-out story-beat structure — dates/spans and cross-source beat definitions are done. Full detail lives in each file's own "Open Work" section — this is a summary, not a replacement.)
+
+**2026-07-12: a full cross-reference pass against InnerTepeniaGDD migrated a real amount of already-answered material into both eras** — most notably, the Long Night War's inciting gynoid is now confirmed as **Akina** (see her own character file), and both eras' Finale sections gained real character/faction threads (Maggie Aarden, Ji-Eun Kim, Trisha Miller, the Sinian Federation). Everything still listed below was specifically checked against InnerTepeniaGDD and confirmed genuinely undeveloped there too, not just unmigrated.
+
+- [ ] **Era 1 (First Interwar Period, 2083–2564)** — still open: Theme Stated, Catalyst, Debate, Break into Two (event), Road of Trials (detail beyond Gyeong-ja Yun's case), All Is Lost, Dark Night of the Soul, Break into Three (event), Closing Image, and weaving the Finale's four confirmed threads into one connected narrative. See `Timeline Eras/1 The First Interwar Period/Timeline.md`'s Open Work section.
+- [ ] **Gil(bert) Gamesh** — En.Ki.Du's human counterpart (the "Gilgamesh" to his "Enkidu," per the Duumvir naming) is named but not otherwise documented anywhere in the setting yet. Needs a real backstory/role — likely belongs somewhere in Era 1's earliest beats (Opening Image/Set-Up, 2083–2131).
+- [ ] **Era 2 (Second Interwar Period, 2564–2812)** — still open: Catalyst, Debate, All Is Lost, Dark Night of the Soul (detail beyond the Merit Board Audit), Bad Guys Close In, Closing Image.
+  - [ ] The ~50-year gap between Akina's inciting incident (~2762) and the war's actual outbreak (2812) still needs developing — confirmed undeveloped in InnerTepeniaGDD too. The Upper Earth diplomat she kills is still unnamed anywhere.
+  - [ ] Long Night War's exact day still only narrowed to a window (March 22 – June 20, 2812), not picked — confirmed no file in either repo settles a specific day.
+  - [ ] Three district-level "Confirmed Dated Events" are explicitly flagged as shaky, possibly not staying canon: **the Star War** (Leo, mid-2740s), **the Merit Board Audit** (Capricorn, c. 2761 — "explicitly deferred until all cities are developed"), and **the Tolerance Pact** (Pisces/Libra, ~2762 onward).
+  - See `Timeline Eras/2 The Second Interwar Period/Timeline.md`'s Open Work section for the rest (B-Story/Kick-in-the-Shins/etc. placement-only beats).
+
+### Dedicated migration tasks
+(too large to fold inline into the Timeline.md files directly — full documents in InnerTepeniaGDD, not yet brought over)
+- [ ] Concordia's own interwar development arc — a full 32-section document, `Concordia_Second_Interwar_Cultural_Sheet.md` in InnerTepeniaGDD. Only partially drawn on so far (founding order, Tower completion date).
+- [ ] Port Lockroy's developer-approved 3-phase interwar development arc (`City_Vision_Notes/Port_Lockroy.md` in InnerTepeniaGDD) — a possible template for how other cities' own interwar arcs might be worked into Era 2's beats.
+- [ ] The fuller per-city founding roster beyond what Era 2's Set-Up section now states (`City_Origin_Factions_Second_Interwar.md`, `Local_Cultures/*.md`, `Specs/*.md`, `Station_to_City_Map.md` in InnerTepeniaGDD).
+
 ### Reconciliation needed
-(both flagged directly in `to-be-integrated/universe-timeline.md`, neither resolved yet)
-- [ ] Amundsen Tower completion date: ~2630–2640 (root-level framing) vs. a ~2688 midpoint placement in Era 2's own `Timeline.md` — pick one.
+- [ ] **Amundsen Tower completion date** — this is the biggest single blocker in Era 2, and confirmed (2026-07-12) still unresolved in InnerTepeniaGDD itself, not just here — this needs an actual decision from you, not more digging. Full sourcing exists for ~2629–2639 (`Concordia_Second_Interwar_Cultural_Sheet.md`, InnerTepeniaGDD's own `TODO.md`, and the ~178-year throughput math in `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`), but nothing anywhere reconciles it against Era 2 `Timeline.md`'s tentative ~2688 Midpoint placement. Once decided, every dependent file needs to be reconciled to match.
 - [ ] The Solar Colonization era's exact date range: root `README.md` says "early-to-mid 4th millennium," `to-be-integrated/universe-timeline.md` says "early 3000s–3100s" — these don't currently line up; needs one agreed range.
 
 ## Locations / Worldspace

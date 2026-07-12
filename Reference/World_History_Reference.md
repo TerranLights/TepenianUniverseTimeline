@@ -14,7 +14,7 @@ Key historical events and geopolitical facts established in the GDD. Captures wh
 
 **Significance:** The 2083 war is the foundational rupture of the game's world — the event that broke the previous geopolitical order and created the conditions from which the world of Inner Tepenia eventually grew. It predates the Falkland Treaty by nearly five centuries, but the countries, power structures, and grievances that produced the War of Upper Earth all have roots in the reconstruction that followed 2083.
 
-**Coincidence:** In the same year — 2083 — the first fully sentient, fully conscious robot was created at U.R.U.K. (the Underwater Research Union: Kappa), off the coast of the Sovereign Republic of Hawaii. The conjunction of the nuclear war and the birth of robot sentience in the same year is not confirmed as causal, but it is the year in which both the world's old order ended and the new category of being that would eventually upend the rebuilt order appeared.
+**Coincidence:** In the same year — 2083 — the first fully sentient, fully conscious robot, **En.Ki.Du**, was created at U.R.U.K. (the Underwater Research Union: Kappa), off the coast of the Sovereign Republic of Hawaii. His name is both an Epic of Gilgamesh reference (Enkidu; Uruk, the city Gilgamesh ruled) and an acronym in its own right: **Entelechian** (from Aristotle's concept of entelechy), **Kinetic** (he moves under his own power), **Duumvir** (as opposed to "Triumvir" — he is one half of a two-person team, the other being his human counterpart **Gil(bert) Gamesh**, the Gilgamesh to his Enkidu — not yet otherwise documented anywhere in the wider setting). He is the prototype from which all subsequent Doll manufacturing diverged — noticeably robotic in construction, unlike every Doll built after him, all of which have full synthetic skin and look human from the outside. The conjunction of the nuclear war and the birth of robot sentience in the same year is not confirmed as causal, but it is the year in which both the world's old order ended and the new category of being that would eventually upend the rebuilt order appeared.
 
 **What is TBD:**
 - Specific causes and triggering events
@@ -32,7 +32,7 @@ Key historical events and geopolitical facts established in the GDD. Captures wh
 
 **Dates:** ~2563–2564. Ended with the signing of the Falkland Treaty on June 21, 2564.
 
-**Nature:** The first anti-robot war. A large-scale conflict fought across the non-Antarctic world driven by anti-robot sentiment, which had reached an all-time high in the years immediately preceding the war (documented specifically in Unified Korea; likely widespread).
+**Nature:** The first anti-robot war. A large-scale conflict fought across the non-Antarctic world driven by anti-robot sentiment, which had reached an all-time high in the years immediately preceding the war (documented specifically in Unified Korea; likely widespread). **The Sinian Federation is confirmed (migrated 2026-07-12) as one of the Upper Earth nations that persecuted robots and drove the war** — other primary drivers remain unnamed.
 
 **Outcome:** Upper Earth won. The anti-robot side prevailed. However, the robot population was simply too large to exterminate outright — the logistics of total extermination were not viable. The Falkland Treaty was negotiated as an alternative: the robots (and their human allies) were exiled to Antarctica rather than destroyed. The Treaty was the terms of their defeat, not a mutual compromise.
 

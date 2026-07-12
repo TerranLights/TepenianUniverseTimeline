@@ -89,10 +89,15 @@ Goddess — no placement rule yet).
 The global nuclear war. **Confirmed canon** (see `World_History_Reference.md`): a
 global nuclear war permanently reshaped the world on September 26, 2083 — countries
 collapsed, borders were redrawn, the pre-war geopolitical order was destroyed. In the
-same year, the first fully sentient, fully conscious robot was created at U.R.U.K.
-(the Underwater Research Union: Kappa), off the coast of the Sovereign Republic of
-Hawaii. The conjunction is not confirmed as causal, but both threads — the old world's
-end and the new order's beginning — start here.
+same year, the first fully sentient, fully conscious robot, **En.Ki.Du**, was created
+at U.R.U.K. (the Underwater Research Union: Kappa), off the coast of the Sovereign
+Republic of Hawaii — both an Epic of Gilgamesh reference (Enkidu; Uruk) and its own
+acronym: **Entelechian Kinetic Duumvir** (Aristotle's entelechy; moves under his own
+power; one half of a two-person team with his human counterpart Gil(bert) Gamesh,
+not yet otherwise documented). He is the prototype from which all subsequent Doll
+manufacturing diverged, and the only Doll that is noticeably robotic rather than
+externally human-looking. The conjunction is not confirmed as causal, but both
+threads — the old world's end and the new order's beginning — start here.
 
 **TBD:** what specifically unfolds through the immediate aftermath, up to ~June 2088.
 
@@ -118,10 +123,17 @@ value of patience).
 ### Set-Up
 **~June 2088 – ~July 2131**
 
-TBD — this is presumably the early reconstruction era following the 2083 war (new
-nations forming out of the collapse — Unified Korea, the Sinian Federation, The CSA,
-etc. — see `World_History_Reference.md` and the "New North America" map at
-`Reference-Images/Maps/North America with tentative labels.jpg`). Exact events TBD.
+TBD in detail, but the roster of post-2083 successor nations is confirmed (migrated
+2026-07-12): Unified Korea, the Sinian Federation, the Sovereign Republic of Hawaii,
+Midwestland, the Colorado Republic, the People's Democratic Republic of Cascadia,
+the Appalachia Republic, the Prairie Federation, the Republic of Sonora, the
+Republic of Alaska, the People's Democratic Republic of New England, and the CSA
+(Texas — flagged in source material for a possible rename to "Dixieland"). See
+`World_History_Reference.md` and the "New North America" map at
+`Reference-Images/Maps/North America with tentative labels.jpg`. No specific
+founding event or date within this span is established yet — the Sinian
+Federation's formation is explicitly deferred, and Unified Korea's reunification
+date remains TBD.
 
 **Placement rule (2026-07-05):** Bell's **Care Package** lands somewhere within
 Set-Up — not dated to a specific point yet, but structurally anchored here, in the
@@ -261,10 +273,21 @@ TBD in detail, but this span now has two confirmed anchor points within it:
   placed closer to the mid-2300s. See
   `Worldspace/Characters/Dolls/Past_History_-_Known_to_Tepenians/Mallory Dufay/`.
 
-Structurally, "Bad Guys Close In" suggests rising pressure against robots even as
-their legal personhood era continues — worth reconciling the hopeful, ambitious
-orbital-infrastructure thread (Hana, Mallory) against whatever antagonistic pressure
-this beat name implies is building in parallel.
+**Reconciled 2026-07-12:** the "rising pressure" this beat name implies runs in
+parallel with, not in place of, the Hana/Mallory orbital-optimism thread — both are
+true at once across this span. Legal personhood (won at the Midpoint, 2318) never
+translated into being treated as though it were real: Ji-Eun Kim's own pre-war
+history establishes "systematic discrimination, professional exclusion, and social
+hostility" toward robots in Unified Korea as an ongoing condition throughout this
+period, not a single event, despite personhood being legally settled (see
+`Worldspace/Characters/Dolls/Ji-Eun Kim/`). Maggie Aarden's own pre-war history
+shows the same pattern in Midwestland: she's pushed out of her industrial job
+specifically "as anti-robot sentiment began rising across the world" (see
+`Worldspace/Characters/Dolls/Maggie Aarden/`). Neither event is dated precisely
+within 2318–2444, but both confirm the antagonistic pressure as a slow-building
+undercurrent across the whole span, with the sharpest spike concentrated in the
+years immediately preceding the War of Upper Earth (~2500s) — i.e., toward this
+beat's tail end or into the Finale, not evenly spread across it.
 
 **Source definition, Snyder's Bad Guys Close In (recorded 2026-07-05):** the second
 half of Act 2 — obstacles compound and become overwhelming, the protagonist's usual
@@ -347,9 +370,41 @@ concept — the "point of no return" into Act 3.
 ### Finale
 **~June 2468 – June 21, 2564**
 
-TBD. This ~96-year span must terminate in the War of Upper Earth itself
-(~2563–2564 — see `World_History_Reference.md`), the first anti-robot war, driven by
-anti-robot sentiment reaching an all-time high in the years immediately preceding it.
+TBD in detail, but this ~96-year span must terminate in the War of Upper Earth
+itself (~2563–2564 — see `World_History_Reference.md`), the first anti-robot war,
+driven by anti-robot sentiment reaching an all-time high in the years immediately
+preceding it. Real developed material now exists for this span (migrated
+2026-07-12), though not yet woven into a single connected narrative:
+
+- **The Sinian Federation is confirmed as one of the Upper Earth powers that drove
+  the war** — "The Sinian Federation was among the Upper Earth nations that
+  persecuted robots and drove the War of Upper Earth" (source: InnerTepeniaGDD's
+  `Local_Cultures/Mirny_Subnet/Zhongshan.md`). This directly answers part of
+  `World_History_Reference.md`'s open "which nations or power blocs were the
+  primary combatants" question — other primary drivers are still TBD.
+- **Maggie Aarden** — a Midwestland industrial worker pushed out of her job as
+  anti-robot sentiment rose. She organized a "third option": resettling robots out
+  of primarily human cities into separate communities in Midwestland and the
+  Colorado Republic. This resettlement effort was already underway when the War of
+  Upper Earth broke out; escalating anti-robot violence turned it into a refuge,
+  then a rallying point, for robots displaced by the fighting. Her resulting
+  wartime leadership credibility is exactly why the victorious Assembly Powers
+  maneuvered her into becoming the Falkland Treaty's robot signatory afterward — to
+  make the exile look agreed-to rather than simply imposed. See
+  `Worldspace/Characters/Dolls/Maggie Aarden/`.
+- **Ji-Eun Kim** — anti-robot sentiment in Unified Korea specifically reached an
+  all-time high in the years immediately preceding the war; she became one of the
+  greatest nanotechnicians on the planet despite "systematic discrimination,
+  professional exclusion, and social hostility." See
+  `Worldspace/Characters/Dolls/Ji-Eun Kim/`.
+- **Trisha Miller** — a Midwestland radio DJ robot; her own history records
+  "human-robot tensions during her Midwestland years," opposition specifically for
+  being a robot, alongside a loyal fan base. See
+  `Worldspace/Characters/Dolls/Trisha Miller/`.
+
+Not yet resolved: how these four threads connect to each other and to whatever
+specific event constitutes this beat's own Break into Three (~June 2468) and the
+War of Upper Earth's actual outbreak (~2563–2564).
 
 **Source definition, Snyder's Finale — the "Five-Point Finale" / "Storming the
 Castle" (recorded 2026-07-05):** the final ~20% of the story, broken into five
@@ -463,11 +518,21 @@ flexible) is settled — see the Summary Table and each beat's own section above
 remains is entirely the actual in-world *events* that occupy each beat, not what the
 beats mean or where they go.**
 
-- Fill in TBD events for: Opening Image (detail), Theme Stated, Set-Up (detail),
-  Catalyst, Debate, Break into Two (event), Road of Trials (detail), Bad Guys Close In
-  (detail — reconcile against Hana Jinn/Mallory Dufay's hopeful orbital thread), All
-  Is Lost, Dark Night of the Soul, Break into Three (event), Finale (detail bridging
-  to the War of Upper Earth), Closing Image (should mirror/contrast Opening Image).
+**2026-07-12 cross-reference pass against InnerTepeniaGDD:** Set-Up, Bad Guys Close
+In, and Finale now have real migrated detail (see their own sections above) — Set-Up
+has a confirmed nation roster, Bad Guys Close In has a reconciled explanation of the
+antagonistic-pressure-vs-orbital-optimism tension, and Finale has four
+character/faction threads (Maggie Aarden, Ji-Eun Kim, Trisha Miller, the Sinian
+Federation) ready to be woven into a connected narrative. Everything else below was
+checked against InnerTepeniaGDD specifically and confirmed genuinely undeveloped
+there too — not just unmigrated.
+
+- Fill in TBD events for: Opening Image (detail), Theme Stated, Catalyst, Debate,
+  Break into Two (event), Road of Trials (detail beyond Gyeong-ja Yun's case, already
+  covered at the Midpoint), All Is Lost, Dark Night of the Soul, Break into Three
+  (event), Closing Image (should mirror/contrast Opening Image). Also still open:
+  the specific connecting narrative for Finale (see above) and the antagonistic
+  pressure's dated triggering event within Bad Guys Close In.
 - Date and place the actual events for the beats that already have a placement
   span/rule but no event yet: B-Story trigger(s), Kick in the Shins, Care Package,
   Pet the Dog, Self-Revelation, Moral Decision, Q-Factor.

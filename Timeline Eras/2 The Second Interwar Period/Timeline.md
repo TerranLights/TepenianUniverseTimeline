@@ -112,15 +112,39 @@ Image of the Second — the same historical event serves as both bookends.
 ### Theme Stated
 **TBD, ~5.0%**
 
-No event yet established.
+**Strong ready-made material found 2026-07-12, not yet pinned to a specific ~2576
+scene.** The era's actual thematic throughline is already fully developed elsewhere,
+just never dated: Maggie Aarden's coerced signature on the Falkland Treaty (2564) is
+repeatedly called "Tepenia's single deepest historical wound," explicitly tied to
+the *same* theme as the Long Night War's own inciting incident (Akina — see Break
+into Three below) — "a robot denied full agency or personhood, with lasting
+consequences for everyone around her" (source: InnerTepeniaGDD's
+`Locations-and-Levels/Super_Ultra_Megasheet/README.md` and
+`.../Concordia-City/Districts/Final_Megasheet_Data_Processing/Throughways/cross-district_throughways.md`).
+The Leo Deep Dive states the theme directly: robots have held confirmed legal
+personhood since April 27, 2318, yet "having legal personhood was never the same
+thing as being treated as if it were true" — framed there as the era's own
+"recurring wound" (`.../Concordia-City/Districts/Deep_Dives/03_Leo_Deep_Dive.md`).
+This is the theme; what's still missing is a concrete ~2576 scene that states it the
+way Snyder's beat requires (another character instructing the protagonist in this
+need, delivered as a localized, specific moment).
 
 ### Set-Up
 **~2564 – ~Nov 2576**
 
-TBD in detail, but this is presumably the earliest founding era: initial city
-foundings on existing pre-exile station infrastructure across the continent. See
-`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/`
-for the established per-city founding facts that likely belong in this span.
+**Confirmed 2026-07-12:** Palmer City was Tepenia's first city, founded 2564,
+absorbing the earliest exile population — accessible coastal stations were settled
+first. Concordia itself was explicitly *not* first-wave: "Concordia was not a
+first-wave settlement; the accessible coastal stations, Palmer City foremost,
+absorbed the earliest exile population" (source: InnerTepeniaGDD's
+`Concordia_Second_Interwar_Cultural_Sheet.md`). Cape Adare predates the exile
+entirely (settled 1899); Lazar coalesced from two earlier settlements. Most
+Concordia districts were founded in the "late 2560s," with Leo, Aquarius, and
+Sagittarius following slightly later in a "2570s–2590s" early-federation boom (see
+`District_Canon_Reference.md`). Fuller per-city founding detail exists in
+InnerTepeniaGDD's `City_Origin_Factions_Second_Interwar.md`, `Local_Cultures/*.md`,
+`Specs/*.md`, and `Station_to_City_Map.md` — not yet migrated here in full; flagged
+in `TODO.md` as its own dedicated migration task given the volume of material.
 
 ### Catalyst
 **TBD, ~10.0%**
@@ -185,6 +209,17 @@ None of these are mutually exclusive with each other or with additional shapes n
 yet identified — kept open deliberately, to be chosen from (or combined further)
 once more background/context is developed.
 
+**Supporting data point, found 2026-07-12:** Highway 7-ext (the Belgrano Highway
+Extension) was built 2611–2614 — the only highway in the whole GDD with confirmed
+in-world construction dates (source: InnerTepeniaGDD's
+`Locations/Infrastructure/Highways.md`, `City_Relationship_Database.md`,
+`Storyline/DLC_Overview.md`). It lands right at this beat's own date — circumstantial
+support for an "infrastructure/cooperation begins right at this threshold" framing,
+regardless of which shape (A/B/C) is eventually chosen. Also loosely relevant: Byrd
+has an unresolved "Isolation Crisis" premise — a proposed supply-crisis plot
+explicitly testing "whether isolated cities can survive alone," thematically close
+to Shape A, but never dated to 2614 specifically (see InnerTepeniaGDD's `TODO.md`).
+
 ### Road of Trials / Fun and Games / Promise of the Premise
 **~2614 – ~2688**
 
@@ -210,6 +245,19 @@ earlier, during Debate/Break into Two) is still an open question. Given the
 established sequence lists highways *before* the Arcanet, this may need to be placed
 earlier than the Arcanet/B-Story above, or the sequence itself may need revisiting —
 not yet decided either way.
+
+**New anchor points found 2026-07-12:** Hwy 7-ext (2611–2614, see Break into Two
+above) is the only highway with confirmed construction dates in the whole GDD — it
+may resolve part of the "highways not yet placed" question by anchoring at least one
+highway segment right at the start of this span. The Arcanet's national,
+subnet-to-subnet buildout is explicitly pinned to "beginning around 2614" in
+InnerTepeniaGDD's own `Juan_Carlos_Full_Extrapolation.md` — matching this file's own
+B-Story placement. **Flagged tension, not yet reconciled:** Gemini/Janbogo's own
+*local* Arcanet hub is separately dated much earlier — "Early Arcanet Construction
+(late 2560s–2580s)" per `District_Canon_Reference.md` — which may mean local
+subnet-hub construction and the national subnet-to-subnet buildout are two
+different, sequential things rather than one process, or may simply need
+reconciling.
 
 **Resolved 2026-07-05 — Kick in the Shins is NOT Amundsen Tower's construction
 start.** The developer initially proposed Tower construction *beginning* at Kick in
@@ -330,10 +378,21 @@ framing/details as settled; see `TODO.md`.**
 
 **The Long Night War's inciting incident** — placed here deliberately, per the
 developer's 2026-07-05 direction: an Upper Earth diplomat denies a gynoid's
-personhood, attempts assault on her in Palmer City, and she kills him in self-defense
-(see [[project_long_night_war_inciting_incident]] — her name/fate and his identity
-still TBD). This is the "Doorway of No Return #2" — the single event that commits
+personhood, attempts assault on her in Palmer City, and she kills him in
+self-defense. This is the "Doorway of No Return #2" — the single event that commits
 the era irreversibly toward the Long Night War, with no path back.
+
+**Gynoid's identity confirmed 2026-07-12: Akina.** See
+`Worldspace/Characters/Dolls/TBN [SE-031 Palmer City self-defense Akina]/` —
+"Akina is a Tepenia native... genuinely amicable and loving... but fully capable of
+sudden lethal self-defense," cross-confirmed independently in InnerTepeniaGDD's own
+Leo Deep Dive as this same inciting incident. Her origin city is still undecided
+among three candidates (Zukelli — the leading candidate, Dumont d'Urville, Byrd —
+see `TODO.md`). **Her fate is confirmed by implication, not narrated as prose
+anywhere:** she is categorized in the source repo as "Still-Present_-_In-Game,"
+meaning she survives to the present day (≈2822–2827) as a playable companion — she
+does not die in or shortly after this incident. The Upper Earth diplomat's identity
+remains unnamed anywhere in either repo.
 
 ### Finale
 **~2762 – June 21, 2812**
@@ -375,6 +434,16 @@ canonization of 2812 as a single precise year. Several cities are destroyed
 outright (Zukelli, Belgrano's later ruin, Denison, Palmer City, Casey), others
 damaged but functional; the Federation's post-war era (the game's present day,
 ≈2822–2827) begins in this event's aftermath.
+
+**Zukelli's destruction, detailed 2026-07-12:** Zukelli sheltered Upper Earth
+soldiers who had fully defected to Tepenia; their home military struck the city
+specifically to guarantee total obliteration and send a deterrence message to anyone
+else considering defection. Janbogo, nearby, survived deliberately — left standing
+as the intended living witness to what happened to Zukelli. (Source: InnerTepeniaGDD's
+`TODO.md`, `Specs/Zukelli.md`, `Specs/Janbogo.md`,
+`Local_Cultures/Janbogo_Subnet/Janbogo.md`, `City_Vision_Notes/Janbogo.md`.) The
+defecting soldiers' home nation and the exact wartime timing of the strike remain
+open.
 
 **Two-axis catastrophe, established 2026-07-05.** Amundsen Tower's physical
 collapse happens in this same event, and — per its reframed Primary Purpose as the
@@ -461,37 +530,54 @@ anchored to one percentage range.
 
 ## Open Work
 
-- **Resolve the Amundsen Tower date tension** (top-of-file caveat) — settle whether
-  the Tower completes at ~2629-2639 (already established elsewhere) or nearer 2688
-  (this file's tentative Midpoint placement), then reconcile whichever files
-  disagree with the final answer, most importantly
-  `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`'s throughput math.
-- Fill in TBD events for every beat still marked TBD above — Theme Stated, Set-Up
-  (detail), Catalyst, Debate, Break into Two (event), Road of Trials (detail), Bad
-  Guys Close In (detail), All Is Lost, Dark Night of the Soul (detail beyond the
-  Merit Board Audit), Finale (detail — the ~50-year escalation from the Break into
-  Three killing to the war's actual outbreak), Closing Image.
+**2026-07-12 cross-reference pass against InnerTepeniaGDD:** Theme Stated, Set-Up,
+Break into Two, Road of Trials, Break into Three, and END all now have real migrated
+detail (see their own sections above) — most notably, the Long Night War's inciting
+gynoid is confirmed as **Akina**. The Zukelli/Janbogo AWOL-defectors strike has been
+written into the END section above. Everything below was specifically checked
+against InnerTepeniaGDD and confirmed still genuinely open there too — not just
+unmigrated.
+
+- **The Amundsen Tower date tension is confirmed still unresolved in InnerTepeniaGDD
+  itself, not just here** — full sourcing exists for ~2629–2639
+  (`Concordia_Second_Interwar_Cultural_Sheet.md`, `TODO.md`, and the ~178-year
+  throughput math in `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_
+  Design.md`, whose own "Still Open" section confirms a precise date was never
+  pinned down more tightly than that range) but nothing in either repo has resolved
+  it against this file's tentative ~2688 Midpoint placement. This needs an actual
+  decision, not further migration.
+- Fill in TBD events for every beat still marked TBD above — Catalyst, Debate,
+  All Is Lost, Dark Night of the Soul (detail beyond the Merit Board Audit),
+  Bad Guys Close In, Closing Image.
+- **Develop the ~50-year Finale escalation** (Break into Three's killing, now
+  identified as Akina's, → the actual Long Night War) — confirmed still undeveloped
+  in InnerTepeniaGDD too. The Upper Earth diplomat she kills is still unnamed
+  anywhere.
+- **The Long Night War's exact day** — still only narrowed to the March 22 – June 20
+  window; confirmed no file in either repo settles a specific day yet.
 - **Revisit the Merit Board Audit itself, per the developer (flagged 2026-07-05,
   explicitly deferred until all cities are developed) — a lot may change about it.**
-  Don't build further content
-  on its current framing until that discussion happens.
-- Develop the ~50-year Finale escalation (Break into Three's killing → the actual
-  Long Night War) — confirm whether that gap is intentional or whether Break into
-  Three should move later/closer to 2812.
-- Date and place: B-Story trigger(s), Kick in the Shins, Care Package, Pet the Dog,
-  Self-Revelation, Moral Decision, Q-Factor — all have a placement span/rule already,
-  per the same methodology as the First Interwar Period.
+  Don't build further content on its current framing until that discussion happens.
+- Date and place: B-Story trigger (the Arcanet — now anchored to ~2614, but no
+  further specific milestones), Kick in the Shins (still just the same two
+  candidates from 2026-07-05, no further narrowing found), Care Package, Pet the
+  Dog, Self-Revelation, Moral Decision, Q-Factor — confirmed still placement-only
+  in InnerTepeniaGDD too.
 - Determine placement (currently undetermined/flexible) and then date events for the
   three Campbell additions.
 - Identify and date Truby character-web concepts beyond Ally/Allies, Opposition,
   Fake Ally, Moral Decision, if more are wanted.
-- Incorporate other already-established Second Interwar Period facts not yet placed
-  in a beat: individual city founding histories, the Zukelli/Janbogo AWOL-defectors
-  strike (this is a Long Night War event itself, likely Finale or END, not
-  Second-Interwar-proper), Concordia's own interwar development arc (see
-  `Concordia_Second_Interwar_Cultural_Sheet.md`), and Port Lockroy's approved
-  interwar development arc (see `City_Vision_Notes/Port_Lockroy.md`) as a possible
-  template for how other cities' own interwar arcs might be worked into this
-  timeline's beats.
+- **Dedicated migration tasks (too large to inline directly into this file — see
+  `TODO.md`):**
+  - Concordia's own interwar development arc — a full 32-section document,
+    `Concordia_Second_Interwar_Cultural_Sheet.md`, only partially drawn on above
+    (founding order, Tower completion date) so far.
+  - Port Lockroy's developer-approved 3-phase interwar development arc
+    (`City_Vision_Notes/Port_Lockroy.md`, phases ~2564–2650s / ~2650s–2750s / late
+    Second Interwar) — a possible template for how other cities' own interwar arcs
+    might be worked into this timeline's beats.
+  - The fuller per-city founding roster beyond what's stated in Set-Up above
+    (`City_Origin_Factions_Second_Interwar.md`, `Local_Cultures/*.md`,
+    `Specs/*.md`, `Station_to_City_Map.md`).
 - Cross-reference against `World_History_Reference.md` and `District_Canon_
   Reference.md` as beats are developed, to keep all documents consistent.
