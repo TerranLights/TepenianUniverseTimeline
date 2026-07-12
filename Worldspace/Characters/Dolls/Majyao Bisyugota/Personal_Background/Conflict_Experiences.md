@@ -1,0 +1,3 @@
+# Majyao Bisyugota — Conflict Experiences
+
+Majyao needed to flee to the city of Concordia following the Long Night War (also known as the Midnight War), which was fought between the humans of Upper Earth and Tepenia (the hybrid robot/human nation of Antarctica). Many of Tepenia's inhabitants fled Earth via the orbital space elevator "Amundsen Tower," beginning colonization of space. However, Majyao chose not to go to Amundsen Tower and flee into outer space. Instead, she chose to settle in Concordia and open a new coffee and teahouse there to serve the remaining inhabitants left in Antarctica.
