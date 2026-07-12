@@ -4,8 +4,9 @@ Tracks open work across the Tepenian Universe Timeline repo. Check items off as 
 
 ## Character Backstories
 
-### Urgent
-- [ ] **Calethina** — has zero user-confirmed canon anywhere in her file. Her entire profile is drawn from a single questline document (in InnerTepeniaGDD) explicitly marked "DEFERRED — Review Required," written by Grok, never reviewed. Needs a real backstory session before any of it is treated as settled. See `Worldspace/Characters/Dolls/Calethina/README.md` Design Notes.
+**Resolved 2026-07-12 (cross-referenced from InnerTepeniaGDD's own memory — see `reference_sibling_projects_and_this_repos_role.md` and related in this project's memory):**
+- ~~Calethina~~ — a real backstory design session happened. Degradation cause, a second embodiment path, and her construction/shipping origin are now in her README/Formative_History. No longer this repo's most urgent character gap.
+- ~~`TBN [FW-25 Pink Lucy]`'s migration route~~ — resolved to Dumont d'Urville → Janbogo (personality-match reasoning), not Casey. New open question in her Design Notes: whether she subsequently moved on to Concordia or stayed in Janbogo through the war — deliberately deferred, not blocking.
 
 ### Needs a backstory session
 - [ ] `TBN [TCY-25 smoldering darkness Rui]` — placed in Scorpio before any real backstory was worked out.
@@ -13,7 +14,6 @@ Tracks open work across the Tepenian Universe Timeline repo. Check items off as 
 - [ ] `TBN [XT-17 unorthodox science teacher Charlene]` — Enneagram/visual design are set; backstory is not.
 
 ### Open lore questions blocking a character decision
-- [ ] `TBN [FW-25 Pink Lucy]` — migration route out of Dumont d'Urville (via Janbogo vs. via Casey) unresolved; blocked on Casey having no established lore yet (see Locations below).
 - [ ] `TBN [SE-031 Palmer City self-defense Akina]` — origin city undecided among three candidates (Zukelli, Dumont d'Urville, Byrd). Zukelli is the leading candidate but not locked in.
 
 ### Process follow-up
@@ -52,7 +52,7 @@ Tracks open work across the Tepenian Universe Timeline repo. Check items off as 
 ## Locations / Worldspace
 
 - [ ] `Worldspace/Locations/` is essentially empty (just a blank `README.md`) despite dozens of places already referenced across character files — Concordia and its zodiac-named districts, Belgrano, Zukelli, Dumont d'Urville, Casey, Vostok, the Halley Subnet, etc. These currently exist only as scattered mentions inside character files, with no canonical entry of their own.
-- [ ] Casey (Adélie Land coastal city) has no lore at all yet — directly blocking Pink Lucy's migration-route decision above.
+- [x] ~~Casey has no lore at all yet~~ — **this was itself stale.** Casey already has a full Megasheet in InnerTepeniaGDD (`City_Megasheets/Mirny_Subnet/Casey/`); not yet migrated here, but not the blocker it was assumed to be (see Pink Lucy resolution above).
 
 ## Reference
 

@@ -1,3 +1,5 @@
 # Calethina — Formative History
 
 Calethina is an artificial intelligence with no physical doll body of her own — she exists solely as a holographic projection. She has, for a long time, operated one of Concordia's few still-functioning robot activation labs, where she greets, orients, and mentors newly-activated robots as their first point of contact. She predates the Long Night War.
+
+Her construction and shipping origin is deliberately unmarked in-world lore rather than an openly documented history: she passed through seven locations across six subnets plus the South Pole before reaching her lab. The chain ran request and design work at Mawson and the Halley subnet, engineering at Kunlun/Mirny, construction at Byrd, stress-testing near Palmer, shipping routed through Port Lockroy, a reroute personally ordered from Fort McMurdo (Tepenia's historical capital, for reasons left unexplained), and a final leg forward-shipped via the Amundsen-Scott Station — passing through the Amundsen Tower's own site before it later caused her defining trauma.

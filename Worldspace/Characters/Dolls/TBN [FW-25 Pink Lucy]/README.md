@@ -4,7 +4,7 @@
 - **Role / Archetype:** Morale-and-community organizer; anchor of an entertainment-district social circle
 - **Personal timeline/timeframe:** XXXX
 - **Place of origin:** Dumont d'Urville (Adélie Land, East Antarctica) — Tepenia native
-- **Primary Location(s) of Residence (if different):** Concordia — fled there during the Long Night War, by way of one of two undetermined intermediate cities (see Design Notes & Open Questions)
+- **Primary Location(s) of Residence (if different):** Janbogo, settled there before the Long Night War; whether she subsequently fled to Concordia or remained in Janbogo through the war is still open (see Design Notes & Open Questions)
 - **Affiliation(s):** (placeholder — associated in source with an entertainment-focused social circle; exact affiliation TBD)
 
 ## Core Identity
@@ -27,7 +27,7 @@ Peachy/strawberry-blonde wavy hair, warm amber-brown eyes. The defining palette 
 - Moral tendencies: (placeholder)
 
 ## Backstory Summary
-Originally from Dumont d'Urville (Adélie Land) — a Tepenia native. Before the Long Night War, she had relocated from Dumont d'Urville to one of two possible intermediate cities, from which she ultimately fled to Concordia when the war broke out: either by way of Janbogo (via Highway 183), or by way of the city of Casey, reached from Dumont d'Urville via the Dumont Coast Highway (via Highway 110 onward to Concordia). Which route is her true history is undetermined in source material — resolving it depends on further development of the city of Casey, which currently has no established lore of its own. Full backstory details remain to be developed.
+Originally from Dumont d'Urville (Adélie Land) — a Tepenia native. **Migration route resolved 2026-07-12:** before the Long Night War, she relocated from Dumont d'Urville to Janbogo (via Highway 183), settling there for a time — not to the city of Casey, the route's previously-considered alternative. The route was decided on personality-match grounds: Janbogo's own civic identity — a city whose whole character is about making people feel at home, absorbing and re-originating whatever culture reaches it (Chinese-French fashion fusion, a teahouse tradition that has traveled past its Korean roots, comparable to New Orleans jazz's "belongs to everyone now" pattern) — is close to a one-to-one match with her own established visual read: "the person who makes you feel included before you've decided whether to be." Casey was the weaker fit, both because its own civic character is comparatively muted and function-oriented, and because it was destroyed early in the war as a targeted strategic chokepoint, which would have compressed her time there uncomfortably short.
 
 ## Role in Main Story / World
 - Connection to larger narrative: (placeholder)
@@ -36,4 +36,5 @@ Originally from Dumont d'Urville (Adélie Land) — a Tepenia native. Before the
 - InnerTepeniaGDD — origin — [status: Still Present In-Game] (only project of appearance currently)
 
 ## Design Notes & Open Questions
-- TODOs: Name and full identity not yet finalized in source project. Her migration route out of Dumont d'Urville (via Janbogo, or via Casey) is unresolved and depends on further lore development for the city of Casey, which does not yet exist in source material. Exact reason she had already relocated before the war (opportunity vs. a natural coastal migration route) is also undetermined.
+- **Open question, deliberately deferred (2026-07-12):** whether she subsequently fled to Janbogo→Concordia (current filing, main-game companion) or remained in Janbogo through the war and is instead a Janbogo/Ross Sea subnet DLC's recruitable companion. Both are supportable, since Janbogo survived the war damaged, not destroyed.
+- TODOs: Name and full identity not yet finalized in source project.
