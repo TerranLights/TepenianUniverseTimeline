@@ -5,8 +5,24 @@ Tracks open work across the Tepenian Universe Timeline repo. Check items off as 
 ## Character Backstories
 
 **Resolved 2026-07-12 (cross-referenced from InnerTepeniaGDD's own memory — see `reference_sibling_projects_and_this_repos_role.md` and related in this project's memory):**
-- ~~Calethina~~ — a real backstory design session happened. Degradation cause, a second embodiment path, and her construction/shipping origin are now in her README/Formative_History. No longer this repo's most urgent character gap.
 - ~~`TBN [FW-25 Pink Lucy]`'s migration route~~ — resolved to Dumont d'Urville → Janbogo (personality-match reasoning), not Casey. New open question in her Design Notes: whether she subsequently moved on to Concordia or stayed in Janbogo through the war — deliberately deferred, not blocking.
+
+### Calethina — foundational backstory is in, specific threads still open
+No longer this repo's most urgent character gap (a real backstory design session gave her a degradation cause, a second embodiment path, and a construction/shipping origin — see her README/Formative_History). But a full cross-subnet research pass (`Reference/Amundsen_Station_Archive_and_Trucking_Network.md`) turned up several specific, genuinely open threads — nothing below is locked in anywhere else in either repo, so each is real work, not just unmigrated content:
+- [ ] Her holographic, bodiless nature's fuller story — why/how she exists only as a projection, beyond the bare fact of it.
+- [ ] Her role in the Amundsen Tower evacuation — currently just asserted ("played a major role"), no specifics anywhere.
+- [ ] The *personal* side of her Planetary Split Brain connection — the Mountain Pass/chamber link is a confirmed supply-chain connection to the Tower's collapse, but her own degradation being tied to that same event is a separate, still-undeveloped narrative thread.
+- [ ] Ji-Eun Kim's ultimate fate — referenced via the ruined facility Calethina knows about, unresolved independently of Calethina's own arc.
+- [ ] Cancer and Capricorn district content doesn't reflect her lab at all, despite her lab sitting at the Cancer/Taurus/Capricorn corner (confirmed via the Concordia Ultra-Megasheet and Hub's own file).
+- [ ] **Her full construction/shipping chain, location by location** — seven confirmed stops (`Founding_Construction_Chain_UNMARKED.md` in InnerTepeniaGDD), checked one by one against each location's own city document during the research pass. Only one stop has any acknowledgment at all; the rest is a one-directional gap across the whole chain, not just two cities:
+  - [ ] **Mawson** (request/design work) — zero acknowledgment in Mawson's own document, despite her confirmed role there.
+  - [ ] **Neumayer** (Halley subnet — design work, confirmed 2026-07-12 as the specific city) — zero acknowledgment by name in Neumayer's own document, but a strong thematic fit worth developing: Neumayer's own established civic role is precision schematic/design work (it designed the Amundsen Tower itself, and per Lazar's own document, "the current-generation fabrication-synthesis chamber's schematic") — exactly the kind of design work her chain attributes to this stop.
+  - [ ] **Kunlun/Mirny** (engineering) — Kunlun's own document says nothing; the connection only surfaces indirectly via Soyuz's file and the Mirny Subnet Ultra-Megasheet (and that's the *lab chamber* thread, not this construction-chain stop specifically).
+  - [ ] **Byrd** (construction) — the one stop with a real acknowledgment: `Byrd_DLC_Enrichment_Possibilities.md` explicitly names "the Mountain Pass/Calethina's-lab connection" as established precedent.
+  - [ ] **Sejong/Palmer** (stress-testing) — zero acknowledgment in Sejong's own document.
+  - [ ] **Port Lockroy** (shipping route) — zero acknowledgment in Port Lockroy's own document.
+  - [ ] **Fort McMurdo** (the unexplained reroute) — no explicit textual mention, but a strong *inferred* motive exists: Fort McMurdo's own civic identity and capital-status legitimacy are tied to having built the Amundsen Tower's supporting infrastructure, which would give it real interest in or leverage over anything else routed near the Tower.
+  - [ ] **Amundsen-Scott Station** (final leg, through the Tower's own site) — zero acknowledgment in Amundsen Station's own Megasheet.
 
 ### Needs a backstory session
 - [ ] `TBN [TCY-25 smoldering darkness Rui]` — placed in Scorpio before any real backstory was worked out.
