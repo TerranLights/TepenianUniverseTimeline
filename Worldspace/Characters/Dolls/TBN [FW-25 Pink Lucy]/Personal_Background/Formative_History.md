@@ -1,0 +1,3 @@
+# TBN [FW-25 Pink Lucy] — Formative History
+
+Originally from Dumont d'Urville (Adélie Land, East Antarctica) — a Tepenia native. Before the Long Night War, she had already relocated from Dumont d'Urville to one of two possible intermediate cities: either Janbogo, or the city of Casey (reached via the Dumont Coast Highway). She did not flee directly from Dumont d'Urville to Concordia — she had already moved on before the war, either for opportunity or along a natural coastal migration route. The exact reason, and which city she actually relocated to, remain undetermined pending further lore development (particularly for Casey, which does not yet have established lore of its own).
