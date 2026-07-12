@@ -1,17 +1,11 @@
 ## TBN [XT-17 unorthodox science teacher Charlene] / "Charlene"
 
-**Type:**
-Doll
-**Role / Archetype:**
-Unorthodox science teacher and geneticist; discovered a cost-effective, reduced-mutation-rate genetics technique
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-(placeholder)
-**Primary Location(s) of Residence (if different):**
-Vostok, East Antarctic Plateau
-**Affiliation(s):**
-Vostok's Lake Vostok genetics research program; "The Fringe Curriculum" (her own independent teaching practice)
+- **Type:** Doll
+- **Role / Archetype:** Unorthodox science teacher and geneticist; discovered a cost-effective, reduced-mutation-rate genetics technique
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** (placeholder)
+- **Primary Location(s) of Residence (if different):** Vostok, East Antarctic Plateau
+- **Affiliation(s):** Vostok's Lake Vostok genetics research program; "The Fringe Curriculum" (her own independent teaching practice)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

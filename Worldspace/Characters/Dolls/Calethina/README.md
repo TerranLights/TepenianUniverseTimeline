@@ -1,17 +1,11 @@
 ## Calethina
 
-**Type:**
-AI / Holographic construct (no physical doll body — exists only as a holographic projection)
-**Role / Archetype:**
-Archive-narrator; robot-activation AI and remnant of pre-war/Long Night War infrastructure
-**Personal timeline/timeframe:**
-Predates the Long Night War; still present (and slowly degrading) in the current Tepenia/Concordia era
-**Place of origin:**
-Concordia — an Engineering & Activation Lab (Capricorn/Cancer district border)
-**Primary Location(s) of Residence (if different):**
-The same lab; she also projects throughout Concordia via the city's signal grid when it holds
-**Affiliation(s):**
-Concordia (independent AI; no faction alignment established)
+- **Type:** AI / Holographic construct (no physical doll body — exists only as a holographic projection)
+- **Role / Archetype:** Archive-narrator; robot-activation AI and remnant of pre-war/Long Night War infrastructure
+- **Personal timeline/timeframe:** Predates the Long Night War; still present (and slowly degrading) in the current Tepenia/Concordia era
+- **Place of origin:** Concordia — an Engineering & Activation Lab (Capricorn/Cancer district border)
+- **Primary Location(s) of Residence (if different):** The same lab; she also projects throughout Concordia via the city's signal grid when it holds
+- **Affiliation(s):** Concordia (independent AI; no faction alignment established)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

@@ -1,17 +1,11 @@
 ## TBN [FW-25 Pink Lucy] / "Pink Lucy"
 
-**Type:**
-Doll
-**Role / Archetype:**
-Morale-and-community organizer; anchor of an entertainment-district social circle
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Dumont d'Urville (Adélie Land, East Antarctica) — Tepenia native
-**Primary Location(s) of Residence (if different):**
-Concordia — fled there during the Long Night War, by way of one of two undetermined intermediate cities (see Design Notes & Open Questions)
-**Affiliation(s):**
-(placeholder — associated in source with an entertainment-focused social circle; exact affiliation TBD)
+- **Type:** Doll
+- **Role / Archetype:** Morale-and-community organizer; anchor of an entertainment-district social circle
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Dumont d'Urville (Adélie Land, East Antarctica) — Tepenia native
+- **Primary Location(s) of Residence (if different):** Concordia — fled there during the Long Night War, by way of one of two undetermined intermediate cities (see Design Notes & Open Questions)
+- **Affiliation(s):** (placeholder — associated in source with an entertainment-focused social circle; exact affiliation TBD)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

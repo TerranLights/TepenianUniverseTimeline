@@ -1,17 +1,11 @@
 ## Naizelle d'Edjordoś
 
-**Type:**
-Doll
-**Role / Archetype:**
-Pisces scavenger; hab compound homesteader; "society's edge" survivor
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Tepenia (home city destroyed in the Long Night War; specific city not yet established)
-**Primary Location(s) of Residence (if different):**
-Pisces (The Markets), Concordia
-**Affiliation(s):**
-Independent; anchors an informal hab-compound community of both robots and humans (no formal faction)
+- **Type:** Doll
+- **Role / Archetype:** Pisces scavenger; hab compound homesteader; "society's edge" survivor
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Tepenia (home city destroyed in the Long Night War; specific city not yet established)
+- **Primary Location(s) of Residence (if different):** Pisces (The Markets), Concordia
+- **Affiliation(s):** Independent; anchors an informal hab-compound community of both robots and humans (no formal faction)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

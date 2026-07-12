@@ -1,17 +1,11 @@
 ## TBN [TCY-25 smoldering darkness Rui] / "Rui"
 
-**Type:**
-Doll
-**Role / Archetype:**
-Scorpio transformation practitioner; smoldering-darkness contemplative
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-(placeholder)
-**Primary Location(s) of Residence (if different):**
-Scorpio (Psychological/Transformative district)
-**Affiliation(s):**
-Scorpio's transformation community; the philosophical wing of Goth subculture
+- **Type:** Doll
+- **Role / Archetype:** Scorpio transformation practitioner; smoldering-darkness contemplative
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** (placeholder)
+- **Primary Location(s) of Residence (if different):** Scorpio (Psychological/Transformative district)
+- **Affiliation(s):** Scorpio's transformation community; the philosophical wing of Goth subculture
 
 ## Core Identity
 **Enneagram / Personality Framework:**

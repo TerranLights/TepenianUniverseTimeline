@@ -1,17 +1,11 @@
 ## Nilda Faviola "Favi" della Torre / "Favi"
 
-**Type:**
-Doll
-**Role / Archetype:**
-Community security anchor; neighborhood intelligence keeper
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Italy
-**Primary Location(s) of Residence (if different):**
-Taurus (Residential district), Concordia
-**Affiliation(s):**
-Eyes of Gold (primary loyalty); Taurus neighborhood security network (operational — name TBD, "The Steady Watch" is a placeholder)
+- **Type:** Doll
+- **Role / Archetype:** Community security anchor; neighborhood intelligence keeper
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Italy
+- **Primary Location(s) of Residence (if different):** Taurus (Residential district), Concordia
+- **Affiliation(s):** Eyes of Gold (primary loyalty); Taurus neighborhood security network (operational — name TBD, "The Steady Watch" is a placeholder)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

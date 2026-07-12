@@ -1,17 +1,11 @@
 ## Ji-Eun Kim
 
-**Type:**
-Doll
-**Role / Archetype:**
-Master nanotech engineer; technical ally
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Unified Korea
-**Primary Location(s) of Residence (if different):**
-Aquarius (The Labs), Concordia — hidden within the district; her testing facility (now ruins) is her last known public address. Prior stops: Sejong (King George Island, Palmer Subnet) → Zhongshan (Larsemann Hills, Mirny Subnet) → Concordia.
-**Affiliation(s):**
-Eyes of Gold (friend and technical partner, not a member)
+- **Type:** Doll
+- **Role / Archetype:** Master nanotech engineer; technical ally
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Unified Korea
+- **Primary Location(s) of Residence (if different):** Aquarius (The Labs), Concordia — hidden within the district; her testing facility (now ruins) is her last known public address. Prior stops: Sejong (King George Island, Palmer Subnet) → Zhongshan (Larsemann Hills, Mirny Subnet) → Concordia.
+- **Affiliation(s):** Eyes of Gold (friend and technical partner, not a member)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

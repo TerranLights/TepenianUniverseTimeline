@@ -1,17 +1,11 @@
 ## Meyzan Yocazhda
 
-**Type:**
-Doll
-**Role / Archetype:**
-Achievement-driven professional; image-conscious operator
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-(placeholder)
-**Primary Location(s) of Residence (if different):**
-(placeholder — job/setting not yet established in source)
-**Affiliation(s):**
-(placeholder)
+- **Type:** Doll
+- **Role / Archetype:** Achievement-driven professional; image-conscious operator
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** (placeholder)
+- **Primary Location(s) of Residence (if different):** (placeholder — job/setting not yet established in source)
+- **Affiliation(s):** (placeholder)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

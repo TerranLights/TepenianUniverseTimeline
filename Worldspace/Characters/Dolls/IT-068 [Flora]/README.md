@@ -1,17 +1,11 @@
 ## IT-068 / "Flora" (placeholder name — permanent name TBD)
 
-**Type:**
-Doll
-**Role / Archetype:**
-Tradesrobot / Maintenance Specialist — field engineer and heavy repair worker
-**Personal timeline/timeframe:**
-XXXX (Activation Date TBD)
-**Place of origin:**
-TBD — Capricorn-area industrial background; built for heavy maintenance and emergency repair work
-**Primary Location(s) of Residence (if different):**
-Capricorn (TBN) district (home territory); frequently found at industrial sites such as Thermal Distribution Junction 12
-**Affiliation(s):**
-Independent maintenance crew (leads a small repair crew); Capricorn industrial maintenance network (informal)
+- **Type:** Doll
+- **Role / Archetype:** Tradesrobot / Maintenance Specialist — field engineer and heavy repair worker
+- **Personal timeline/timeframe:** XXXX (Activation Date TBD)
+- **Place of origin:** TBD — Capricorn-area industrial background; built for heavy maintenance and emergency repair work
+- **Primary Location(s) of Residence (if different):** Capricorn (TBN) district (home territory); frequently found at industrial sites such as Thermal Distribution Junction 12
+- **Affiliation(s):** Independent maintenance crew (leads a small repair crew); Capricorn industrial maintenance network (informal)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

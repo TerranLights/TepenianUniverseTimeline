@@ -1,17 +1,11 @@
 ## [Full Name] / “[Common Nickname / Callsign]”
 
-**Type:**
-(Doll / Human / other — physical or ontological classification)
-**Role / Archetype:**
-(archetype)
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-(placeholder)
-**Primary Location(s) of Residence (if different):**
-(placeholder)
-**Affiliation(s):**
-(affiliation/s)
+- **Type:** (Doll / Human / other — physical or ontological classification)
+- **Role / Archetype:** (archetype)
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** (placeholder)
+- **Primary Location(s) of Residence (if different):** (placeholder)
+- **Affiliation(s):** (affiliation/s)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

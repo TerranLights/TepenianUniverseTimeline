@@ -1,17 +1,11 @@
 ## Maggie Aarden
 
-**Type:**
-Gynoid
-**Role / Archetype:**
-Unwilling leader; industrial worker and artist; Falkland Treaty signatory
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Midwestland
-**Primary Location(s) of Residence (if different):**
-Currently settled in Byrd, post-exile. Prior locations: Midwestland / Colorado Republic (leading robot resettlement) → the city of Stanley, Falkland Islands (signing the Falkland Treaty) → Rothera (first post-exile settlement, tentative) → Byrd (permanent home, present day).
-**Affiliation(s):**
-(placeholder — no formal faction affiliation established; historically led an independent robot resettlement effort)
+- **Type:** Gynoid
+- **Role / Archetype:** Unwilling leader; industrial worker and artist; Falkland Treaty signatory
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Midwestland
+- **Primary Location(s) of Residence (if different):** Currently settled in Byrd, post-exile. Prior locations: Midwestland / Colorado Republic (leading robot resettlement) → the city of Stanley, Falkland Islands (signing the Falkland Treaty) → Rothera (first post-exile settlement, tentative) → Byrd (permanent home, present day).
+- **Affiliation(s):** (placeholder — no formal faction affiliation established; historically led an independent robot resettlement effort)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

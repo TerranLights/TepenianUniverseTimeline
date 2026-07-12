@@ -1,17 +1,11 @@
 ## Vosora Lashár Tanslock
 
-**Type:**
-Doll
-**Role / Archetype:**
-Data recovery specialist; investigator into suppressed/corrupted historical records
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Tepenia native; pre-war nomadic — no fixed hometown. Her allegiance was never to a place, always to the work.
-**Primary Location(s) of Residence (if different):**
-Concordia (Antarctica) — she happened to be there when the Long Night War began and has remained there ever since.
-**Affiliation(s):**
-The Long Frequency (data recovery wing); maintains ongoing communications with Tepenians who fled off-world.
+- **Type:** Doll
+- **Role / Archetype:** Data recovery specialist; investigator into suppressed/corrupted historical records
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Tepenia native; pre-war nomadic — no fixed hometown. Her allegiance was never to a place, always to the work.
+- **Primary Location(s) of Residence (if different):** Concordia (Antarctica) — she happened to be there when the Long Night War began and has remained there ever since.
+- **Affiliation(s):** The Long Frequency (data recovery wing); maintains ongoing communications with Tepenians who fled off-world.
 
 ## Core Identity
 **Enneagram / Personality Framework:**

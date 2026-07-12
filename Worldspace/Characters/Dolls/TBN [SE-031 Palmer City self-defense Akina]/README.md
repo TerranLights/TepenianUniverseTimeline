@@ -1,17 +1,11 @@
 ## TBN [SE-031 Palmer City self-defense Akina] / "Akina"
 
-**Type:**
-Doll
-**Role / Archetype:**
-(placeholder — not yet established in source beyond a warm, hospitality-oriented presence capable of sudden lethal self-defense)
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Tepenia (confirmed native-born, not an Upper-Earth-born robot) — exact origin city undecided; see Design Notes
-**Primary Location(s) of Residence (if different):**
-Tentatively Palmer City, working its nightlife/entertainment economy (per one of the origin-city candidates under consideration — see Design Notes)
-**Affiliation(s):**
-(placeholder)
+- **Type:** Doll
+- **Role / Archetype:** (placeholder — not yet established in source beyond a warm, hospitality-oriented presence capable of sudden lethal self-defense)
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Tepenia (confirmed native-born, not an Upper-Earth-born robot) — exact origin city undecided; see Design Notes
+- **Primary Location(s) of Residence (if different):** Tentatively Palmer City, working its nightlife/entertainment economy (per one of the origin-city candidates under consideration — see Design Notes)
+- **Affiliation(s):** (placeholder)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

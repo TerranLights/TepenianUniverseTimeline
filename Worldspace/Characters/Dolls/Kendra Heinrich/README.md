@@ -1,17 +1,11 @@
 ## Kendra Heinrich
 
-**Type:**
-Doll
-**Role / Archetype:**
-Robot workers' rights leader; war goddess; protector of the weak
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Upper Earth (exact origin TBD)
-**Primary Location(s) of Residence (if different):**
-Currently stranded at the South Pole, at what was once the base of Amundsen Tower (now a mountain of scrap). Home district (prior to being stranded): Capricorn, Concordia.
-**Affiliation(s):**
-The Reclaimed Record (Capricorn robot workers' rights movement)
+- **Type:** Doll
+- **Role / Archetype:** Robot workers' rights leader; war goddess; protector of the weak
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Upper Earth (exact origin TBD)
+- **Primary Location(s) of Residence (if different):** Currently stranded at the South Pole, at what was once the base of Amundsen Tower (now a mountain of scrap). Home district (prior to being stranded): Capricorn, Concordia.
+- **Affiliation(s):** The Reclaimed Record (Capricorn robot workers' rights movement)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

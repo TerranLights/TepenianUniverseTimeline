@@ -1,17 +1,11 @@
 ## TBN [XT-03 thicc Chinese Mei-Li] / "Mei-Li"
 
-**Type:**
-Doll
-**Role / Archetype:**
-Community anchor; chosen-family network organizer
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-(placeholder)
-**Primary Location(s) of Residence (if different):**
-(placeholder — tentatively associated with the Leo or Cancer districts, pending Enneagram-driven placement)
-**Affiliation(s):**
-The Found / The Assembled — a cross-district belonging network she helped build and now anchors
+- **Type:** Doll
+- **Role / Archetype:** Community anchor; chosen-family network organizer
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** (placeholder)
+- **Primary Location(s) of Residence (if different):** (placeholder — tentatively associated with the Leo or Cancer districts, pending Enneagram-driven placement)
+- **Affiliation(s):** The Found / The Assembled — a cross-district belonging network she helped build and now anchors
 
 ## Core Identity
 **Enneagram / Personality Framework:**

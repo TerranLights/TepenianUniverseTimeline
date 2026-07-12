@@ -1,17 +1,11 @@
 ## Mallory Dufay / "Mallory"
 
-**Type:**
-Robot (Android / Gynoid — TBD)
-**Role / Archetype:**
-Structural and safety inspector / orbital infrastructure pioneer
-**Personal timeline/timeframe:**
-XXXX (Activation Date: TBD)
-**Place of origin:**
-The CSA (Texas) — a post-2083-war North American nation. (Developer is considering renaming "The CSA" to "Dixieland" — not yet finalized.)
-**Primary Location(s) of Residence (if different):**
-Last known location: Texas, The CSA
-**Affiliation(s):**
-The CSA (Texas)
+- **Type:** Robot (Android / Gynoid — TBD)
+- **Role / Archetype:** Structural and safety inspector / orbital infrastructure pioneer
+- **Personal timeline/timeframe:** XXXX (Activation Date: TBD)
+- **Place of origin:** The CSA (Texas) — a post-2083-war North American nation. (Developer is considering renaming "The CSA" to "Dixieland" — not yet finalized.)
+- **Primary Location(s) of Residence (if different):** Last known location: Texas, The CSA
+- **Affiliation(s):** The CSA (Texas)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

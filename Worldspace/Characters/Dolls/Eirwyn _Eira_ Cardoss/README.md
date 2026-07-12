@@ -1,17 +1,11 @@
 ## Eirwyn Cardoss / "Eira"
 
-**Type:**
-Gynoid
-**Role / Archetype:**
-Iceblade assassin / covert enforcer for Tepenian robot-sovereignty interests
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-(placeholder)
-**Primary Location(s) of Residence (if different):**
-Currently M.I.A. — last known location South America (Upper Earth)
-**Affiliation(s):**
-Tepenia / the cause of robot sovereignty
+- **Type:** Gynoid
+- **Role / Archetype:** Iceblade assassin / covert enforcer for Tepenian robot-sovereignty interests
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** (placeholder)
+- **Primary Location(s) of Residence (if different):** Currently M.I.A. — last known location South America (Upper Earth)
+- **Affiliation(s):** Tepenia / the cause of robot sovereignty
 
 ## Core Identity
 **Enneagram / Personality Framework:**

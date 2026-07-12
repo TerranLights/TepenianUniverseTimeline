@@ -1,17 +1,11 @@
 ## Michelle Stanton / "Michelle"
 
-**Type:**
-Gynoid
-**Role / Archetype:**
-Data archaeologist / verification specialist; former Arcanet infrastructure builder
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Midwestland
-**Primary Location(s) of Residence (if different):**
-Gemini / Janbogo (Information district), Concordia
-**Affiliation(s):**
-The Long Frequency (a Janbogo slow-verification counter-movement)
+- **Type:** Gynoid
+- **Role / Archetype:** Data archaeologist / verification specialist; former Arcanet infrastructure builder
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Midwestland
+- **Primary Location(s) of Residence (if different):** Gemini / Janbogo (Information district), Concordia
+- **Affiliation(s):** The Long Frequency (a Janbogo slow-verification counter-movement)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

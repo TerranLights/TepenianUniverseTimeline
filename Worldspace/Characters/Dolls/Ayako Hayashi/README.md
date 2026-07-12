@@ -1,17 +1,11 @@
 ## Ayako Hayashi
 
-**Type:**
-Doll
-**Role / Archetype:**
-Base-of-operations medic; esteemed Red Spiral member (rank and specific role TBD; confirmed NOT the leader)
-**Personal timeline/timeframe:**
-Falkland Treaty exile generation (exiled June 21, 2564 under the blanket robot provision — not named individually, exiled because she is a robot)
-**Place of origin:**
-Japan
-**Primary Location(s) of Residence (if different):**
-Red Spiral base/clinic, Cancer district (Concordia) — relocated to Concordia during the Long Night War, unable to make the journey to the South Pole to take the Amundsen Tower into low-Earth orbit
-**Affiliation(s):**
-The Red Spiral (non-geographical faction; HQ in the Cancer district — the medical district of Concordia; operates across all districts)
+- **Type:** Doll
+- **Role / Archetype:** Base-of-operations medic; esteemed Red Spiral member (rank and specific role TBD; confirmed NOT the leader)
+- **Personal timeline/timeframe:** Falkland Treaty exile generation (exiled June 21, 2564 under the blanket robot provision — not named individually, exiled because she is a robot)
+- **Place of origin:** Japan
+- **Primary Location(s) of Residence (if different):** Red Spiral base/clinic, Cancer district (Concordia) — relocated to Concordia during the Long Night War, unable to make the journey to the South Pole to take the Amundsen Tower into low-Earth orbit
+- **Affiliation(s):** The Red Spiral (non-geographical faction; HQ in the Cancer district — the medical district of Concordia; operates across all districts)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

@@ -1,17 +1,11 @@
 ## Villena Hiresvett
 
-**Type:**
-Doll
-**Role / Archetype:**
-Rockabilly/Electroswing performer; Leo entertainer
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Belgrano (Tepenia native)
-**Primary Location(s) of Residence (if different):**
-Leo (Entertainment district), Concordia — previously Palmer City
-**Affiliation(s):**
-Independent; holds 2–3 regular venue residencies in Leo (names not yet established)
+- **Type:** Doll
+- **Role / Archetype:** Rockabilly/Electroswing performer; Leo entertainer
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Belgrano (Tepenia native)
+- **Primary Location(s) of Residence (if different):** Leo (Entertainment district), Concordia — previously Palmer City
+- **Affiliation(s):** Independent; holds 2–3 regular venue residencies in Leo (names not yet established)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

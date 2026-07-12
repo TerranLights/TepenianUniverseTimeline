@@ -1,17 +1,11 @@
 ## Hana Jinn / "Hana"
 
-**Type:**
-Gynoid
-**Role / Archetype:**
-Early robot researcher / orbital infrastructure pioneer — data analytics and metamaterials expert
-**Personal timeline/timeframe:**
-XXXX (Activation Date: TBD)
-**Place of origin:**
-U.R.U.K. (Underwater Research Union: Kappa), off Hawaii
-**Primary Location(s) of Residence (if different):**
-Later relocated to A.R.U.Ta.G. (Aerial Research Union: Tau Gamma); last known location A.R.U.Ta.G.
-**Affiliation(s):**
-Tepenian robot research community (pre-Falkland Treaty era)
+- **Type:** Gynoid
+- **Role / Archetype:** Early robot researcher / orbital infrastructure pioneer — data analytics and metamaterials expert
+- **Personal timeline/timeframe:** XXXX (Activation Date: TBD)
+- **Place of origin:** U.R.U.K. (Underwater Research Union: Kappa), off Hawaii
+- **Primary Location(s) of Residence (if different):** Later relocated to A.R.U.Ta.G. (Aerial Research Union: Tau Gamma); last known location A.R.U.Ta.G.
+- **Affiliation(s):** Tepenian robot research community (pre-Falkland Treaty era)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

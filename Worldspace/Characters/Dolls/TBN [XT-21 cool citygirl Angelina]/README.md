@@ -1,17 +1,11 @@
 ## TBN [XT-21 cool citygirl Angelina] / "Angelina"
 
-**Type:**
-Doll
-**Role / Archetype:**
-Hub-born free spirit; crossroads identity figurehead
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Hub (Axis Mundi)
-**Primary Location(s) of Residence (if different):**
-(placeholder)
-**Affiliation(s):**
-"The Crossroads Claim" — a Hub-born political identity movement
+- **Type:** Doll
+- **Role / Archetype:** Hub-born free spirit; crossroads identity figurehead
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Hub (Axis Mundi)
+- **Primary Location(s) of Residence (if different):** (placeholder)
+- **Affiliation(s):** "The Crossroads Claim" — a Hub-born political identity movement
 
 ## Core Identity
 **Enneagram / Personality Framework:**

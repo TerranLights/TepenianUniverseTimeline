@@ -1,17 +1,11 @@
 ## Zhuldyz Serikbolatkyzy / "Zhuldyz"
 
-**Type:**
-Gynoid
-**Role / Archetype:**
-Farm mechanic turned salvager; loyal, competent, expertise-driven
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Kazakhstan — built as a farm hand and assistant for the Serikbolat family
-**Primary Location(s) of Residence (if different):**
-Escaped to Antarctica (Tepenia) during the War of Upper Earth; currently alive, residing on Mars
-**Affiliation(s):**
-(placeholder — not established in source)
+- **Type:** Gynoid
+- **Role / Archetype:** Farm mechanic turned salvager; loyal, competent, expertise-driven
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Kazakhstan — built as a farm hand and assistant for the Serikbolat family
+- **Primary Location(s) of Residence (if different):** Escaped to Antarctica (Tepenia) during the War of Upper Earth; currently alive, residing on Mars
+- **Affiliation(s):** (placeholder — not established in source)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

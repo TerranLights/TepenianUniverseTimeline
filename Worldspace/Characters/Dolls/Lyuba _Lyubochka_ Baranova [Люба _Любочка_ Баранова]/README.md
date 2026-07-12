@@ -1,17 +1,11 @@
 ## Lyuba Baranova / "Lyubochka" (Люба "Любочка" Баранова)
 
-**Type:**
-Doll
-**Role / Archetype:**
-Silver-tongue; unarmed fighter; protector
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-East Intermaria (formerly West Russia)
-**Primary Location(s) of Residence (if different):**
-(placeholder)
-**Affiliation(s):**
-(placeholder — no faction affiliation established in source beyond her East Intermarian/Russian cultural background)
+- **Type:** Doll
+- **Role / Archetype:** Silver-tongue; unarmed fighter; protector
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** East Intermaria (formerly West Russia)
+- **Primary Location(s) of Residence (if different):** (placeholder)
+- **Affiliation(s):** (placeholder — no faction affiliation established in source beyond her East Intermarian/Russian cultural background)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

@@ -1,17 +1,11 @@
 ## Doris Morikawa / "Doris"
 
-**Type:**
-Gynoid
-**Role / Archetype:**
-Head Librarian; archivist and steward of pre-war human knowledge
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Hall of Archives, Sovereign Republic of Hawaii
-**Primary Location(s) of Residence (if different):**
-Hall of Archives, Sovereign Republic of Hawaii (last known location)
-**Affiliation(s):**
-Hall of Archives, Sovereign Republic of Hawaii — known to Tepenians as the Head Librarian responsible for pre-war knowledge preservation
+- **Type:** Gynoid
+- **Role / Archetype:** Head Librarian; archivist and steward of pre-war human knowledge
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Hall of Archives, Sovereign Republic of Hawaii
+- **Primary Location(s) of Residence (if different):** Hall of Archives, Sovereign Republic of Hawaii (last known location)
+- **Affiliation(s):** Hall of Archives, Sovereign Republic of Hawaii — known to Tepenians as the Head Librarian responsible for pre-war knowledge preservation
 
 ## Core Identity
 **Enneagram / Personality Framework:**

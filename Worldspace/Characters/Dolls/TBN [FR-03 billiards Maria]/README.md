@@ -1,17 +1,11 @@
 ## TBN [FR-03 billiards Maria] / "Maria"
 
-**Type:**
-Doll
-**Role / Archetype:**
-Billiards player / venue regular (undetermined beyond this)
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-(placeholder)
-**Primary Location(s) of Residence (if different):**
-(placeholder — associated with a billiards-table venue, exact district undetermined)
-**Affiliation(s):**
-(placeholder)
+- **Type:** Doll
+- **Role / Archetype:** Billiards player / venue regular (undetermined beyond this)
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** (placeholder)
+- **Primary Location(s) of Residence (if different):** (placeholder — associated with a billiards-table venue, exact district undetermined)
+- **Affiliation(s):** (placeholder)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

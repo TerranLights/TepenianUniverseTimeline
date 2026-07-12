@@ -1,17 +1,11 @@
 ## TBN [IT-021 white shirt Fenny] / "Fenny"
 
-**Type:**
-Doll
-**Role / Archetype:**
-Homebody; quiet private resident of a residential district
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-(placeholder)
-**Primary Location(s) of Residence (if different):**
-(placeholder — associated with a residential district)
-**Affiliation(s):**
-(placeholder — informally associated in source with a residential community-care network; exact affiliation TBD)
+- **Type:** Doll
+- **Role / Archetype:** Homebody; quiet private resident of a residential district
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** (placeholder)
+- **Primary Location(s) of Residence (if different):** (placeholder — associated with a residential district)
+- **Affiliation(s):** (placeholder — informally associated in source with a residential community-care network; exact affiliation TBD)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

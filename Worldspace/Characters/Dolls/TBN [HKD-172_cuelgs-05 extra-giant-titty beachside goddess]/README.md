@@ -1,17 +1,11 @@
 ## TBN [HKD-172_cuelgs-05 extra-giant-titty beachside goddess] / "[Common Nickname / Callsign]"
 
-**Type:**
-Doll
-**Role / Archetype:**
-(placeholder)
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-(placeholder)
-**Primary Location(s) of Residence (if different):**
-(placeholder)
-**Affiliation(s):**
-(placeholder)
+- **Type:** Doll
+- **Role / Archetype:** (placeholder)
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** (placeholder)
+- **Primary Location(s) of Residence (if different):** (placeholder)
+- **Affiliation(s):** (placeholder)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

@@ -1,17 +1,11 @@
 ## TBN [TCY-42 ravishing extravagant Lillian] / "Lillian"
 
-**Type:**
-Doll
-**Role / Archetype:**
-Leo performer; representative of a rival (legacy) performance house in the Leo district's "Star War" political history
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-(placeholder)
-**Primary Location(s) of Residence (if different):**
-Leo (Entertainment district)
-**Affiliation(s):**
-Leo's Star War — legacy (losing) performance house, still contesting prestige through art
+- **Type:** Doll
+- **Role / Archetype:** Leo performer; representative of a rival (legacy) performance house in the Leo district's "Star War" political history
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** (placeholder)
+- **Primary Location(s) of Residence (if different):** Leo (Entertainment district)
+- **Affiliation(s):** Leo's Star War — legacy (losing) performance house, still contesting prestige through art
 
 ## Core Identity
 **Enneagram / Personality Framework:**

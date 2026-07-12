@@ -1,17 +1,11 @@
 ## Majyao Bisyugota
 
-**Type:**
-Doll
-**Role / Archetype:**
-Taurus teahouse keeper; sanctuary for the weary
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Janbogo
-**Primary Location(s) of Residence (if different):**
-Concordia (Taurus district)
-**Affiliation(s):**
-Independent; neutral community institution — not affiliated with any faction
+- **Type:** Doll
+- **Role / Archetype:** Taurus teahouse keeper; sanctuary for the weary
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Janbogo
+- **Primary Location(s) of Residence (if different):** Concordia (Taurus district)
+- **Affiliation(s):** Independent; neutral community institution — not affiliated with any faction
 
 ## Core Identity
 **Enneagram / Personality Framework:**

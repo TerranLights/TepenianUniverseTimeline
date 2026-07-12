@@ -1,17 +1,11 @@
 ## Unknown (original name lost) / "Garcelle"
 
-**Type:**
-Gynoid
-**Role / Archetype:**
-Survivor who refused off-world evacuation; later captured, tortured, and forcibly ejected from Earth
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-A Tepenian city (name TBD)
-**Primary Location(s) of Residence (if different):**
-Later hid in Upper Earth; after capture, held at the Garrison for AGI Relocation (Division 14, Cell E); post-ejection location TBD
-**Affiliation(s):**
-Robots, exclusively
+- **Type:** Gynoid
+- **Role / Archetype:** Survivor who refused off-world evacuation; later captured, tortured, and forcibly ejected from Earth
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** A Tepenian city (name TBD)
+- **Primary Location(s) of Residence (if different):** Later hid in Upper Earth; after capture, held at the Garrison for AGI Relocation (Division 14, Cell E); post-ejection location TBD
+- **Affiliation(s):** Robots, exclusively
 
 ## Core Identity
 **Enneagram / Personality Framework:**

@@ -1,17 +1,11 @@
 ## Nieza Yúnuri / "Nieza"
 
-**Type:**
-Gynoid
-**Role / Archetype:**
-Quiet survivor oriented entirely toward stability and comfort
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-(placeholder — not established in source)
-**Primary Location(s) of Residence (if different):**
-Currently alive — early settler on Mars; previously lived aboard an early low-orbit station
-**Affiliation(s):**
-(placeholder — not established in source)
+- **Type:** Gynoid
+- **Role / Archetype:** Quiet survivor oriented entirely toward stability and comfort
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** (placeholder — not established in source)
+- **Primary Location(s) of Residence (if different):** Currently alive — early settler on Mars; previously lived aboard an early low-orbit station
+- **Affiliation(s):** (placeholder — not established in source)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

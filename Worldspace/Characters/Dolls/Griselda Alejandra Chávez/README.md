@@ -1,17 +1,11 @@
 ## Griselda Alejandra Chávez / "Griselda"
 
-**Type:**
-Gynoid
-**Role / Archetype:**
-Blacksmith-turned-instrument-maker-turned-salvager; quietly essential craftsperson
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Republic of Sonora (Arizona desert region, post-2083-war "New North America") — built as a blacksmith
-**Primary Location(s) of Residence (if different):**
-Worked and resided in Belgrano (Halley subnet, Tepenia) before the Long Night War; currently alive and residing on Deimos (moon of Mars)
-**Affiliation(s):**
-None established beyond her trade and craft; known to a modest few — specifically Palmer City survivors now living in Concordia
+- **Type:** Gynoid
+- **Role / Archetype:** Blacksmith-turned-instrument-maker-turned-salvager; quietly essential craftsperson
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Republic of Sonora (Arizona desert region, post-2083-war "New North America") — built as a blacksmith
+- **Primary Location(s) of Residence (if different):** Worked and resided in Belgrano (Halley subnet, Tepenia) before the Long Night War; currently alive and residing on Deimos (moon of Mars)
+- **Affiliation(s):** None established beyond her trade and craft; known to a modest few — specifically Palmer City survivors now living in Concordia
 
 ## Core Identity
 **Enneagram / Personality Framework:**

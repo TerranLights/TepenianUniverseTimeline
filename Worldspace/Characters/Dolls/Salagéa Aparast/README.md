@@ -1,17 +1,11 @@
 ## Salagéa Aparast
 
-**Type:**
-Doll
-**Role / Archetype:**
-Datashard courier; civilizational archivist
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Belgrano (Tepenia native)
-**Primary Location(s) of Residence (if different):**
-Atlantic Coastal Region, near Belgrano (Halley Subnet) — lives aboard a boat she sails herself; an active, present-day courier. She is not settled in Concordia and does not appear there.
-**Affiliation(s):**
-Independent (no formal faction — her courier network is informal and self-directed)
+- **Type:** Doll
+- **Role / Archetype:** Datashard courier; civilizational archivist
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Belgrano (Tepenia native)
+- **Primary Location(s) of Residence (if different):** Atlantic Coastal Region, near Belgrano (Halley Subnet) — lives aboard a boat she sails herself; an active, present-day courier. She is not settled in Concordia and does not appear there.
+- **Affiliation(s):** Independent (no formal faction — her courier network is informal and self-directed)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

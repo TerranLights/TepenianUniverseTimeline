@@ -1,17 +1,11 @@
 ## TBN [TCY-20 unimpressed bartender Miranda] / "Miranda"
 
-**Type:**
-Doll
-**Role / Archetype:**
-Hub bartender; crossroads witness; internalized moral standard
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-(placeholder)
-**Primary Location(s) of Residence (if different):**
-Hub (Axis Mundi) — a crossroads bar
-**Affiliation(s):**
-The Quiet Shift (a night-workers ethic; preliminary faction candidate)
+- **Type:** Doll
+- **Role / Archetype:** Hub bartender; crossroads witness; internalized moral standard
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** (placeholder)
+- **Primary Location(s) of Residence (if different):** Hub (Axis Mundi) — a crossroads bar
+- **Affiliation(s):** The Quiet Shift (a night-workers ethic; preliminary faction candidate)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

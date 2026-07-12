@@ -1,17 +1,11 @@
 ## TBN [TCY-06 red-dress Palmer City Elva] / "Elva"
 
-**Type:**
-Doll
-**Role / Archetype:**
-Leo performer; representative of an established performance house in the Leo district's "Star War" political history
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-(placeholder)
-**Primary Location(s) of Residence (if different):**
-Leo (Entertainment district)
-**Affiliation(s):**
-Leo's Star War — established (winning) performance house
+- **Type:** Doll
+- **Role / Archetype:** Leo performer; representative of an established performance house in the Leo district's "Star War" political history
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** (placeholder)
+- **Primary Location(s) of Residence (if different):** Leo (Entertainment district)
+- **Affiliation(s):** Leo's Star War — established (winning) performance house
 
 ## Core Identity
 **Enneagram / Personality Framework:**

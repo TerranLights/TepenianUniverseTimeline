@@ -1,17 +1,11 @@
 ## Trisha Miller
 
-**Type:**
-Doll
-**Role / Archetype:**
-Community radio DJ; Taurus neighborhood institution
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Midwestland
-**Primary Location(s) of Residence (if different):**
-Taurus (residential district), Concordia — previously Belgrano
-**Affiliation(s):**
-Independent community voice; The Signal (radio station)
+- **Type:** Doll
+- **Role / Archetype:** Community radio DJ; Taurus neighborhood institution
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Midwestland
+- **Primary Location(s) of Residence (if different):** Taurus (residential district), Concordia — previously Belgrano
+- **Affiliation(s):** Independent community voice; The Signal (radio station)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

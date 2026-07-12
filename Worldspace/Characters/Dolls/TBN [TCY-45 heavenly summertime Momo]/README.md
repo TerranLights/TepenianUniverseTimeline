@@ -1,17 +1,11 @@
 ## TBN [TCY-45 heavenly summertime Momo] / "Momo"
 
-**Type:**
-Doll
-**Role / Archetype:**
-TBD — aesthetic suggests a warm, gentle, radiant presence
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-(placeholder)
-**Primary Location(s) of Residence (if different):**
-(placeholder — tentatively associated with the Cancer or Leo districts, pending Enneagram assignment)
-**Affiliation(s):**
-(placeholder)
+- **Type:** Doll
+- **Role / Archetype:** TBD — aesthetic suggests a warm, gentle, radiant presence
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** (placeholder)
+- **Primary Location(s) of Residence (if different):** (placeholder — tentatively associated with the Cancer or Leo districts, pending Enneagram assignment)
+- **Affiliation(s):** (placeholder)
 
 ## Core Identity
 **Enneagram / Personality Framework:**

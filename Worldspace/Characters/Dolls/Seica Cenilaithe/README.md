@@ -1,17 +1,11 @@
 ## Seica Cenilaithe
 
-**Type:**
-Doll
-**Role / Archetype:**
-Goth community member; artist; spiritual practitioner
-**Personal timeline/timeframe:**
-XXXX
-**Place of origin:**
-Tepenia
-**Primary Location(s) of Residence (if different):**
-Scorpio (Psychological/Transformative district), Concordia
-**Affiliation(s):**
-Scorpio Goth community (sacred-transformation tradition, not the clinical side)
+- **Type:** Doll
+- **Role / Archetype:** Goth community member; artist; spiritual practitioner
+- **Personal timeline/timeframe:** XXXX
+- **Place of origin:** Tepenia
+- **Primary Location(s) of Residence (if different):** Scorpio (Psychological/Transformative district), Concordia
+- **Affiliation(s):** Scorpio Goth community (sacred-transformation tradition, not the clinical side)
 
 ## Core Identity
 **Enneagram / Personality Framework:**
