@@ -6,27 +6,35 @@
 - **Place of origin:** (placeholder)
 - **Primary Location(s) of Residence (if different):** Hub (Axis Mundi) — a crossroads bar
 - **Affiliation(s):** The Quiet Shift (a night-workers ethic; preliminary faction candidate)
+- **Original Doll Model:**
+- **Original Doll Manufacturer:**
+- **Original Doll Website Catalog Page (if applicable):**
 
 ## Core Identity
 **Enneagram / Personality Framework:**
 - Type: 1w9 (The Reformer with wing 9 / The Peacemaker)
-- Subvariant: Self-Preservational
+- Instinctual Variant: Self-Preservational-dominant (full stacking order TBD)
 - Major Theme: Instinctive
 - Hornevian Group: Compliant
 - Harmonic Group: Competency
 
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
+**Weakness (fundamental flaw):** TBD
+**Goal (broad-scale desire):** TBD
+
 ## Visual Description
 Blonde, long wavy hair. Grey-blue eyes. Her defining look is a hot pink/fuchsia sequined bodysuit — sparkle-heavy across the chest — with matching long pink satin sleeves trimmed with pink feather cuffs, a diamond choker, hands on hips. The outfit is maximalist, showgirl-adjacent. Her expression is zero-affect — flat, direct, completely disengaged from the performance her clothes are doing. She reads as someone who performs a role precisely because the role has clear standards, and who has been doing it long enough that the performance and the self no longer need to touch; the "unimpressed" quality is a structural condition, not an affect. (Reference files in `Reference_Images/` folder — Miranda series.)
 
 ## Personality & Voice
+- Brief Personality Summary (abbreviated): TBD
 - Character summary: Applies deeply internalized standards without announcement — she serves everyone regardless of whether they meet her standard, but she notices when they don't. Not cynical; simply unmoved after long enough watching people pass through.
 - Speech patterns / quirks / recurring phrases: (placeholder)
 - Behavior under stress: (placeholder)
 - Moral tendencies: Holds herself and others to a quiet, consistent internal standard; keeps her private judgments to herself unless someone proves they can actually hear the truth.
 
 ## Backstory Summary
+- Brief Backstory Summary (abbreviated): TBD
 (placeholder — not yet developed in source project beyond her established role and personality baseline above)
 
 ## Role in Main Story / World

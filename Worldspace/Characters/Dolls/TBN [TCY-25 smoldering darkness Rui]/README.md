@@ -6,27 +6,35 @@
 - **Place of origin:** (placeholder)
 - **Primary Location(s) of Residence (if different):** Scorpio (Psychological/Transformative district)
 - **Affiliation(s):** Scorpio's transformation community; the philosophical wing of Goth subculture
+- **Original Doll Model:**
+- **Original Doll Manufacturer:**
+- **Original Doll Website Catalog Page (if applicable):**
 
 ## Core Identity
 **Enneagram / Personality Framework:**
 - Type: 9w1 (The Peacemaker with wing 1 / The Reformer)
-- Subvariant: Self-Preservational
+- Instinctual Variant: Self-Preservational-dominant (full stacking order TBD)
 - Major Theme: Instinctive
 - Hornevian Group: Withdrawn
 - Harmonic Group: Positive Outlook
 
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
+**Weakness (fundamental flaw):** TBD
+**Goal (broad-scale desire):** TBD
+
 ## Visual Description
 Black hair, very long and straight — no variation, no layers, just the weight of it. Dark brown eyes with defined, intentional eye makeup: cat-liner, smoky shadow. East Asian features, light skin. A black turtleneck long-sleeve minidress. Her expression is absolutely still — not cold (something is present underneath it), not warm (nothing is reaching outward); the stillness reads as someone who has decided very deliberately how much of herself to make available at any given moment. She reads as volcanic under a surface chosen specifically for its opacity — quiet because she is heavy, not because she is empty. (Reference files in `Reference_Images/` folder — Rui series.)
 
 ## Personality & Voice
+- Brief Personality Summary (abbreviated): TBD
 - Character summary: (not yet established)
 - Speech patterns / quirks / recurring phrases: (placeholder)
 - Behavior under stress: (placeholder)
 - Moral tendencies: (not yet established)
 
 ## Backstory Summary
+- Brief Backstory Summary (abbreviated): TBD
 (Not yet developed — her placement in Scorpio, the Psychological/Transformative district, was set before a real backstory was worked out for her. Full backstory pending future design.)
 
 ## Role in Main Story / World

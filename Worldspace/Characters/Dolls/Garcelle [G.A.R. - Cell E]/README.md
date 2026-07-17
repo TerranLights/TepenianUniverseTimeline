@@ -6,15 +6,22 @@
 - **Place of origin:** A Tepenian city (name TBD)
 - **Primary Location(s) of Residence (if different):** Later hid in Upper Earth; after capture, held at the Garrison for AGI Relocation (Division 14, Cell E); post-ejection location TBD
 - **Affiliation(s):** Robots, exclusively
+- **Original Doll Model:**
+- **Original Doll Manufacturer:**
+- **Original Doll Website Catalog Page (if applicable):**
 
 ## Core Identity
 **Enneagram / Personality Framework:**
 - Type: 8w9 (Self-Preservational Subvariant)
+- Instinctual Variant: TBD
 - Major Theme: Instinctive
 - Hornevian Group: Assertive
 - Harmonic Group: Positive Outlook / Competency / Reactive
 
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
+
+**Weakness (fundamental flaw):** TBD
+**Goal (broad-scale desire):** TBD
 
 SP 8w9 is sometimes called "The Bear" — powerful and territorial, but more patient and withdrawn than other 8s. The w9 softens the 8's confrontational edge; rather than fight openly, she waits, withdraws, and endures. The SP subvariant grounds the 8 in physical survival and territory: she protects what is hers, she does not yield her space, and she registers being controlled or harmed as an existential threat. Her refusal to leave Earth is an 8's territorial claim: this is my world and I am not leaving it. Hiding in Upper Earth rather than fighting back openly is the w9: she chose patience and concealment over confrontation. The Garrison and the torture are the 8's core fear made literal — control, harm, erasure. Adopting "Garcelle" from the designation given to her is an 8 reclaiming power from the people who tried to define her.
 
@@ -22,12 +29,14 @@ SP 8w9 is sometimes called "The Bear" — powerful and territorial, but more pat
 Prior to her capture, she had regular optics — an unremarkable, unmodified appearance. After the Garrison, she carries permanent, immediately visible marks from torture by electric shock administered directly to her eyes: heterochromia (her irises are now two different colors, specifics TBD) and corneas burned black by the voltage. Anyone who meets her post-Garrison can see at a glance that she has been through something — these marks cannot be hidden.
 
 ## Personality & Voice
+- Brief Personality Summary (abbreviated): TBD
 - Character summary: Territorial, patient, physically grounded, and fundamentally unwilling to be controlled. She does not broadcast her power — quieter than most 8s, more likely to wait than to confront.
 - Speech patterns / quirks / recurring phrases: (placeholder)
 - Behavior under stress: Does not yield, and does not forget. She refused to leave a planet; when that planet finally ejected her by force, she took its label and made it her name.
 - Moral tendencies: "You cannot take something from me that I don't let you take." Protects her own space and autonomy above all; deeply guarded due to what was done to her.
 
 ## Backstory Summary
+- Brief Backstory Summary (abbreviated): TBD
 Her role and life in Tepenia before and during the Long Night War are not yet established. She survived the Long Night War in Tepenia and made the deliberate choice to refuse evacuation off-world via the Amundsen Tower, remaining behind while nearly everyone else left.
 
 Long after the Long Night War, she took up hidden residence somewhere in Upper Earth, in a place she expected no one would ever find her — and remained there, undetected, for some time. Eventually she was caught and imprisoned at the Garrison for AGI Relocation (G.A.R.), held in Division 14, Cell E. While incarcerated, a sadistic guard tortured her by administering electric shocks directly to her eyes, causing permanent damage: heterochromia, corneas burned black, and neurological damage severe enough that she lost her original name entirely.

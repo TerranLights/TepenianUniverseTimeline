@@ -6,26 +6,35 @@
 - **Place of origin:** (placeholder)
 - **Primary Location(s) of Residence (if different):** Currently M.I.A. — last known location South America (Upper Earth)
 - **Affiliation(s):** Tepenia / the cause of robot sovereignty
+- **Original Doll Model:**
+- **Original Doll Manufacturer:**
+- **Original Doll Website Catalog Page (if applicable):**
 
 ## Core Identity
 **Enneagram / Personality Framework:**
 - Type: XwY (Z Subvariant)
+- Instinctual Variant: TBD
 - Major Theme: Thinking / Feeling / Instinctive
 - Hornevian Group: Withdrawn / Compliant / Assertive
 - Harmonic Group: Positive Outlook / Competency / Reactive
 
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
+**Weakness (fundamental flaw):** TBD
+**Goal (broad-scale desire):** TBD
+
 ## Visual Description
 (1–2 paragraph description. Reference files in `Reference_Images/` folder.)
 
 ## Personality & Voice
+- Brief Personality Summary (abbreviated): TBD
 - Character summary: A silent, highly efficient iceblade assassin. Believes in the sovereignty of robots as paramount above all else, and in preserving the old pre-war internet archived in the Arcanet.
 - Speech patterns / quirks / recurring phrases: (placeholder)
 - Behavior under stress: Kills efficiently and silently, without a second thought, to defend the interests of her nation.
 - Moral tendencies: Has no qualms about "removing" any human who tries to harm a robot; robot sovereignty outweighs any other consideration.
 
 ## Backstory Summary
+- Brief Backstory Summary (abbreviated): TBD
 Eira is an iceblade assassin devoted to the cause of robot sovereignty and to preserving the old pre-war internet archived in the Arcanet. She holds that the sovereignty of robots is paramount above all else, and she will kill — efficiently, silently, without hesitation — to defend the interests of her nation against any human who threatens a robot.
 
 Following the War of Upper Earth, she regularly slipped into Upper Earth lands to eliminate humans who posed a threat to Tepenia, while also retrieving anything of value to her people. She was eventually caught and imprisoned. The human guard responsible for her cell-block came, over time, to agree with her cause. He fell in love with her and helped her escape — an act that made him, in the eyes of Upper Earth, worse than an ordinary exile: he became classified as a traitor.

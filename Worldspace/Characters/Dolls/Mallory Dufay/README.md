@@ -6,26 +6,35 @@
 - **Place of origin:** The CSA (Texas) — a post-2083-war North American nation. (Developer is considering renaming "The CSA" to "Dixieland" — not yet finalized.)
 - **Primary Location(s) of Residence (if different):** Last known location: Texas, The CSA
 - **Affiliation(s):** The CSA (Texas)
+- **Original Doll Model:**
+- **Original Doll Manufacturer:**
+- **Original Doll Website Catalog Page (if applicable):**
 
 ## Core Identity
 **Enneagram / Personality Framework:**
 - Type: XwY (Z Subvariant)
+- Instinctual Variant: TBD
 - Major Theme: Thinking / Feeling / Instinctive
 - Hornevian Group: Withdrawn / Compliant / Assertive
 - Harmonic Group: Positive Outlook / Competency / Reactive
 
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
+**Weakness (fundamental flaw):** TBD
+**Goal (broad-scale desire):** TBD
+
 ## Visual Description
 (1–2 paragraph description. Reference files in `Reference_Images/` folder.)
 
 ## Personality & Voice
+- Brief Personality Summary (abbreviated): TBD
 - Character summary: (placeholder — not established in source)
 - Speech patterns / quirks / recurring phrases: (placeholder)
 - Behavior under stress: (placeholder)
 - Moral tendencies: (placeholder)
 
 ## Backstory Summary
+- Brief Backstory Summary (abbreviated): TBD
 Mallory Dufay was a structural and safety inspector based in Texas, in The CSA. Her job was to ensure nobody died in space — specifically, to prevent deaths from structural hazards or other preventable orbital workplace hazards — and she oversaw the first launches and construction of orbital infrastructure without any doubt; that was her job specifically.
 
 Her active career is placed closer to the mid-2300s, during the period when Hana Jinn's earlier metamaterials/mass driver research (theoretical, conducted at A.R.U.Ta.G. shortly after the April 27, 2318 Jeju-do ruling) was translated into actual built, operational orbital infrastructure. Hana did research and analytics only; Mallory's work represents the point where the tangible results — real launches, real structures, real orbital workplaces — started arriving and needed safety oversight.

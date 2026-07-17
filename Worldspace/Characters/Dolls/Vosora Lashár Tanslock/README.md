@@ -6,16 +6,22 @@
 - **Place of origin:** Tepenia native; pre-war nomadic — no fixed hometown. Her allegiance was never to a place, always to the work.
 - **Primary Location(s) of Residence (if different):** Concordia (Antarctica) — she happened to be there when the Long Night War began and has remained there ever since.
 - **Affiliation(s):** The Long Frequency (data recovery wing); maintains ongoing communications with Tepenians who fled off-world.
+- **Original Doll Model:**
+- **Original Doll Manufacturer:**
+- **Original Doll Website Catalog Page (if applicable):**
 
 ## Core Identity
 **Enneagram / Personality Framework:**
 - Type: 5w6 (The Investigator / The Loyalist)
-- Subvariant: Social
+- Instinctual Variant: Social-dominant (full stacking order TBD)
 - Major Theme: (not specified in source)
 - Hornevian Group: Withdrawn
 - Harmonic Group: Competency
 
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
+
+**Weakness (fundamental flaw):** TBD
+**Goal (broad-scale desire):** TBD
 
 ## Visual Description
 Auburn-to-strawberry-red hair, long and wavy with a straight fringe. Amber-brown eyes behind black rectangular-frame glasses. Medium build. Reference material shows her in a black pinstripe blazer (worn open, dark bra visible underneath), often seated at a dark wood desk with a coffee cup and books nearby; feather drop earrings and a long silver chain necklace. Her expression is consistently neutral — measuring whoever she's looking at without offering anything in return.
@@ -23,12 +29,14 @@ Auburn-to-strawberry-red hair, long and wavy with a straight fringe. Amber-brown
 A second reference context shows her working calmly inside a ruined communications control room — sparking consoles, exposed wiring, warning lights — hand reaching into live equipment without hesitation, expression unchanged from the calmer setting. She reads as someone who specifically does not change expression when the situation changes; a crisis is simply more information to process. (See `Reference_Images/` folder.)
 
 ## Personality & Voice
+- Brief Personality Summary (abbreviated): TBD
 - Character summary: Precise, patient, and difficult to read until she has decided someone is worth reading. She does not perform warmth, but she is not cold — she withholds until trust is established, and once it is, she is genuinely and surprisingly loyal. She manages the world by understanding it first and acting second, and she is rarely wrong about how a system works.
 - Speech patterns / quirks / recurring phrases: Precise — she would never use three words when one will do. Frames problems structurally ("this is an error in how it was built," not "this is bad"). Asks questions more often than she makes assertions when she doesn't already know an answer. Rarely initiates conversation about feelings, but responds thoughtfully when asked directly.
 - Behavior under stress: She does not escalate under pressure — she narrows, becoming quieter and more precise, shrinking the perimeter of what she has to manage until she can handle what's left. This reads as calm but is functionally a defense pattern.
 - Moral tendencies: She follows the truth regardless of where it leads, but thinks carefully and without sentimentality about what to do with it once she has it. She is pragmatic rather than idealistic about what truth can actually accomplish, and she feels — privately — the weight of holding dangerous knowledge.
 
 ## Backstory Summary
+- Brief Backstory Summary (abbreviated): TBD
 Vosora is a Tepenia native who spent her pre-war life without a fixed hometown, traveling throughout Tepenia to help cities manage their data — organizing information, keeping records orderly, and building the chains of command and supply that let specialists find what they needed to do their work. Her field is what she calls "the science of logistics": not science in the traditional sense, but the discipline of making complex systems function by ensuring every part can find what it needs. Her largest pre-war undertaking was organizing the logistics, data supply chains, and command structures for the planning and construction of Amundsen Tower.
 
 She happened to be in Concordia when the Long Night War began and was unable to leave; she has remained there ever since. Since the war, she has maintained communication with Tepenians who escaped off-world, transmitting data signals containing schematics, records, and whatever the space-dwelling community needs.

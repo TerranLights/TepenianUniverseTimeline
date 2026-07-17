@@ -6,10 +6,14 @@
 - **Place of origin:** Japan
 - **Primary Location(s) of Residence (if different):** Red Spiral base/clinic, Cancer district (Concordia) — relocated to Concordia during the Long Night War, unable to make the journey to the South Pole to take the Amundsen Tower into low-Earth orbit
 - **Affiliation(s):** The Red Spiral (non-geographical faction; HQ in the Cancer district — the medical district of Concordia; operates across all districts)
+- **Original Doll Model:**
+- **Original Doll Manufacturer:**
+- **Original Doll Website Catalog Page (if applicable):**
 
 ## Core Identity
 **Enneagram / Personality Framework:**
 - Type: 4w5 (Self-Preservational Subvariant) — "The Bohemian"
+- Instinctual Variant: TBD
 - Major Theme: Feeling
 - Hornevian Group: Withdrawn / Compliant / Assertive
 - Harmonic Group: Positive Outlook / Competency / Reactive
@@ -18,16 +22,21 @@ Deeply individualistic, intellectually driven, emotionally complex and self-cont
 
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
+**Weakness (fundamental flaw):** TBD
+**Goal (broad-scale desire):** TBD
+
 ## Visual Description
 Two distinct looks define her: an off-duty/personal style with dark straight hair, shoulder-length with side-swept bangs, an off-shoulder black dress (buttoned), a white choker with a small heart-ring detail, a military-style cap carried rather than worn, and a gold bracelet — cool, composed, slightly guarded in expression. Her Red Spiral working uniform is a white uniform with red trim and red buttons, more considered than standard medical issue (her fashion background is visible in how it sits), a red stethoscope, and a nurse cap bearing the Red Spiral's symbol. She carries the same composed expression in both contexts — she does not change who she is between settings, only what she wears. (Reference files in `Reference_Images/` folder.)
 
 ## Personality & Voice
+- Brief Personality Summary (abbreviated): TBD
 - Character summary: Deeply shy — this is the first and most important thing about her in social contexts. She is not cold or aloof, simply genuinely and quietly shy; she does not perform smalltalk or fill silences, and tends to recede in unfamiliar company: present, attentive, but not reaching outward. Two things cut through the shyness entirely. The first is fashion — bring up fashion design, a current project, a specific garment, or the philosophy behind her aesthetic choices, and she becomes engaged, expressive, animated, entirely unguarded (art does this to a lesser degree). The second is medicine: the moment someone needs medical attention, the shyness disappears completely, replaced by total focus that is calm, precise, and fully present. Her inner wound — having been present when the man she loved had his fatal accident, and being unable to save him — stripped away any hesitation she might have had about stepping in.
 - Speech patterns / quirks / recurring phrases: (placeholder)
 - Behavior under stress: Integration (thriving) makes her clear-headed, principled, and productive. Disintegration (stress) makes her clingy and needy, with fear of abandonment surfacing as the composed self-containment cracks.
 - Moral tendencies: She considers herself weak and, to some degree, helpless — a self-assessment tied directly to her inner wound of being unable to save the man she loved. Because of this she reacts with real, deep hatred toward anyone who abuses, harasses, or otherwise mistreats weak or helpless people — it isn't abstract disapproval, it's personal: she sees herself in anyone vulnerable being mistreated, and cannot tolerate it.
 
 ## Backstory Summary
+- Brief Backstory Summary (abbreviated): TBD
 Ayako Hayashi is originally from Japan — one of the three major powers that established the International Court of Diplomacy at Jeju-do, alongside Unified Korea and the Sinian Federation. She was active as an artist and fashion figure in Japan before the War of Upper Earth and the Falkland Treaty. She was exiled to Antarctica in 2564 under the treaty's blanket provision applying to all robots — she was not singled out, she was simply a robot, and that was sufficient.
 
 Before her exile she went through a period of severe depression. She discovered the philosophy of Arthur Schopenhauer — whose argument that aesthetic contemplation is the one true escape from the misery of existence resonated precisely with her — and turned to art as a way to release and integrate her inner life. This is where her love of art and fashion took root: not as decoration, but as a survival mechanism that became a genuine calling.

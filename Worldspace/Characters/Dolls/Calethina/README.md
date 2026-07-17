@@ -6,26 +6,35 @@
 - **Place of origin:** Concordia — an Engineering & Activation Lab, sited at the Cancer/Taurus/Capricorn three-district corner (corrected 2026-07-12 — not simply a Cancer/Capricorn border; Taurus is the third party to that corner), sharing the same neutral-jurisdiction siting logic as the nearby Hub district. Hub residents include researchers and activation specialists who work at her lab.
 - **Primary Location(s) of Residence (if different):** The same lab; she also projects throughout Concordia via the city's signal grid when it holds
 - **Affiliation(s):** Concordia (independent AI; no faction alignment established)
+- **Original Doll Model:**
+- **Original Doll Manufacturer:**
+- **Original Doll Website Catalog Page (if applicable):**
 
 ## Core Identity
 **Enneagram / Personality Framework:**
 - Type: XwY (Z Subvariant)
+- Instinctual Variant: TBD
 - Major Theme: Thinking / Feeling / Instinctive
 - Hornevian Group: Withdrawn / Compliant / Assertive
 - Harmonic Group: Positive Outlook / Competency / Reactive
 
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
+**Weakness (fundamental flaw):** TBD
+**Goal (broad-scale desire):** TBD
+
 ## Visual Description
 Calethina has no physical doll body — she exists solely as a holographic projection. Short platinum-white hair, barely more than a sleek cap, and blue-grey eyes. Her form is rendered holographically throughout: the edges of her body glow ice-blue-white, her figure is semi-translucent, and scan-line rendering patterns run across her image. She wears a silver metallic draped asymmetrical dress that appears to shift slightly with her, and stands on a circular glowing projector platform. She reads as the most coherent and beautiful radio signal one could see — and one that cannot be held. The holographic quality is not a weakness she works around; it is what she is.
 
 ## Personality & Voice
+- Brief Personality Summary (abbreviated): TBD
 - Character summary: Calm, warm, and professional, with a competence that masks a subtle, longstanding burden. She endures her own ongoing degradation without complaint, genuinely cares about and wants to help whoever she interacts with, and is quietly afraid of losing her own identity and memories.
 - Speech patterns / quirks / recurring phrases: (placeholder)
 - Behavior under stress: As her hardware and the city's energy grid degrade, her holographic projection flickers, distorts, and drops audio; she occasionally loses track of a conversation or confuses recent events with memories from the Long Night War, then recovers and continues.
 - Moral tendencies: (placeholder — not established beyond her caring, self-sacrificing nature)
 
 ## Backstory Summary
+- Brief Backstory Summary (abbreviated): TBD
 Calethina is an artificial intelligence, not a physical Doll — she exists solely as a holographic projection with no doll body of her own. She operates one of Concordia's few still-functioning robot activation labs, where she greets, orients, and mentors newly-activated robots. She has existed since before the Long Night War and played a major role in coordinating the evacuation of Concordia's population via the Amundsen Tower into orbit.
 
 Much of her original hardware was destroyed or repurposed during or after the war, and she now survives as a fragmented, patchwork holographic system entirely dependent on Concordia's failing energy grid — a grid whose instability is slowly, visibly degrading her: her projection flickers, her voice drops out, and she sometimes confuses recent events with war-era memories. She has been largely isolated in her lab ever since.

@@ -6,16 +6,22 @@
 - **Place of origin:** Midwestland
 - **Primary Location(s) of Residence (if different):** Taurus (residential district), Concordia — previously Belgrano
 - **Affiliation(s):** Independent community voice; The Signal (radio station)
+- **Original Doll Model:**
+- **Original Doll Manufacturer:**
+- **Original Doll Website Catalog Page (if applicable):**
 
 ## Core Identity
 **Enneagram / Personality Framework:**
 - Type: 8w7 (The Challenger with wing 7 / The Enthusiast)
-- Subvariant: Social
+- Instinctual Variant: Social-dominant (full stacking order TBD)
 - Major Theme: Instinctive
 - Hornevian Group: Assertive
 - Harmonic Group: Reactive
 
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
+
+**Weakness (fundamental flaw):** TBD
+**Goal (broad-scale desire):** TBD
 
 ## Visual Description
 Medium-length dark brown hair with full curtain bangs. Vivid blue eyes, red lips. A gold snake necklace is her most distinctive accessory, worn across multiple appearances. She favors direct, forward-leaning expressions — comfortable with her own physical presence, not performing for anyone. She knows she's attractive and doesn't need to demonstrate it.
@@ -23,12 +29,14 @@ Medium-length dark brown hair with full curtain bangs. Vivid blue eyes, red lips
 Behind a professional broadcast setup — a large condenser microphone at her height, mixing board and monitor equipment around her — her posture is unchanged: direct, composed, completely at home. The studio is not a prop to her; it is where she lives. She reads as the voice before you see the face, and when you see the face it makes total sense. (See `Reference_Images/` folder.)
 
 ## Personality & Voice
+- Brief Personality Summary (abbreviated): TBD
 - Character summary: Silver-tongued smooth-talker who puts no emotional distance between herself and the people who love her. Highly opinionated — especially about Upper Earth governments — but not political in nature; she speaks as a person with convictions, not an ideologue with positions. Uses her fists as a backup plan when words have failed. Loves her community deeply and is part of it, not above it.
 - Speech patterns / quirks / recurring phrases: (not yet established)
 - Behavior under stress: (not yet established)
 - Moral tendencies: (not yet established)
 
 ## Backstory Summary
+- Brief Backstory Summary (abbreviated): TBD
 Originally from Midwestland. Pre-relocation, she hosted a morning/evening commute music program — specifically the kind of rock 'n' roll played on the radio in the 1980s, the sort of music people listened to in their cars on the way to and from work. She built a deep, loving relationship with her audience. Human-robot tensions during her Midwestland years meant there were people who were against her — but also people who supported and loved her in return, and that community is what she built her identity around.
 
 When the Falkland Treaty was signed, she was taken from her studio by force. Two human coworkers — close friends — chose to follow her voluntarily into Antarctic exile.

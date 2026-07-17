@@ -6,10 +6,14 @@
 - **Place of origin:** U.R.U.K. (Underwater Research Union: Kappa), off Hawaii
 - **Primary Location(s) of Residence (if different):** Later relocated to A.R.U.Ta.G. (Aerial Research Union: Tau Gamma); last known location A.R.U.Ta.G.
 - **Affiliation(s):** Tepenian robot research community (pre-Falkland Treaty era)
+- **Original Doll Model:**
+- **Original Doll Manufacturer:**
+- **Original Doll Website Catalog Page (if applicable):**
 
 ## Core Identity
 **Enneagram / Personality Framework:**
 - Type: 4w3 (Self-Preservational Subvariant)
+- Instinctual Variant: TBD
 - Major Theme: Feeling
 - Hornevian Group: Withdrawn
 - Harmonic Group: Positive Outlook / Competency / Reactive
@@ -18,16 +22,21 @@ SP 4w3 is sometimes called "The Aristocrat" — deeply individualistic and emoti
 
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
+**Weakness (fundamental flaw):** TBD
+**Goal (broad-scale desire):** TBD
+
 ## Visual Description
 (1–2 paragraph description. Reference files in `Reference_Images/` folder.)
 
 ## Personality & Voice
+- Brief Personality Summary (abbreviated): TBD
 - Character summary: A privately intense, emotionally deep researcher, ambitious in a way she carries quietly. She works hard and does not show the effort. She wants to matter — to have done something singular and lasting — and she has: her metamaterials research was foundational to the orbital infrastructure that allowed Tepenians to escape the Long Night War, whether she knew it or lived to see it or not.
 - Speech patterns / quirks / recurring phrases: (placeholder)
 - Behavior under stress: (placeholder)
 - Moral tendencies: (placeholder)
 
 ## Backstory Summary
+- Brief Backstory Summary (abbreviated): TBD
 Hana Jinn was a Data Analytics and Research Expert who initially lived and worked at U.R.U.K. — the Underwater Research Union: Kappa, off the coast of Hawaii. U.R.U.K. holds particular significance in Tepenian history as the facility where the first sentient robot was created; what exactly Hana researched there is currently uncertain. What is known is that she was a great lover of whalesong, and listened to the whales singing in the ocean — a small, specific, aesthetic detail amid a career defined by analytical rigor.
 
 She was requested by name to relocate to the Aerial Research Union: Tau Gamma (A.R.U.Ta.G.), brought there specifically to research metamaterials for the construction of mass drivers capable of launching reusable rockets into low-Earth orbit — the early engineering groundwork for Tepenia's eventual orbital infrastructure. Being sought out by name, rather than simply reassigned, mattered enormously to her: her specific expertise was considered irreplaceable.

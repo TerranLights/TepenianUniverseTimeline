@@ -6,27 +6,35 @@
 - **Place of origin:** Janbogo
 - **Primary Location(s) of Residence (if different):** Concordia (Taurus district)
 - **Affiliation(s):** Independent; neutral community institution — not affiliated with any faction
+- **Original Doll Model:**
+- **Original Doll Manufacturer:**
+- **Original Doll Website Catalog Page (if applicable):**
 
 ## Core Identity
 **Enneagram / Personality Framework:**
 - Type: 4w5 (The Individualist with wing 5 / The Investigator)
-- Subvariant: Self-Preservational
+- Instinctual Variant: Self-Preservational-dominant (full stacking order TBD)
 - Major Theme: Feeling
 - Hornevian Group: Withdrawn
 - Harmonic Group: Reactive
 
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
+**Weakness (fundamental flaw):** TBD
+**Goal (broad-scale desire):** TBD
+
 ## Visual Description
 Dark brown hair with side-swept bangs that frame her face without fully covering it. Soft, warm East Asian features — nothing sharp or angular. She dresses for warmth and ease, favoring a small pearl stud earring and, in her teahouse, a copper-gold qipao with elaborate phoenix and peony embroidery. Her expression tends toward quiet and inward — comfortable in stillness, not sad but present. She reads as someone whose warmth is genuine and whose beauty is unannounced: she is not performing anything, simply present in the space she has made. (See `Reference_Images/` folder.)
 
 ## Personality & Voice
+- Brief Personality Summary (abbreviated): TBD
 - Character summary: Warm, loving, deeply intentional. She interacts directly with every patron and genuinely wants everyone who walks through her door to feel better than when they arrived. At the same time, her teahouse is an extension of her interior world — every detail chosen, nothing arbitrary. The warmth is real; the curation is also real, and neither cancels the other.
 - Speech patterns / quirks / recurring phrases: (placeholder — not yet established in source)
 - Behavior under stress: Under thriving conditions she becomes clear-headed, principled, and productive — her emotional interior finds form in disciplined action. Under stress she becomes clingy and needy, with a fear of abandonment surfacing — the carefully maintained warmth becomes desperate attachment.
 - Moral tendencies: Gives information and comfort the way she gives tea — not as a transaction, but because she wants people to be okay.
 
 ## Backstory Summary
+- Brief Backstory Summary (abbreviated): TBD
 Majyao owned and operated a famous coffee and teahouse in the city of Janbogo, which became well-known throughout Tepenia — a place where every visitor felt they were entering a second home. She sourced exotic teas and coffees grown in the harsh conditions of Antarctica, including her signature Blood River Tea, from the iron-rich soil nourished by Blood Falls in Taylor Valley.
 
 When the Long Night War came, she chose not to flee to Amundsen Tower and escape into space. She chose to stay on Earth, relocating to Concordia and opening a new coffee and teahouse there to serve the people who remained. The Concordia teahouse is her second — rebuilt from everything the first one was, in the only city left. The war cut her supply line to Blood Falls, and she can no longer serve her signature tea; the gap is real and matters to her.
