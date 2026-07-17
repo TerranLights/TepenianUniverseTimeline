@@ -23,7 +23,10 @@ Social 5w6 seeks to find her place within a community or group through knowledge
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
 **Weakness (fundamental flaw):** TBD
+**Strengths & Skills (what they're good at):** TBD
 **Goal (broad-scale desire):** TBD
+**Values & Passions (what/who they care about most):** TBD
+**Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
 (1–2 paragraph description. Reference files in `Reference_Images/` folder.)
@@ -32,8 +35,11 @@ Social 5w6 seeks to find her place within a community or group through knowledge
 - Brief Personality Summary (abbreviated): TBD
 - Character summary: Analytical, loyal, competent, and oriented toward belonging through expertise. She is not someone who seeks the spotlight — she seeks to be genuinely useful to the people and systems she cares about. Her arc — farm mechanic, salvager in Tepenia, scrap dealer in orbit and on Mars — is a single continuous thread: she is always the person who knows how machines work, who fixes what others can't.
 - Speech patterns / quirks / recurring phrases: (placeholder — not established in source)
+- Mannerisms (recurring physical habits/tics): TBD
 - Behavior under stress: (placeholder — not established in source)
+- Response to Failure (pragmatic vs. emotional; what they learn): TBD
 - Moral tendencies: (placeholder — not established in source)
+- Signature Objects/Possessions (what they carry or own that reveals identity or values): TBD
 
 ## Backstory Summary
 - Brief Backstory Summary (abbreviated): TBD
@@ -44,10 +50,16 @@ Turar and Zhuldyz fell deeply, madly in love and dedicated themselves to each ot
 When the Long Night War came, Zhuldyz escaped via the Amundsen Tower. She initially lived aboard an O'Neill Cylinder, cutting up derelict spaceships and selling scrap to pay rent on her hab unit. She later moved to Mars, where she runs her own scrapyard today.
 
 ## Role in Main Story / World
+- Story Function (why this character matters to the plot mechanically): TBD
 - Connection to larger narrative: Her degree of recognition in Tepenian/Concordia lore is not yet established. Her defining relationship is with Turar Serikbolat, the human she loved and escaped Antarctica with — whether he made it off-world with her is the most significant open question in her story.
+- Growth/Change Arc (how they evolve over the course of the story): TBD
+- Relationship Dynamics (beyond simple alliance/rivalry — include contradictory feelings like jealousy, resentment, or hidden admiration): TBD
 
 ## Canonical Appearances
 - InnerTepeniaGDD — origin — [status: Off-World or MIA] (only project of appearance currently)
 
 ## Design Notes & Open Questions
+- Character Basis/Inspiration (roughly 30% real people / 30% imagination / 30% famous figures or literary characters / 10% intuitive "magic"): TBD
+- Character Depth — Round or Flat (multidimensional/evolving vs. functional/single-note; flat may suit background, comic-relief, or world-building roles): TBD
+- Anti-Stereotype Check (tentative — may not apply to every character; which stereotype, if any, is being subverted): TBD
 - TODOs: What happened to Turar during and after the Long Night War; degree to which she is known in Concordia; specific location of her Mars scrapyard; activation date; any other relationships or community connections off-world.

@@ -23,7 +23,10 @@ SP 6w5 builds security through competence, self-sufficiency, and mastery of craf
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
 **Weakness (fundamental flaw):** TBD
+**Strengths & Skills (what they're good at):** TBD
 **Goal (broad-scale desire):** TBD
+**Values & Passions (what/who they care about most):** TBD
+**Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
 (1–2 paragraph description. Reference files in `Reference_Images/` folder.)
@@ -32,8 +35,11 @@ SP 6w5 builds security through competence, self-sufficiency, and mastery of craf
 - Brief Personality Summary (abbreviated): TBD
 - Character summary: A grounded, competent, privately anxious, deeply practical craftswoman. She does not seek recognition. She builds security through skill — knowing that whatever happens, she can make something useful out of whatever is in front of her. Blacksmith to instrument-maker to scrapyard operator: the circumstances change, the approach doesn't.
 - Speech patterns / quirks / recurring phrases: (placeholder — not established in source)
+- Mannerisms (recurring physical habits/tics): TBD
 - Behavior under stress: Not directly established; her pattern of constant self-maintenance and technical self-sufficiency suggests she manages stress by exerting control over what she can — her own body and her craft.
+- Response to Failure (pragmatic vs. emotional; what they learn): TBD
 - Moral tendencies: Not directly established in source.
+- Signature Objects/Possessions (what they carry or own that reveals identity or values): TBD
 
 ## Backstory Summary
 - Brief Backstory Summary (abbreviated): TBD
@@ -46,10 +52,16 @@ When the Long Night War came, Griselda secured one of the earlier rides up the A
 Palmer City was destroyed in the Long Night War; most of its population did not survive. The handful of Palmer City survivors who made it to Concordia are the primary source of any knowledge about Griselda — she was not famous herself, but a craftsperson who made instruments for people who were.
 
 ## Role in Main Story / World
+- Story Function (why this character matters to the plot mechanically): TBD
 - Connection to larger narrative: Not a public figure in Tepenian/Concordia history; her impact is indirect, through the whalebone-and-metal instruments she built for Palmer City's performance culture. She personally knew Salagéa Aparast during the pre-war era of Belgrano.
+- Growth/Change Arc (how they evolve over the course of the story): TBD
+- Relationship Dynamics (beyond simple alliance/rivalry — include contradictory feelings like jealousy, resentment, or hidden admiration): TBD
 
 ## Canonical Appearances
 - InnerTepeniaGDD — origin — [status: Off-World or MIA] (only project of appearance currently)
 
 ## Design Notes & Open Questions
+- Character Basis/Inspiration (roughly 30% real people / 30% imagination / 30% famous figures or literary characters / 10% intuitive "magic"): TBD
+- Character Depth — Round or Flat (multidimensional/evolving vs. functional/single-note; flat may suit background, comic-relief, or world-building roles): TBD
+- Anti-Stereotype Check (tentative — may not apply to every character; which stereotype, if any, is being subverted): TBD
 - TODOs: Activation date; relationships from her Belgrano years beyond Salagéa Aparast; details of life in low orbit before Mars; known activities or communications from Deimos; specific reason for settling on Deimos rather than Mars surface; identity of whoever cut and shaped the whalebone she used; exact gap in time between the Falkland Treaty's signing and news reaching Sonora / her actual departure for Tepenia.

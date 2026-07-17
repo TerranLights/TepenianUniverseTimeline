@@ -21,7 +21,10 @@
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
 **Weakness (fundamental flaw):** TBD
+**Strengths & Skills (what they're good at):** TBD
 **Goal (broad-scale desire):** TBD
+**Values & Passions (what/who they care about most):** TBD
+**Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
 Vivid electric blue hair — the immediate defining feature: a strong, saturated cobalt-blue with straight-cut bangs. Thin wire-frame round glasses, slightly low on the nose. East Asian features. The signature look: a striped button-up shirt (blue, white, and red horizontal stripes) tied at the front to expose the midriff — worn open/loose, the shirt doing approximately half its intended structural job. A red-and-blue plaid mini skirt. She's seated at a round table in front of a whiteboard covered in mathematical equations (matrices, trig functions, notation), holding a whiteboard marker. A bookshelf with textbooks visible behind her.
@@ -32,20 +35,29 @@ Her expression is deadpan, one finger raised to the glasses — the gesture of s
 - Brief Personality Summary (abbreviated): TBD
 - Character summary: (placeholder — not yet established in source beyond the Enneagram baseline above)
 - Speech patterns / quirks / recurring phrases: (placeholder)
+- Mannerisms (recurring physical habits/tics): TBD
 - Behavior under stress: Under integration (thriving), she becomes decisive and assertive, willing to act — her expertise becomes agency and she moves through the world rather than merely observing it. Under disintegration (stress), her focused analytical mind fragments — she becomes scattered, avoidant, and overstimulated, unable to get traction.
+- Response to Failure (pragmatic vs. emotional; what they learn): TBD
 - Moral tendencies: (placeholder)
+- Signature Objects/Possessions (what they carry or own that reveals identity or values): TBD
 
 ## Backstory Summary
 - Brief Backstory Summary (abbreviated): TBD
 (placeholder — not yet developed in source project)
 
 ## Role in Main Story / World
+- Story Function (why this character matters to the plot mechanically): TBD
 - Connection to larger narrative: (placeholder — not yet established beyond her work as a geneticist and independent teacher)
+- Growth/Change Arc (how they evolve over the course of the story): TBD
+- Relationship Dynamics (beyond simple alliance/rivalry — include contradictory feelings like jealousy, resentment, or hidden admiration): TBD
 
 ## Canonical Appearances
 - InnerTepeniaGDD — origin — [status: Still Present In-Game] (only project of appearance currently)
 
 ## Design Notes & Open Questions
+- Character Basis/Inspiration (roughly 30% real people / 30% imagination / 30% famous figures or literary characters / 10% intuitive "magic"): TBD
+- Character Depth — Round or Flat (multidimensional/evolving vs. functional/single-note; flat may suit background, comic-relief, or world-building roles): TBD
+- Anti-Stereotype Check (tentative — may not apply to every character; which stereotype, if any, is being subverted): TBD
 - **Requires future design & development:** No backstory has been confirmed with the setting's creator yet. Needs a dedicated design session.
 - Enneagram type (5w4) is established; subvariant, activation date, place of origin, and full backstory are not yet developed in source material.
 - Name and full identity not yet finalized in source project.

@@ -21,7 +21,10 @@
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
 **Weakness (fundamental flaw):** TBD
+**Strengths & Skills (what they're good at):** TBD
 **Goal (broad-scale desire):** TBD
+**Values & Passions (what/who they care about most):** TBD
+**Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
 Calethina has no physical doll body — she exists solely as a holographic projection. Short platinum-white hair, barely more than a sleek cap, and blue-grey eyes. Her form is rendered holographically throughout: the edges of her body glow ice-blue-white, her figure is semi-translucent, and scan-line rendering patterns run across her image. She wears a silver metallic draped asymmetrical dress that appears to shift slightly with her, and stands on a circular glowing projector platform. She reads as the most coherent and beautiful radio signal one could see — and one that cannot be held. The holographic quality is not a weakness she works around; it is what she is.
@@ -30,8 +33,11 @@ Calethina has no physical doll body — she exists solely as a holographic proje
 - Brief Personality Summary (abbreviated): TBD
 - Character summary: Calm, warm, and professional, with a competence that masks a subtle, longstanding burden. She endures her own ongoing degradation without complaint, genuinely cares about and wants to help whoever she interacts with, and is quietly afraid of losing her own identity and memories.
 - Speech patterns / quirks / recurring phrases: (placeholder)
+- Mannerisms (recurring physical habits/tics): TBD
 - Behavior under stress: As her hardware and the city's energy grid degrade, her holographic projection flickers, distorts, and drops audio; she occasionally loses track of a conversation or confuses recent events with memories from the Long Night War, then recovers and continues.
+- Response to Failure (pragmatic vs. emotional; what they learn): TBD
 - Moral tendencies: (placeholder — not established beyond her caring, self-sacrificing nature)
+- Signature Objects/Possessions (what they carry or own that reveals identity or values): TBD
 
 ## Backstory Summary
 - Brief Backstory Summary (abbreviated): TBD
@@ -48,12 +54,18 @@ Her degradation is tied to a specific cause, confirmed 2026-07-12: the same cata
 Her manufacturing and shipping origin has also been formalized as deliberately unmarked lore — discoverable background, not something openly documented in-world or delivered through any structured questline: she passed through seven locations across six subnets plus the South Pole before reaching her lab — request work at Mawson and design work at Neumayer (Halley subnet, confirmed 2026-07-12), engineering at Kunlun/Mirny, construction at Byrd, stress-testing near Palmer, shipping routed through Port Lockroy, a reroute personally ordered from Fort McMurdo (Tepenia's historical capital), and a final leg forward-shipped via the Amundsen-Scott Station — passing through the Tower's own site before it later caused her defining trauma.
 
 ## Role in Main Story / World
+- Story Function (why this character matters to the plot mechanically): TBD
 - Connection to larger narrative: Serves as an archive-narrator figure — she knows the history of ruined and abandoned places within her old signal range and can guide others through Concordia's past. Her personal arc, concerning her own slow deterioration, forms an emotional throughline about memory, identity, and sacrifice in a dying world.
+- Growth/Change Arc (how they evolve over the course of the story): TBD
+- Relationship Dynamics (beyond simple alliance/rivalry — include contradictory feelings like jealousy, resentment, or hidden admiration): TBD
 
 ## Canonical Appearances
 - InnerTepeniaGDD — origin — [status: Still Present In-Game] (only project of appearance currently)
 
 ## Design Notes & Open Questions
+- Character Basis/Inspiration (roughly 30% real people / 30% imagination / 30% famous figures or literary characters / 10% intuitive "magic"): TBD
+- Character Depth — Round or Flat (multidimensional/evolving vs. functional/single-note; flat may suit background, comic-relief, or world-building roles): TBD
+- Anti-Stereotype Check (tentative — may not apply to every character; which stereotype, if any, is being subverted): TBD
 - **Resolved 2026-07-12 — real backstory design session completed.** The degradation cause and her construction/shipping origin above come from a confirmed design session, not the earlier unreviewed Grok draft. This is no longer this repo's most urgently-needed character backstory.
 - **Scope note:** how her situation gets resolved — companion recruitment, the romance arc, the specific mechanics/branches of any personality-transfer or re-embodiment decision — is InnerTepeniaGDD's own companion-questline design, exclusively player-driven content for that game. It does not belong here, the same way the Cradle network is pure discoverable lore and never a quest. This repo's concern is only the backstory: what happened to her and why, not what a player does about it.
 - Still open (backstory, not questline): Ji-Eun Kim's ultimate fate, referenced in Calethina's knowledge of the ruined facility but unresolved independently of Calethina's own arc.

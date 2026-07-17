@@ -21,7 +21,10 @@
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
 **Weakness (fundamental flaw):** TBD
+**Strengths & Skills (what they're good at):** TBD
 **Goal (broad-scale desire):** TBD
+**Values & Passions (what/who they care about most):** TBD
+**Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
 Sandy/medium blonde hair, grey-blue eyes. In her working attire she wears denim overalls with a white ribbed top underneath, a loaded tool belt (wrench, measuring tape, and other tools visible), and black combat boots with white striped knee-high socks. Her expression reads as direct and faintly challenging — the look of someone who knows their work and wouldn't particularly care if you doubted it, because they'd be right before you finished the sentence.
@@ -32,8 +35,11 @@ In another notable reference, she wears jean shorts, a white crop t-shirt tied a
 - Brief Personality Summary (abbreviated): TBD
 - Character summary: A methodical, expertise-driven builder who has carried the same underlying drive across two careers — laying the physical infrastructure of the Arcanet, and now investigating whether what it holds can actually be trusted.
 - Speech patterns / quirks / recurring phrases: Not established in source.
+- Mannerisms (recurring physical habits/tics): TBD
 - Behavior under stress: Under healthy conditions (integration), she becomes decisive, assertive, and willing to act — her builder's drive becomes confident direction-setting. Under stress (disintegration), she becomes scattered, avoidant, and overstimulated — her methodical pace fractures and she takes on more than she can process.
+- Response to Failure (pragmatic vs. emotional; what they learn): TBD
 - Moral tendencies: Not established in source.
+- Signature Objects/Possessions (what they carry or own that reveals identity or values): TBD
 
 ## Backstory Summary
 - Brief Backstory Summary (abbreviated): TBD
@@ -44,10 +50,16 @@ Following the Long Night War, she chose to take up permanent residence in Concor
 She is one of the very few residents of Concordia technically capable of leaving the city, given the Rastra's capacity for continental travel — yet she has stayed. What that choice means to her is an open thread.
 
 ## Role in Main Story / World
+- Story Function (why this character matters to the plot mechanically): TBD
 - Connection to larger narrative: Michelle investigates whether the Great Corruption — the erasure of Janbogo's pre-treaty archives — was accidental or deliberately targeted, tracing the shape of what's missing as evidence of who benefited from the gaps. Her inquiry runs in parallel with a data-recovery effort by Vosora Lashár Tanslock; together their work forms two halves of a single investigation into a civilization's edited history, and into what it costs to go looking for what powerful people would prefer stayed lost.
+- Growth/Change Arc (how they evolve over the course of the story): TBD
+- Relationship Dynamics (beyond simple alliance/rivalry — include contradictory feelings like jealousy, resentment, or hidden admiration): TBD
 
 ## Canonical Appearances
 - InnerTepeniaGDD — origin — [status: Still Present In-Game] (only project of appearance currently)
 
 ## Design Notes & Open Questions
+- Character Basis/Inspiration (roughly 30% real people / 30% imagination / 30% famous figures or literary characters / 10% intuitive "magic"): TBD
+- Character Depth — Round or Flat (multidimensional/evolving vs. functional/single-note; flat may suit background, comic-relief, or world-building roles): TBD
+- Anti-Stereotype Check (tentative — may not apply to every character; which stereotype, if any, is being subverted): TBD
 - TODOs: Full backstory; specific circumstances of her arrival in Concordia; nature and depth of her connection to the Great Corruption investigation and to Vosora Lashár Tanslock; why she has never used her capacity to leave Concordia via the Rastra.

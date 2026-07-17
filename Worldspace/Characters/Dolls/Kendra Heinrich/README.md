@@ -21,7 +21,10 @@
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
 **Weakness (fundamental flaw):** TBD
+**Strengths & Skills (what they're good at):** TBD
 **Goal (broad-scale desire):** TBD
+**Values & Passions (what/who they care about most):** TBD
+**Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
 Very curly platinum-blonde/ash-blonde hair — abundant, wild-textured, visually commanding — and green-grey eyes. Her build is powerful: very tall, heavily muscled, broad-shouldered, a physical presence that changes the weight of a room. She reads as a person for whom physical scale and force are so native that she does not register them as statements — she is simply this. "War goddess" is not hyperbole so much as a visual fact: she looks like someone who held off an army while innocents ran past, and is still standing there. (See `Reference_Images/` folder.)
@@ -30,8 +33,11 @@ Very curly platinum-blonde/ash-blonde hair — abundant, wild-textured, visually
 - Brief Personality Summary (abbreviated): TBD
 - Character summary: A proud, strong, powerful woman — a protector of the weak and defender of the innocent, not as an assigned role but as who she fundamentally is.
 - Speech patterns / quirks / recurring phrases: (placeholder — not yet established in source)
+- Mannerisms (recurring physical habits/tics): TBD
 - Behavior under stress: Under thriving conditions she becomes generous, protective, and openly warm — the force in her turns toward care and she doesn't need the armor. Under stress she becomes withdrawn, secretive, and emotionally sealed off — her usual control becomes total isolation rather than command.
+- Response to Failure (pragmatic vs. emotional; what they learn): TBD
 - Moral tendencies: Will stand between people and the guns pointed at them, literally and otherwise; has spent her existence protecting others, often at great personal cost.
+- Signature Objects/Possessions (what they carry or own that reveals identity or values): TBD
 
 ## Backstory Summary
 - Brief Backstory Summary (abbreviated): TBD
@@ -42,10 +48,16 @@ During the final evacuations before Amundsen Tower's destruction, she held the l
 The Tower was destroyed. She is now stranded at what was once its base at the South Pole — now a mountain of scrap. Having spent so much of her life and energy fighting to protect the weak and rescue the innocent, she is now the one who requires rescuing. This is the central irony and the central dignity of her current situation.
 
 ## Role in Main Story / World
+- Story Function (why this character matters to the plot mechanically): TBD
 - Connection to larger narrative: Even while absent from Concordia, her presence is felt there through The Reclaimed Record, the robot workers' rights movement she helped seed in Capricorn. She matters to the people of Concordia even before she is found.
+- Growth/Change Arc (how they evolve over the course of the story): TBD
+- Relationship Dynamics (beyond simple alliance/rivalry — include contradictory feelings like jealousy, resentment, or hidden admiration): TBD
 
 ## Canonical Appearances
 - InnerTepeniaGDD — origin — [status: Still Present In-Game] (only project of appearance currently)
 
 ## Design Notes & Open Questions
+- Character Basis/Inspiration (roughly 30% real people / 30% imagination / 30% famous figures or literary characters / 10% intuitive "magic"): TBD
+- Character Depth — Round or Flat (multidimensional/evolving vs. functional/single-note; flat may suit background, comic-relief, or world-building roles): TBD
+- Anti-Stereotype Check (tentative — may not apply to every character; which stereotype, if any, is being subverted): TBD
 - TODOs: Exact origin within Upper Earth, activation date, and the full circumstances of her survival at the South Pole remain unestablished in source material.

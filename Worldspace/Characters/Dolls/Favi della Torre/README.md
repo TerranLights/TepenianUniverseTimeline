@@ -21,7 +21,10 @@
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
 **Weakness (fundamental flaw):** TBD
+**Strengths & Skills (what they're good at):** TBD
 **Goal (broad-scale desire):** TBD
+**Values & Passions (what/who they care about most):** TBD
+**Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
 Dark brown hair with warm auburn highlights, worn loose. Amber-brown eyes — warm in tone but direct and fixed in quality. Red lips, strong bone structure. Her bearing is striking and immediate: she assesses whoever she's speaking to with the same precision she brings to everything, and she knows they know it. She reads as the person who, once she has decided something needs to happen, will make it happen from a very long way away, and will not miss. The politeness in how she speaks to people is genuine; so is the distance in it. (Reference files in `Reference_Images/` folder.)
@@ -30,8 +33,11 @@ Dark brown hair with warm auburn highlights, worn loose. Amber-brown eyes — wa
 - Brief Personality Summary (abbreviated): TBD
 - Character summary: Kind and polite, but not warm. She genuinely appreciates people and is pleasant to be around, but consciously manages how far anyone gets in — a slight, noticeable, controlled perimeter rather than coldness. People in Taurus sense it and have come to understand it as simply how she is. She is calculating, precise, and patient in everything — built to be a double-checker, and she has never stopped operating that way.
 - Speech patterns / quirks / recurring phrases: (placeholder)
+- Mannerisms (recurring physical habits/tics): TBD
 - Behavior under stress: Integration (thriving) makes her calm, trusting, and present — the vigilance eases and she lets things be. Disintegration (stress) makes her driven, image-conscious, and competitive — the controlled perimeter becomes a performance of competence.
+- Response to Failure (pragmatic vs. emotional; what they learn): TBD
 - Moral tendencies: (placeholder)
+- Signature Objects/Possessions (what they carry or own that reveals identity or values): TBD
 
 ## Backstory Summary
 - Brief Backstory Summary (abbreviated): TBD
@@ -44,12 +50,18 @@ In Tepenia she joined the Eyes of Gold, having fallen in love with one of their 
 She remains a loyal member of the Eyes of Gold — her primary loyalty, above anything else. Her work with a Taurus neighborhood security network is operational: she brings Eyes of Gold discipline and training to community-level intelligence work, and is on good terms with the network, but the Eyes are where her heart is.
 
 ## Role in Main Story / World
+- Story Function (why this character matters to the plot mechanically): TBD
 - Connection to larger narrative: A trusted, known figure in the Taurus residential district, where years of community security work have made her a stabilizing anchor. Her personal arc centers on the tension between constant vigilance and the fear of loss that drives it — rooted in having once arrived just too late to save the person she loved, and in an unresolved grief (unknown to her) over the scientist who raised her.
+- Growth/Change Arc (how they evolve over the course of the story): TBD
+- Relationship Dynamics (beyond simple alliance/rivalry — include contradictory feelings like jealousy, resentment, or hidden admiration): TBD
 
 ## Canonical Appearances
 - InnerTepeniaGDD — origin — [status: Still Present In-Game] (only project of appearance currently)
 
 ## Design Notes & Open Questions
+- Character Basis/Inspiration (roughly 30% real people / 30% imagination / 30% famous figures or literary characters / 10% intuitive "magic"): TBD
+- Character Depth — Round or Flat (multidimensional/evolving vs. functional/single-note; flat may suit background, comic-relief, or world-building roles): TBD
+- Anti-Stereotype Check (tentative — may not apply to every character; which stereotype, if any, is being subverted): TBD
 - TODOs:
   - The Eyes of Gold boyfriend's name and specific role within the faction
   - The Italian scientist's name

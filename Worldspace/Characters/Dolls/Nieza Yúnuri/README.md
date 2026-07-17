@@ -23,7 +23,10 @@ SP 9 finds peace through physical comfort, stable routine, and familiar surround
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
 **Weakness (fundamental flaw):** TBD
+**Strengths & Skills (what they're good at):** TBD
 **Goal (broad-scale desire):** TBD
+**Values & Passions (what/who they care about most):** TBD
+**Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
 (1–2 paragraph description. Reference files in `Reference_Images/` folder.)
@@ -32,8 +35,11 @@ SP 9 finds peace through physical comfort, stable routine, and familiar surround
 - Brief Personality Summary (abbreviated): TBD
 - Character summary: Receptive, conflict-averse, quietly principled, deeply oriented toward peace and comfort. She does not seek visibility or influence — she seeks a life that is undisturbed. The w1 means she has a clear internal moral compass, expressed through the quality of her own conduct rather than through confrontation.
 - Speech patterns / quirks / recurring phrases: (placeholder — not established in source)
+- Mannerisms (recurring physical habits/tics): TBD
 - Behavior under stress: Delays difficult decisions, weighing which unbearable option is slightly less unbearable, until circumstances force her hand.
+- Response to Failure (pragmatic vs. emotional; what they learn): TBD
 - Moral tendencies: Has firm, quiet moral convictions that she rarely voices aloud.
+- Signature Objects/Possessions (what they carry or own that reveals identity or values): TBD
 
 ## Backstory Summary
 - Brief Backstory Summary (abbreviated): TBD
@@ -44,10 +50,16 @@ When the Long Night War came and the evacuation of Tepenia was underway, staying
 She initially lived aboard one of the early low-orbit stations and is now an early settler on Mars — one of the first to establish a life there rather than remain in orbit. The specific nature of her life there is not yet established, but the pattern is consistent with her type: she has found a place, established a routine, and is building the stable environment she requires.
 
 ## Role in Main Story / World
+- Story Function (why this character matters to the plot mechanically): TBD
 - Connection to larger narrative: Her degree of recognizability in Tepenian/Concordia lore is not yet established.
+- Growth/Change Arc (how they evolve over the course of the story): TBD
+- Relationship Dynamics (beyond simple alliance/rivalry — include contradictory feelings like jealousy, resentment, or hidden admiration): TBD
 
 ## Canonical Appearances
 - InnerTepeniaGDD — origin — [status: Off-World or MIA] (only project of appearance currently)
 
 ## Design Notes & Open Questions
+- Character Basis/Inspiration (roughly 30% real people / 30% imagination / 30% famous figures or literary characters / 10% intuitive "magic"): TBD
+- Character Depth — Round or Flat (multidimensional/evolving vs. functional/single-note; flat may suit background, comic-relief, or world-building roles): TBD
+- Anti-Stereotype Check (tentative — may not apply to every character; which stereotype, if any, is being subverted): TBD
 - TODOs: Origin and pre-war history; role and life in Tepenia before the Long Night War; degree to which she is known in Concordia; specific life and activities on Mars; relationships; activation date.

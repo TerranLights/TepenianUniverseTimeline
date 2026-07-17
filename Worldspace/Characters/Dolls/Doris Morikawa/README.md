@@ -23,7 +23,10 @@ Social 2w3 is sometimes called "The Ambitious Helper" — warm, charming, and de
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
 **Weakness (fundamental flaw):** TBD
+**Strengths & Skills (what they're good at):** TBD
 **Goal (broad-scale desire):** TBD
+**Values & Passions (what/who they care about most):** TBD
+**Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
 (1–2 paragraph description. Reference files in `Reference_Images/` folder.)
@@ -32,8 +35,11 @@ Social 2w3 is sometimes called "The Ambitious Helper" — warm, charming, and de
 - Brief Personality Summary (abbreviated): TBD
 - Character summary: Warm, capable, ambitious, and deeply motivated by being the person a community cannot function without. She is not someone who works quietly in the background — she leads, organizes, and positions herself where her contribution is most visible and most needed. She made herself the steward of civilization's memory.
 - Speech patterns / quirks / recurring phrases: (placeholder — not established in source)
+- Mannerisms (recurring physical habits/tics): TBD
 - Behavior under stress: (placeholder — not established in source)
+- Response to Failure (pragmatic vs. emotional; what they learn): TBD
 - Moral tendencies: A Social 2w3 who genuinely cares and genuinely wants power — these are not in contradiction for her; the caring is how the power is exercised. She preserved the archives because it mattered, because she was the right person to do it, and because she wanted to be the right person to do it.
+- Signature Objects/Possessions (what they carry or own that reveals identity or values): TBD
 
 ## Backstory Summary
 - Brief Backstory Summary (abbreviated): TBD
@@ -44,10 +50,16 @@ She succeeded in that responsibility. What became of the archives — and of her
 She is not known for any dramatic act of heroism; she is known for having cared, systematically and completely, about the survival of human knowledge. If any of the Hall of Archives' records survived and reached Tepenia — through evacuees, data transfers, or physical media — her name would be on them, representing a pre-digital, pre-Arcanet, human-scale curation effort distinct from (and possibly complementary or contradictory to) what the Arcanet itself holds.
 
 ## Role in Main Story / World
+- Story Function (why this character matters to the plot mechanically): TBD
 - Connection to larger narrative: Known to Tepenians as the Head Librarian responsible for pre-war knowledge preservation. Her significance depends substantially on whether any of the Hall of Archives' contents survived and reached Tepenia — potentially a source of pre-war human knowledge preserved outside, and possibly in tension with, the Arcanet system.
+- Growth/Change Arc (how they evolve over the course of the story): TBD
+- Relationship Dynamics (beyond simple alliance/rivalry — include contradictory feelings like jealousy, resentment, or hidden admiration): TBD
 
 ## Canonical Appearances
 - InnerTepeniaGDD — origin — [status: Known to History] (only project of appearance currently)
 
 ## Design Notes & Open Questions
+- Character Basis/Inspiration (roughly 30% real people / 30% imagination / 30% famous figures or literary characters / 10% intuitive "magic"): TBD
+- Character Depth — Round or Flat (multidimensional/evolving vs. functional/single-note; flat may suit background, comic-relief, or world-building roles): TBD
+- Anti-Stereotype Check (tentative — may not apply to every character; which stereotype, if any, is being subverted): TBD
 - TODOs: What happened to Doris and the Hall of Archives during the wars; whether any archive contents survived and reached Tepenia; her current/final status; degree of recognition among Tepenians/Concordia residents; relationships; activation date.

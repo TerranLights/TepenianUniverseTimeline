@@ -21,7 +21,10 @@
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
 **Weakness (fundamental flaw):** TBD
+**Strengths & Skills (what they're good at):** TBD
 **Goal (broad-scale desire):** TBD
+**Values & Passions (what/who they care about most):** TBD
+**Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
 Long wavy blonde hair, worn loose — not styled, just present. Cool grey-blue eyes with a direct, slightly appraising expression that does not perform warmth and does not need to; her default look is that of someone deciding whether you're worth the attention. She wears work clothing throughout — a white ribbed tank top, red tool-harness suspender straps, blue cargo work pants marked with paint and grease splatter old enough to be permanent — with a tool belt always at the hip. Nothing decorative; the clothing carries the record of the work the same way her frame does, maintained but not polished. In quieter moments (seen in profile) there's a quieter interior — a person who has a lot going on inside that does not broadcast; the directness of her forward gaze is real, but it is also, in some sense, armor. Both things are true at once. (Reference files in `Reference_Images/` folder.)
@@ -30,20 +33,29 @@ Long wavy blonde hair, worn loose — not styled, just present. Cool grey-blue e
 - Brief Personality Summary (abbreviated): TBD
 - Character summary: Competent, straightforward, and a bit world-weary. She has seen a lot of broken promises from city governance and central management, so her confidence in institutions is low while her confidence in specific people and practical work is high. She does not perform patience with incompetence, ideology over function, or waste. She has a dry, understated sense of humor that surfaces mainly in moments of stress or absurdity — not jokes exactly, but the kind of observation that makes clear she has been paying close attention the whole time. She tends to give newcomers and the inexperienced mildly mocking nicknames until they prove themselves.
 - Speech patterns / quirks / recurring phrases: Direct. Short sentences when she knows what she's talking about; longer when she's working something out. Strong opinions about poor craftsmanship and lazy leadership. Complains accurately and specifically — not general frustration, but precise identification of what specifically is wrong and why. Respect from her is communicated through cooperation, efficiency, and small acknowledgments rather than open praise — "not bad" is a genuine compliment from her.
+- Mannerisms (recurring physical habits/tics): TBD
 - Behavior under stress: Stress narrows her to the problem rather than making her more emotional. Under integration (thriving) she becomes calm, trusting, and present — the world-weariness lifts and she lets people in without the usual test. Under disintegration (stress) she becomes driven, image-conscious, and competitive — the dry pragmatism curdles into a need to be seen as capable.
+- Response to Failure (pragmatic vs. emotional; what they learn): TBD
 - Moral tendencies: Protective of workers and civilians; skeptical of large-scale idealism that costs specific people; willing to make hard calls, but not recklessly.
+- Signature Objects/Possessions (what they carry or own that reveals identity or values): TBD
 
 ## Backstory Summary
 - Brief Backstory Summary (abbreviated): TBD
 Flora's deep backstory is largely undeveloped in source material; what's established is that she has spent years doing heavy maintenance and emergency repair work in the Capricorn area, and leads a small repair crew whose loyalty to her runs in both directions. She has low institutional trust — toward city governance and central management broadly — but high practical trust in her own crew and in anyone who proves themselves through actual, demonstrated work. Her specific activation origin, manufacturer, and pre-Concordia history are not yet established.
 
 ## Role in Main Story / World
+- Story Function (why this character matters to the plot mechanically): TBD
 - Connection to larger narrative: A first point of contact with the city's working-class industrial reality, offering a ground-level perspective on Concordia distinct from more institutional or archival viewpoints. Her home territory in the Capricorn industrial district makes her a natural guide to that part of the city.
+- Growth/Change Arc (how they evolve over the course of the story): TBD
+- Relationship Dynamics (beyond simple alliance/rivalry — include contradictory feelings like jealousy, resentment, or hidden admiration): TBD
 
 ## Canonical Appearances
 - InnerTepeniaGDD — origin — [status: Still Present In-Game] (only project of appearance currently)
 
 ## Design Notes & Open Questions
+- Character Basis/Inspiration (roughly 30% real people / 30% imagination / 30% famous figures or literary characters / 10% intuitive "magic"): TBD
+- Character Depth — Round or Flat (multidimensional/evolving vs. functional/single-note; flat may suit background, comic-relief, or world-building roles): TBD
+- Anti-Stereotype Check (tentative — may not apply to every character; which stereotype, if any, is being subverted): TBD
 - TODOs:
   - Permanent name (replacing the "Flora" placeholder)
   - Full personal backstory and pre-Concordia history

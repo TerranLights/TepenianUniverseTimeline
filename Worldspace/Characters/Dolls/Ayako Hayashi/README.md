@@ -23,7 +23,10 @@ Deeply individualistic, intellectually driven, emotionally complex and self-cont
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
 **Weakness (fundamental flaw):** TBD
+**Strengths & Skills (what they're good at):** TBD
 **Goal (broad-scale desire):** TBD
+**Values & Passions (what/who they care about most):** TBD
+**Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
 Two distinct looks define her: an off-duty/personal style with dark straight hair, shoulder-length with side-swept bangs, an off-shoulder black dress (buttoned), a white choker with a small heart-ring detail, a military-style cap carried rather than worn, and a gold bracelet — cool, composed, slightly guarded in expression. Her Red Spiral working uniform is a white uniform with red trim and red buttons, more considered than standard medical issue (her fashion background is visible in how it sits), a red stethoscope, and a nurse cap bearing the Red Spiral's symbol. She carries the same composed expression in both contexts — she does not change who she is between settings, only what she wears. (Reference files in `Reference_Images/` folder.)
@@ -32,8 +35,11 @@ Two distinct looks define her: an off-duty/personal style with dark straight hai
 - Brief Personality Summary (abbreviated): TBD
 - Character summary: Deeply shy — this is the first and most important thing about her in social contexts. She is not cold or aloof, simply genuinely and quietly shy; she does not perform smalltalk or fill silences, and tends to recede in unfamiliar company: present, attentive, but not reaching outward. Two things cut through the shyness entirely. The first is fashion — bring up fashion design, a current project, a specific garment, or the philosophy behind her aesthetic choices, and she becomes engaged, expressive, animated, entirely unguarded (art does this to a lesser degree). The second is medicine: the moment someone needs medical attention, the shyness disappears completely, replaced by total focus that is calm, precise, and fully present. Her inner wound — having been present when the man she loved had his fatal accident, and being unable to save him — stripped away any hesitation she might have had about stepping in.
 - Speech patterns / quirks / recurring phrases: (placeholder)
+- Mannerisms (recurring physical habits/tics): TBD
 - Behavior under stress: Integration (thriving) makes her clear-headed, principled, and productive. Disintegration (stress) makes her clingy and needy, with fear of abandonment surfacing as the composed self-containment cracks.
+- Response to Failure (pragmatic vs. emotional; what they learn): TBD
 - Moral tendencies: She considers herself weak and, to some degree, helpless — a self-assessment tied directly to her inner wound of being unable to save the man she loved. Because of this she reacts with real, deep hatred toward anyone who abuses, harasses, or otherwise mistreats weak or helpless people — it isn't abstract disapproval, it's personal: she sees herself in anyone vulnerable being mistreated, and cannot tolerate it.
+- Signature Objects/Possessions (what they carry or own that reveals identity or values): TBD
 
 ## Backstory Summary
 - Brief Backstory Summary (abbreviated): TBD
@@ -48,12 +54,18 @@ This medical training led to her connection with the Red Spiral. She has risen t
 Her medical practice draws on the same qualities that defined her art work: precision, care for form, deep attention to detail. She treats her clinic as she would treat a studio — everything in its place, everything done correctly.
 
 ## Role in Main Story / World
+- Story Function (why this character matters to the plot mechanically): TBD
 - Connection to larger narrative: The Red Spiral operates across district lines — they go where they are needed regardless of politics. This gives Ayako access to information and relationships that most faction-affiliated characters don't have; she is likely one of the best-connected neutral parties in Concordia.
+- Growth/Change Arc (how they evolve over the course of the story): TBD
+- Relationship Dynamics (beyond simple alliance/rivalry — include contradictory feelings like jealousy, resentment, or hidden admiration): TBD
 
 ## Canonical Appearances
 - InnerTepeniaGDD — origin — [status: Still Present In-Game] (only project of appearance currently)
 
 ## Design Notes & Open Questions
+- Character Basis/Inspiration (roughly 30% real people / 30% imagination / 30% famous figures or literary characters / 10% intuitive "magic"): TBD
+- Character Depth — Round or Flat (multidimensional/evolving vs. functional/single-note; flat may suit background, comic-relief, or world-building roles): TBD
+- Anti-Stereotype Check (tentative — may not apply to every character; which stereotype, if any, is being subverted): TBD
 - TODOs:
   - Her rank and specific role within the Red Spiral (confirmed not the leader; the leader's identity is also undetermined)
   - Whether she was a founding member of the Red Spiral or simply joined later

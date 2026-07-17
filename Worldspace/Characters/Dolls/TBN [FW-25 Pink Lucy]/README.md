@@ -21,7 +21,10 @@
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
 **Weakness (fundamental flaw):** TBD
+**Strengths & Skills (what they're good at):** TBD
 **Goal (broad-scale desire):** TBD
+**Values & Passions (what/who they care about most):** TBD
+**Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
 Peachy/strawberry-blonde wavy hair, warm amber-brown eyes. The defining palette is pink and peach — warm, soft, open. Reference material shows her in an oversized fluffy/textured peach-pink hoodie, with peach circle earrings and a delicate gold bar necklace at the collarbone. Her hands are extended toward the viewer, reaching forward — the image is built around the gesture of reaching out to someone. Her expression is completely open, warm, slightly eager, unguarded; she is not performing warmth, she simply has it. The pink tones are her chromatic signature — the color of the energy she puts into a room. (See `Reference_Images/` folder.)
@@ -30,19 +33,28 @@ Peachy/strawberry-blonde wavy hair, warm amber-brown eyes. The defining palette 
 - Brief Personality Summary (abbreviated): TBD
 - Character summary: (placeholder)
 - Speech patterns / quirks / recurring phrases: (placeholder)
+- Mannerisms (recurring physical habits/tics): TBD
 - Behavior under stress: Under integration (thriving), her relentless outward energy quiets into something more focused, still, and depth-seeking. Under disintegration (stress), that warmth inverts into something critical, rigid, and impossible to please. District-specific behavior otherwise undetermined.
+- Response to Failure (pragmatic vs. emotional; what they learn): TBD
 - Moral tendencies: (placeholder)
+- Signature Objects/Possessions (what they carry or own that reveals identity or values): TBD
 
 ## Backstory Summary
 - Brief Backstory Summary (abbreviated): TBD
 Originally from Dumont d'Urville (Adélie Land) — a Tepenia native. **Migration route resolved 2026-07-12:** before the Long Night War, she relocated from Dumont d'Urville to Janbogo (via Highway 183), settling there for a time — not to the city of Casey, the route's previously-considered alternative. The route was decided on personality-match grounds: Janbogo's own civic identity — a city whose whole character is about making people feel at home, absorbing and re-originating whatever culture reaches it (Chinese-French fashion fusion, a teahouse tradition that has traveled past its Korean roots, comparable to New Orleans jazz's "belongs to everyone now" pattern) — is close to a one-to-one match with her own established visual read: "the person who makes you feel included before you've decided whether to be." Casey was the weaker fit, both because its own civic character is comparatively muted and function-oriented, and because it was destroyed early in the war as a targeted strategic chokepoint, which would have compressed her time there uncomfortably short.
 
 ## Role in Main Story / World
+- Story Function (why this character matters to the plot mechanically): TBD
 - Connection to larger narrative: (placeholder)
+- Growth/Change Arc (how they evolve over the course of the story): TBD
+- Relationship Dynamics (beyond simple alliance/rivalry — include contradictory feelings like jealousy, resentment, or hidden admiration): TBD
 
 ## Canonical Appearances
 - InnerTepeniaGDD — origin — [status: Still Present In-Game] (only project of appearance currently)
 
 ## Design Notes & Open Questions
+- Character Basis/Inspiration (roughly 30% real people / 30% imagination / 30% famous figures or literary characters / 10% intuitive "magic"): TBD
+- Character Depth — Round or Flat (multidimensional/evolving vs. functional/single-note; flat may suit background, comic-relief, or world-building roles): TBD
+- Anti-Stereotype Check (tentative — may not apply to every character; which stereotype, if any, is being subverted): TBD
 - **Open question, deliberately deferred (2026-07-12):** whether she subsequently fled to Janbogo→Concordia (current filing, main-game companion) or remained in Janbogo through the war and is instead a Janbogo/Ross Sea subnet DLC's recruitable companion. Both are supportable, since Janbogo survived the war damaged, not destroyed.
 - TODOs: Name and full identity not yet finalized in source project.
