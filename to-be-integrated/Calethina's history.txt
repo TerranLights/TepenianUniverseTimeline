@@ -1,0 +1,10 @@
+Calethina's history:
+
+Request: Mawson [Mawson]
+Spec & Schematic design: Neumayer [Halley]
+Engineering & programming: Kuslun [Mirny]
+Full construction: Byrd [Byrd]
+Stress-testing: Sejong [Palmer]
+Shipped via: Port Lockroy [Palmer]
+Shipping Reroute ordered by: Fort McMurdo [Janbogo]
+Forward Shipped via: Amundsen-Scott Station [Amundsen-Scott]
