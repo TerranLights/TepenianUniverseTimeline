@@ -9,19 +9,24 @@ Tracks open work across the Tepenian Universe Timeline repo. Check items off as 
 
 ### Calethina — foundational backstory is in, specific threads still open
 No longer this repo's most urgent character gap (a real backstory design session gave her a degradation cause, a second embodiment path, and a construction/shipping origin — see her README/Formative_History). But a full cross-subnet research pass (`Reference/Amundsen_Station_Archive_and_Trucking_Network.md`) turned up several specific, genuinely open threads — nothing below is locked in anywhere else in either repo, so each is real work, not just unmigrated content:
-- [ ] Her holographic, bodiless nature's fuller story — why/how she exists only as a projection, beyond the bare fact of it.
-- [ ] Her role in the Amundsen Tower evacuation — currently just asserted ("played a major role"), no specifics anywhere.
-- [ ] The *personal* side of her Planetary Split Brain connection — the Mountain Pass/chamber link is a confirmed supply-chain connection to the Tower's collapse, but her own degradation being tied to that same event is a separate, still-undeveloped narrative thread.
-- [ ] Ji-Eun Kim's ultimate fate — referenced via the ruined facility Calethina knows about, unresolved independently of Calethina's own arc.
+
+**Resolved 2026-07-23 (cross-synced from InnerTepeniaGDD's new 348-line Calethina master reference file):**
+- ~~Her role in the Amundsen Tower evacuation~~ — she personally created the Triage Protocol (Power Core rationing/rolling-failure safeguards) during the evacuation itself; see her README.
+- ~~The *personal* side of her Planetary Split Brain connection~~ — refined into a confirmed three-part wound structure: a deliberate wartime knowledge-wipe (Fort McMurdo order), the accidental Split Brain shock, and the shock separately erasing her own memory of having created the Triage Protocol. See her README.
+- ~~Ji-Eun Kim's ultimate fate~~ — turns out this was already resolved independently in this repo (not by the new InnerTepeniaGDD material): she chose deliberate, permanent concealment. InnerTepeniaGDD's own material still calls her status "unknown/TBD" — this repo is ahead on this one point, nothing to fix here.
+- ~~Fort McMurdo reroute motive~~ — was previously inferred only; now explicitly confirmed as a deliberate order, paired with the knowledge-wipe instruction above.
+
+**Still open:**
+- [ ] Her holographic, bodiless nature's fuller story — why/how she exists only as a projection, beyond the bare fact of it. (The 2026-07-23 sync added texture — RAID-distributed backup instances now reduced to one, a hard "never walks" rule — but the deeper "why only a projection" question is still open.)
 - [ ] Cancer and Capricorn district content doesn't reflect her lab at all, despite her lab sitting at the Cancer/Taurus/Capricorn corner (confirmed via the Concordia Ultra-Megasheet and Hub's own file).
-- [ ] **Her full construction/shipping chain, location by location** — seven confirmed stops (`Founding_Construction_Chain_UNMARKED.md` in InnerTepeniaGDD), checked one by one against each location's own city document during the research pass. Only one stop has any acknowledgment at all; the rest is a one-directional gap across the whole chain, not just two cities:
-  - [ ] **Mawson** (request/design work) — zero acknowledgment in Mawson's own document, despite her confirmed role there.
-  - [ ] **Neumayer** (Halley subnet — design work, confirmed 2026-07-12 as the specific city) — zero acknowledgment by name in Neumayer's own document, but a strong thematic fit worth developing: Neumayer's own established civic role is precision schematic/design work (it designed the Amundsen Tower itself, and per Lazar's own document, "the current-generation fabrication-synthesis chamber's schematic") — exactly the kind of design work her chain attributes to this stop.
-  - [ ] **Kunlun/Mirny** (engineering) — Kunlun's own document says nothing; the connection only surfaces indirectly via Soyuz's file and the Mirny Subnet Ultra-Megasheet (and that's the *lab chamber* thread, not this construction-chain stop specifically).
-  - [ ] **Byrd** (construction) — the one stop with a real acknowledgment: `Byrd_DLC_Enrichment_Possibilities.md` explicitly names "the Mountain Pass/Calethina's-lab connection" as established precedent.
-  - [ ] **Sejong/Palmer** (stress-testing) — zero acknowledgment in Sejong's own document.
+- [ ] **Her full construction/shipping chain, location by location** — now nine confirmed stops per InnerTepeniaGDD's 2026-07-23 master reference file (up from seven), including a full physical route with highway numbers and the road not taken. Checked one by one against each location's own city document during the original research pass; only Byrd has any acknowledgment at all — the rest remains a one-directional gap on InnerTepeniaGDD's side, not something this repo needs to fix, just tracked here for completeness:
+  - [ ] **Mawson** (request) — zero acknowledgment in Mawson's own document, despite her confirmed role there.
+  - [ ] **Neumayer** (Halley subnet — spec/schematic design) — zero acknowledgment by name in Neumayer's own document, but a strong thematic fit worth developing: Neumayer's own established civic role is precision schematic/design work (it designed the Amundsen Tower itself, and per Lazar's own document, "the current-generation fabrication-synthesis chamber's schematic") — exactly the kind of design work her chain attributes to this stop.
+  - [ ] **Kunlun/Mirny** (engineering) — Kunlun's own document says nothing; the connection only surfaces indirectly via Sinheung's file (formerly tracked as "Soyuz," officially renamed 2026-07-14) and the Mirny Subnet Ultra-Megasheet (and that's the *lab chamber* thread, not this construction-chain stop specifically).
+  - [ ] **Byrd** (full construction) — the one stop with a real acknowledgment: `Byrd_DLC_Enrichment_Possibilities.md` explicitly names "the Mountain Pass/Calethina's-lab connection" as established precedent.
+  - [ ] **Sejong/Palmer** (stress-testing) — zero acknowledgment in Sejong's own document, despite a specific rationale now confirmed (chosen for its dense multinational population as demographic cover against Upper Earth tampering).
   - [ ] **Port Lockroy** (shipping route) — zero acknowledgment in Port Lockroy's own document.
-  - [ ] **Fort McMurdo** (the unexplained reroute) — no explicit textual mention, but a strong *inferred* motive exists: Fort McMurdo's own civic identity and capital-status legitimacy are tied to having built the Amundsen Tower's supporting infrastructure, which would give it real interest in or leverage over anything else routed near the Tower.
+  - [ ] **Fort McMurdo** (the wartime reroute) — no explicit textual mention in Fort McMurdo's own document, even though the motive itself is now fully confirmed rather than merely inferred.
   - [ ] **Amundsen-Scott Station** (final leg, through the Tower's own site) — zero acknowledgment in Amundsen Station's own Megasheet.
 
 ### Needs a backstory session
@@ -37,6 +42,29 @@ No longer this repo's most urgent character gap (a real backstory design session
 - [ ] Only InnerTepeniaGDD's 38 Dolls have been cross-ported into this shared repo so far. TheCryptographHelixDD (László confirmed there) and OuterTepenia1_GDD (no characters written yet) haven't had their characters brought in.
 
 ## Timeline
+
+### City Histories → Second Interwar Period meta-timeline (flagged 2026-07-23, not started)
+The user's goal: build a rough, approximate meta-timeline of the Tepenian Federation from
+city-level history, specifically to help fill in Era 2 (Second Interwar Period)'s still-open
+beats above. Direction confirmed, but no content written yet:
+- [ ] `to-be-integrated/city-histories/` already holds a 45-file blank scaffold (all 35 cities +
+  Amundsen Station + Tri-Cities Region), using a lightweight This-happens/But-this-happens/
+  Therefore-this-happens structure. Every file is still the unfilled template.
+- [ ] InnerTepeniaGDD has a **much more built-out** version: `Course_of_Events/` folders per
+  city, 11 filled-in entries each (~95 lines apiece), all 35 cities + Amundsen Station complete.
+  Richer cycle structure (State of Affairs → Trigger → Conflict → Culmination → 2nd/3rd-Order
+  Change → State of Affairs 2). **Not directly portable as-is** — the Conflict section is
+  explicitly CRPG quest-design raw material (Character A/B roles deliberately left blank for
+  later companion/quest assignment), out of scope here per `Reference/Repo_Scope.md`.
+- [ ] **Confirmed approach:** when this work starts, extract from InnerTepeniaGDD's
+  Course_of_Events content, strip the Conflict/quest-hook framing, and keep only the causal
+  historical shape (state of affairs → what changed → outcome), written into this repo's own
+  lighter template.
+- [ ] **Confirmed: leave undated for now.** Matches InnerTepeniaGDD's own source material, which
+  doesn't commit to specific years either. A dating/era-placement pass is separate, later work,
+  once more cities are actually drafted.
+- [ ] Not yet started — this is scoping/flagging only, confirmed via `AskUserQuestion` on
+  2026-07-23. Pick this up as its own dedicated task.
 
 - [ ] **Era 3 — The Solar Colonization** has no `Timeline.md` yet (only an empty `README.md`). Needs a real year-by-year timeline, once the era's exact date range is settled (see Reconciliation below).
 - [ ] **Era 4 — Post-Solar eras** has no `Timeline.md` yet either. Likely needs to be split into three sub-timelines matching the three planned Outer Tepenia games (Jupiter / Saturn / the Centauri binary system).
