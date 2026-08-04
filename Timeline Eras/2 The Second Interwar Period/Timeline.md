@@ -44,19 +44,21 @@ sits exactly one day past this window (the solstice itself) and should be moved
 into the March 22 – June 20 range once a specific day is chosen — not yet decided
 which day within that range.
 
-**Major open tension, flagged 2026-07-05 — not yet resolved:** the developer has
-decided Amundsen Tower's completion belongs at this era's **Midpoint**, tentatively
-placed at exactly 50% (**June 21, 2688**, under the placeholder span above) — see the
-Midpoint section below for the full reasoning. This directly **contradicts** Amundsen
-Tower's completion date as already established elsewhere in the GDD (**~2629–2639**,
-cited in `Concordia_Second_Interwar_Cultural_Sheet.md`, `TODO.md`'s Infrastructure
-Sequence entry, and — most consequentially — the entire "~178-year operating window"
-throughput calculation in `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_
-Design.md`). The developer's own framing: this is tentative, "somewhere around" the
-Midpoint rather than literally 50%, with a conclusive year/day to be settled once
-more background is developed. **Until resolved, do not treat either date (~2629-2639
-or ~2688) as settled canon — both are live possibilities, and reconciling the Tower's
-math file against whichever date wins is a real, tracked task — see `TODO.md`.**
+**RESOLVED 2026-08-05, developer-confirmed:** Amundsen Tower's completion sits at this
+era's **Midpoint**, ~2688 — but explicitly **not** locked to an exact year. The
+developer's own framing: "the Midpoint plus-or-minus a couple of decades," given the
+Second Interwar Period's own ~248-year total span — so treat ~2688 as a working
+central value with a genuine ±~20-year tolerance (very roughly ~2668-2708), not a
+forced precise date. This supersedes the older ~2629-2639 figure that had been cited
+as settled in `Concordia_Second_Interwar_Cultural_Sheet.md`, `TODO.md`'s
+Infrastructure Sequence entry, and the throughput calculation in
+`Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md` (now itself
+updated in InnerTepeniaGDD — see that repo's `project_amundsen_tower_completion_
+date_resolution` memory for the full reconciliation). **Still open:** Cryptograph
+Helix's own `series-overview/universe-timeline.md` still states ~2630-2640 as
+inherited fact — that repo has real, already-drafted prose downstream of the old
+date and needs its own separate, explicit developer decision before any correction
+is made there. Do not assume this resolution has propagated to Cryptograph Helix.
 
 ---
 
@@ -75,7 +77,7 @@ math file against whichever date wins is a real, tracked task — see `TODO.md`.
 | *Kick in the Shins* | Bell | TBD — early Road of Trials; NOT Tower construction start (ruled out 2026-07-05, conflicts with established ~12-17yr construction length) | TBD |
 | **Road of Trials / Fun and Games** | Campbell / Save the Cat ("Promise of the Premise") | ~2614 – ~2688 | 20.0–50.0% |
 | *Pet the Dog* | Bell | TBD — must land close to the Midpoint, just before or after | TBD, 50(±1–2)% |
-| **Midpoint / Mirror Moment** | Bell | **June 21, 2688** (tentative — Amundsen Tower completion; see caveat above) | 50.0% (exact, by deliberate choice) |
+| **Midpoint / Mirror Moment** | Bell | **~2688** (resolved — Amundsen Tower completion, ±~20yr flexibility; see caveat above) | 50.0% (approximate placement, exact percentage kept for structural convenience) |
 | *Self-Revelation* | Truby | TBD — flexible anywhere across the 2nd half of Act 2 (default preference: All Is Lost) | TBD, 50.0–75.0% |
 | **Bad Guys Close In** | Save the Cat | ~2688 – ~2750 | 50.0–75.0% |
 | **All Is Lost** | Save the Cat | ~2750 | ~75.0% |
@@ -288,7 +290,7 @@ made it look; isolationist backlash from a resentful city/faction) were consider
 but not carried forward for now.
 
 ### Midpoint / Mirror Moment
-**June 21, 2688 (tentative)**
+**~2688 (resolved 2026-08-05, ±~20yr flexibility — not locked to an exact year)**
 
 **Amundsen Tower's completion** — placed here deliberately, per the developer's
 2026-07-05 direction, as a **False Victory** (Snyder's Midpoint is either a False
@@ -312,11 +314,10 @@ foundation for the false victory to rest on, and a far larger, multi-axis
 catastrophe when it's lost at END (see `Energy_Grid_Failure_Rationale.md` #11 for the
 resulting acute grid-overload event plus permanent chronic instability).
 
-**Tentative placement, not yet reconciled — see the caveat at the top of this file.**
-The Tower's completion is established elsewhere as ~2629–2639, not 2688; this
-50%-exact placement is a deliberate structural choice pending a final decision on
-the actual date, made "somewhere around" the Midpoint rather than locked to exactly
-half the era.
+**Resolved 2026-08-05 — see the caveat at the top of this file.** The older
+~2629-2639 figure is superseded; ~2688 is now the working date across
+InnerTepeniaGDD and this repo, kept deliberately "somewhere around" the Midpoint
+(±~20yr) rather than locked to exactly half the era or to a precise year.
 
 **Confirmed span math (2026-07-05):** Midpoint (2688) to Break into Three (~2762,
 the Long Night War's inciting incident — see below) is **~74 years**; Break into
@@ -538,14 +539,15 @@ written into the END section above. Everything below was specifically checked
 against InnerTepeniaGDD and confirmed still genuinely open there too — not just
 unmigrated.
 
-- **The Amundsen Tower date tension is confirmed still unresolved in InnerTepeniaGDD
-  itself, not just here** — full sourcing exists for ~2629–2639
-  (`Concordia_Second_Interwar_Cultural_Sheet.md`, `TODO.md`, and the ~178-year
-  throughput math in `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_
-  Design.md`, whose own "Still Open" section confirms a precise date was never
-  pinned down more tightly than that range) but nothing in either repo has resolved
-  it against this file's tentative ~2688 Midpoint placement. This needs an actual
-  decision, not further migration.
+- **The Amundsen Tower date tension is RESOLVED as of 2026-08-05** — ~2688 (this
+  file's own Midpoint placement, ±~20yr flexibility) won, superseding the older
+  ~2629-2639 figure. InnerTepeniaGDD's own files (`Concordia_Second_Interwar_
+  Cultural_Sheet.md`, `TODO.md`, the throughput math in `Theoretical-Calculations/
+  Amundsen_Tower_Space_Fountain_Design.md`) and this repo's own `Reference/
+  World_History_Reference.md` have all been reconciled to match. **Still open:**
+  Cryptograph Helix's own timeline (`~2630-2640`, inherited from this repo's older
+  stated fact) has NOT been touched — separate, more cautious decision needed there
+  given real drafted prose depends on it.
 - Fill in TBD events for every beat still marked TBD above — Catalyst, Debate,
   All Is Lost, Dark Night of the Soul (detail beyond the Merit Board Audit),
   Bad Guys Close In, Closing Image.
