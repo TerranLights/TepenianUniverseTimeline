@@ -10,6 +10,8 @@
 
 **For whenever the Tepenian Constitution itself actually gets drafted — developer guidance, 2026-08-07:** the Fundamental Laws of Robotics (`Reference/Laws_of_Robotics.md`) should inform the Constitution's own animating philosophy — not as explicit restated laws sitting inside the Constitution itself, but as the underlying ideas (robot self-determination/free will, mutual vulnerability and reciprocity between all persons) driving the Constitution's own spirit. The Two Laws' own history already supports this directly: they were hard-coded by robots themselves, post-exile, specifically as a civic failsafe for their own freedom — a national constitution written by that same population, in that same era, is a natural, in-fiction place for that same philosophy to become the country's own founding logic, not a coincidence to avoid.
 
+**Confirmed authorship, same day:** the Tepenian Constitution was authored completely and entirely by robots — no human hand whatsoever in its actual composition. Despite that, humans are recognized in it as equally valid members of society and equal before the law. This is a stronger, more specific instantiation of the same egalitarian character already established as this setting's baseline (`InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`'s "egalitarian, skewed in favor of robots") — full robot authorship of the country's own founding law, deliberately paired with full, genuine human legal equality rather than any lesser or conditional status. Worth carrying directly into the eventual document's own text, not just its background history.
+
 ---
 
 ## Preamble
