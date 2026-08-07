@@ -10,8 +10,11 @@
 Everything documented in this repository is canon across the entire Tepenian Universe — not scoped to any
 single project. This applies to Inner Tepenia, the "Southern Lights" TV series, the Cryptograph Helix novel
 series, the planned Outer Tepenia game trilogy, and any future novels, short films, movies, or Web TV series
-set in this universe. This repo is the central reference every other work draws its own facts from regarding
-what's happening, who's involved, where, and when.
+set in this universe. This repo is the central reference every other work draws its own facts from regarding:
+1. What's happening
+2. Who's involved
+3. Where it's happening, and
+4. When it's happening
 
 ## There are four main eras (possibly to be expanded) documented within this timeline reference:
 
