@@ -38,15 +38,6 @@ this Law underwrites.
 
 ---
 
-## Cross-Applicability
-
-This repo is the central reference for **what's happening, who's involved, where, and when** across the
-entire Tepenian Universe. Everything in this file is therefore canon everywhere that universe is used — Inner
-Tepenia, the Cryptograph Helix novel series, the planned Outer Tepenia games, and any future novels, short
-films, movies, or Web TV series set in the same universe — not scoped to any single project.
-
----
-
 ## Open Questions
 
 - Does this document carry quasi-sacred, founding-charter weight in robot culture, given it was created as a

@@ -5,6 +5,14 @@
 - What kind of a world do the characters live in
 - When does everything happen
 
+## Cross-Project Canon Authority
+
+Everything documented in this repository is canon across the entire Tepenian Universe — not scoped to any
+single project. This applies to Inner Tepenia, the "Southern Lights" TV series, the Cryptograph Helix novel
+series, the planned Outer Tepenia game trilogy, and any future novels, short films, movies, or Web TV series
+set in this universe. This repo is the central reference every other work draws its own facts from regarding
+what's happening, who's involved, where, and when.
+
 ## There are four main eras (possibly to be expanded) documented within this timeline reference:
 
 ### The First Interwar Period
