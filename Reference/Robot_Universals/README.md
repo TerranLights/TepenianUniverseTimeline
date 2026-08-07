@@ -42,6 +42,8 @@ any order — nothing here requires the whole book to be written front-to-back.
 
 ## Table of Contents
 
+### [Preface](Preface.md)
+
 ### [Part I — Ground-Level Fundamentals](Part_I_Ground-Level_Fundamentals/README.md)
 *The technical, biological, and legal substrate — what's true of an individual robot at or near
 fabrication, before any culture has had a chance to form.*
