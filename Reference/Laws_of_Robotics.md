@@ -38,10 +38,17 @@ this Law underwrites.
 
 ---
 
+## Constitutional Connection — resolved 2026-08-07
+
+The Fundamental Laws should inform the future Tepenian Constitution's own animating philosophy — not as
+explicit restated laws sitting inside the Constitution itself, but as the underlying ideas (robot
+self-determination/free will, mutual vulnerability and reciprocity between all persons) driving the
+Constitution's own spirit. Full guidance recorded at
+`Reference/Falkland_Treaty/Scaffold.md`, for whenever that document actually gets drafted — the Falkland
+Treaty itself deliberately stays out of Tepenia's internal government structure, deferring it there.
+
 ## Open Questions
 
-- Does this document carry quasi-sacred, founding-charter weight in robot culture, given it was created as a
-  collective act of self-protection after exile — closer to a constitution than a technical spec?
 - Does the Two Laws system have an in-world name robots would actually call it by, the way "the Falkland
   Treaty" or "the Cradle" have names?
 - What further laws (the list is explicitly not yet complete) — not yet developed.

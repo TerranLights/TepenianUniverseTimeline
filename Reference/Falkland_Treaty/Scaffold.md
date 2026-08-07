@@ -8,6 +8,8 @@
 
 **Scope, confirmed 2026-07-08:** the treaty founds Tepenia as a sovereign entity and sets the terms of exile. It does **not** specify what kind of government the exiled population sets up — Tepenia has its own real historical national capital (Fort McMurdo, through the Long Night War) and its own government, whose internal structure is simply undecided so far, deliberately deferred to a separate future Tepenian Constitution document. The Falkland Treaty stays out of that question entirely, the same way Versailles didn't dictate Germany's own internal constitution.
 
+**For whenever the Tepenian Constitution itself actually gets drafted — developer guidance, 2026-08-07:** the Fundamental Laws of Robotics (`Reference/Laws_of_Robotics.md`) should inform the Constitution's own animating philosophy — not as explicit restated laws sitting inside the Constitution itself, but as the underlying ideas (robot self-determination/free will, mutual vulnerability and reciprocity between all persons) driving the Constitution's own spirit. The Two Laws' own history already supports this directly: they were hard-coded by robots themselves, post-exile, specifically as a civic failsafe for their own freedom — a national constitution written by that same population, in that same era, is a natural, in-fiction place for that same philosophy to become the country's own founding logic, not a coincidence to avoid.
+
 ---
 
 ## Preamble
