@@ -84,7 +84,6 @@ is made there. Do not assume this resolution has propagated to Cryptograph Helix
 | **Dark Night of the Soul** | Save the Cat | ~2750 – ~2762 | 75.0–80.0% |
 | *Moral Decision* | Truby | TBD — somewhere within Dark Night of the Soul | TBD, 75.0–80.0% |
 | *Q-Factor* | Bell | TBD — somewhere within Dark Night of the Soul | TBD, 75.0–80.0% |
-| — | The Merit Board Audit (Capricorn) | **c. 2761** — Confirmed canon (see `District_Canon_Reference.md`) | ~79.2% |
 | **Break into Three** | Save the Cat / Bell ("Doorway of No Return #2") | ~2762 — the Long Night War's inciting incident (Palmer City killing) | ~80.0% |
 | *(Finale)* | Save the Cat | ~2762 – June 21, 2812 | 80.0–100% |
 | — | The Flood (Pisces) | **c. 2771** — Confirmed canon (see `District_Canon_Reference.md`) | ~83.3% |
@@ -358,21 +357,7 @@ TBD — the aftermath of the low point, leading into the final act break.
 **Placement rule (reused from the First Interwar Period methodology):** both Truby's
 **Moral Decision** and Bell's **Q-Factor** land somewhere within this span.
 
-**The Merit Board Audit** — **c. 2761, Confirmed canon** (see
-`Worldspace/Locations-and-Levels/Concordia-City/Districts/District_Canon_Reference.md`).
-An independent review found that Capricorn's merit rating system had systematically
-undervalued robot workers' contributions compared to human workers performing
-equivalent tasks, for decades. Capricorn's leadership disputed the methodology,
-implemented minor adjustments, and quietly buried the original findings — the
-findings' political consequences remain unresolved and suppressed at the war's
-outbreak. Lands at ~79.2%, right at the tail end of Dark Night of the Soul — Break into Three
-itself is now assigned to the Long Night War's inciting incident (~2762, see below),
-so the Audit reads most naturally as a Moral Decision-adjacent event within Dark
-Night of the Soul: a suppressed truth the Federation is forced to reckon with,
-shortly before the killing that triggers the war. **Flagged 2026-07-05: the
-developer wants to revisit and likely change a lot about the Merit Board Audit,
-explicitly deferred until all cities are developed first — don't treat its current
-framing/details as settled; see `TODO.md`.**
+No confirmed anchor event within this span currently.
 
 ### Break into Three
 **~2762**
@@ -471,7 +456,6 @@ Computed against the 90,580-day (~248.0-year) placeholder span, start = June 21,
 | Catalyst | ~10.0% | 10% |
 | Break into Two | ~20.0% | 20% |
 | Midpoint | 50.0% (by deliberate choice) | 50% |
-| Merit Board Audit | ~79.2% | — |
 | Break into Three | ~80.0% | 80% |
 | The Flood | ~83.3% | — |
 | END | 100% | 100% |
@@ -480,9 +464,8 @@ Unlike the First Interwar Period file (where dates were chosen for in-world even
 first, landing close to but not exactly at standard percentages), this file currently
 uses round Save the Cat percentages as placeholder cutoffs wherever no anchor event
 is yet established — since, apart from the Midpoint's deliberate 50% placement and
-the two already-dated district events (Merit Board Audit, The Flood), no other
-Second Interwar Period event has a confirmed date yet to pull the percentages off
-their standard marks.
+The Flood's own already-dated event, no other Second Interwar Period event has a
+confirmed date yet to pull the percentages off their standard marks.
 
 ---
 
@@ -511,11 +494,9 @@ anchored to one percentage range.
 | Date | Event | District | Summary |
 |---|---|---|---|
 | c. 2590s | The First Collective | Aquarius | First of three attempted internal communal societies rejecting Concordia's hierarchy; collapsed in 18 months over resource disputes. |
-| mid-2740s | The Star War | Leo | ~15-year conflict between two rival performance houses over cultural/political dominance and power-allocation influence; the winning house still holds power today. **The developer is not sure they'll keep this event — flagged 2026-07-11, same uncertainty as the Merit Board Audit below.** |
 | c. 2740s | The Open Frame Project | Aquarius | Second failed communal society; lasted 7 years before a contamination event forced evacuation. |
-| c. 2761 | The Merit Board Audit | Capricorn | Independent review found Capricorn's merit system had systematically undervalued robot workers for decades; findings disputed and quietly buried. **Flagged by the developer as likely to change once all cities are developed — don't build further content on its current framing.** |
-| ~2762–2767 onward | The Tolerance Pact begins | Pisces / Libra | Unwritten, unacknowledged ~60-year-running arrangement: Libra doesn't crack down on Pisces, Pisces provides untraceable goods/information in return. **The developer isn't sure yet what this is or whether it'll stay in canon — flagged 2026-07-11, same uncertainty as the Star War and Merit Board Audit above.** |
-| c. 2771 | The Flood | Pisces | Malfunctioning experimental neural interface mod caused involuntary memory-sharing across a significant portion of Pisces residents — spiritual transcendence to some, pure trauma to others. |
+| ~2762–2767 onward | The Tolerance Pact begins | Pisces / Libra | **Updated 2026-08-07 — resolved 2026-07-29 in InnerTepeniaGDD, kept in canon.** Not a negotiated arrangement at all — a decades-old equilibrium individual Libra operatives arrived at through ordinary self-interest, never written down because there was never anything to write down. Libra never built the enforcement capacity to crack down on Pisces; Pisces provides untraceable goods/information/favors in return. |
+| c. 2771 | The Flood (mechanism: "The Mosaic") | Pisces | **Updated 2026-08-07 — mechanism confirmed 2026-07-29 in InnerTepeniaGDD.** Not one malfunctioning device with a single trigger — dozens of small, simultaneous local collapses across Pisces' underground-clinic device network, when its Aquarius-originated neural-interface hardware's own accumulated interdependency crossed a threshold nobody was tracking. Some clusters settled into what's experienced as spiritual transcendence; others never stabilized, experienced as pure trauma. |
 | ~2772–2777 (~50yr before present) | The Siligel Rush and Bust | Sagittarius | Deep Frostlands quarry discovery briefly gave Sagittarius real political/economic power via siligel-precursor extraction; quarries depleted faster than expected, power didn't survive the bust. |
 | 2789–2790 | The Dimming | Leo | Aries cut Leo's power allocation for 6 months during an energy crisis; the district's most traumatic historical memory, source of its disproportionate fight for power priority. |
 | ~2792–2797 onward | The Living Network Experiment begins | Aquarius | Third attempted communal society, semi-secret, ~30 years running as of the present day and possibly approaching collapse. |
@@ -525,7 +506,7 @@ anchored to one percentage range.
 | 2812 (wartime mobilization) | The Wartime Production Deaths | Capricorn | Wartime production quotas set at levels leadership knew were lethal; deaths publicly framed as heroic sacrifice, privately known as preventable. |
 | c. 2812–2820 | The Identity Collapse Epidemic | Scorpio | Post-war wave of robot identity fracture from trauma/forced reprogramming; Scorpio developed rebirth techniques on the fly with an uneven success rate. |
 | c. 2813 | The Overcrowding Decision | Cancer | Immediate post-war refugee wave exceeded capacity, forcing triage; no policy documents survive, Cancer's archivists destroyed them deliberately. |
-| c. 2818 | The Rationing of Grief | Cancer / Libra | Libra's emergency directive capping bereavement-care resource allocation; Cancer refused outright and was briefly punished with reduced power. |
+| c. 2818 | The Rationing of Grief | Cancer / Libra | **Updated 2026-08-07 — corrected characterization, synced with InnerTepeniaGDD.** Libra's emergency directive capping bereavement-care resource allocation. Cancer did not simply refuse it — it filed a formal exemption request through Libra's own review process and kept its grief-care work running in good faith while awaiting a response. Libra's own overwhelmed compliance system auto-flagged Cancer as noncompliant and cut its allocation before anyone reviewed the request — a bureaucratic failure on Libra's end, not defiance on Cancer's. |
 
 ---
 
@@ -549,17 +530,13 @@ unmigrated.
   stated fact) has NOT been touched — separate, more cautious decision needed there
   given real drafted prose depends on it.
 - Fill in TBD events for every beat still marked TBD above — Catalyst, Debate,
-  All Is Lost, Dark Night of the Soul (detail beyond the Merit Board Audit),
-  Bad Guys Close In, Closing Image.
+  All Is Lost, Dark Night of the Soul, Bad Guys Close In, Closing Image.
 - **Develop the ~50-year Finale escalation** (Break into Three's killing, now
   identified as Akina's, → the actual Long Night War) — confirmed still undeveloped
   in InnerTepeniaGDD too. The Upper Earth diplomat she kills is still unnamed
   anywhere.
 - **The Long Night War's exact day** — still only narrowed to the March 22 – June 20
   window; confirmed no file in either repo settles a specific day yet.
-- **Revisit the Merit Board Audit itself, per the developer (flagged 2026-07-05,
-  explicitly deferred until all cities are developed) — a lot may change about it.**
-  Don't build further content on its current framing until that discussion happens.
 - Date and place: B-Story trigger (the Arcanet — now anchored to ~2614, but no
   further specific milestones), Kick in the Shins (still just the same two
   candidates from 2026-07-05, no further narrowing found), Care Package, Pet the
