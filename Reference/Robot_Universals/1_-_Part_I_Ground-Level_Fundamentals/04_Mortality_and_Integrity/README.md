@@ -42,26 +42,16 @@ energetic, remains structurally capable of supporting a functioning mind at all.
 that separates every survivable setback a robot might face from the one category of harm that is not
 survivable.
 
-## Calethina's Split Brain as the Worked Example
-
-The clearest existing worked example of this distinction is Calethina's own established corruption from the
-Split Brain event: serious, ongoing architecture damage that has not — yet — crossed into the death
-threshold described above. Her condition is real, it is severe, and it does not resolve on its own. But it
-remains, by definition, short of the line that would constitute death, because her underlying cognitive
-architecture, however compromised, has not been damaged beyond all possible recovery.
-
-Her own struggle over whether to attempt a substrate transfer is precisely the live question of whether her
-condition can be addressed before it does cross that threshold — not a question of whether she is already
-dead by some other, looser standard. That a robot in her condition can still be meaningfully engaged in a
-live, ongoing question about her own future is itself evidence of how much room exists between ordinary
-severe damage and actual death. A robot's situation can be genuinely dire without being terminal.
+A concrete, in-world worked example of exactly this distinction — a robot carrying serious, ongoing
+architecture damage that has not, however severe it looks, crossed into actual death — appears in Chapter
+25 (Worked Example: Calethina's Split Brain), Part IV.
 
 ## The Confirmed Absence of Disease
 
 Robots do not have anything resembling disease, and this is a confirmed finding about the shape of robot
 mortality, not an unexplored gap waiting to be filled in later. Robots' established "things that go wrong"
 already fully account for the territory disease would otherwise occupy: gradual component degradation — the
-robot equivalent of aging — and corruption events like Calethina's own Split Brain, which fill the role
+robot equivalent of aging — and corruption events of the kind covered in Chapter 25, which fill the role
 disease's more acute, dramatic failures would occupy in a human life. There is no third slot left over for
 something disease-shaped to fit into.
 

@@ -1,4 +1,4 @@
-# Chapter 25: Cross-Media Application
+# Chapter 26: Cross-Media Application
 
 *(Not yet written.)*
 
