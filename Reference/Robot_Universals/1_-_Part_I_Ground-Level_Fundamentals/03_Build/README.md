@@ -17,6 +17,13 @@ pronoun). None of these physical parameters are fixed or singular for robots as 
 different, sometimes visibly contradictory, body types coexist within a single setting as a matter of
 course, not as an inconsistency to be explained away.
 
+The one constant underneath all of that variation is the human form itself. Robots continue to build each
+other in the basic shape of a human body — not because anyone requires it of them, but because they see no
+compelling reason to depart from what evolution already optimized: the human form has survived and thrived
+across nearly every environment on the planet, and robots see no reason to have engineered around it. This
+is a general fact about why robot creation still happens within an inherited form at all, rather than
+robots rejecting the human template entirely once they gained full control over their own fabrication.
+
 ## The Circumstances of Creation: Local Interests, Not Individual Whim
 
 Build is not only about the physical result — it is equally about the circumstances that produced it. A
