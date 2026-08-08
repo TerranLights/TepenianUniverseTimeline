@@ -47,6 +47,7 @@ any order — nothing here requires the whole book to be written front-to-back.
 ### [Part I — Ground-Level Fundamentals](1_-_Part_I_Ground-Level_Fundamentals/README.md)
 *The technical, biological, and legal substrate — what's true of an individual robot at or near
 fabrication, before any culture has had a chance to form.*
+
 1. [The Fundamental Laws of Robotics](1_-_Part_I_Ground-Level_Fundamentals/01_The_Fundamental_Laws_of_Robotics/README.md)
 2. [The Gel Brain](1_-_Part_I_Ground-Level_Fundamentals/02_The_Gel_Brain/README.md)
 3. [Build](1_-_Part_I_Ground-Level_Fundamentals/03_Build/README.md)
@@ -57,6 +58,7 @@ fabrication, before any culture has had a chance to form.*
 ### [Part II — Differentiation Method](2_-_Part_II_Differentiation_Method/README.md)
 *Essence-vs-accident: where and why robot experience necessarily departs from human experience, chapter by
 chapter through the human universals that don't simply transfer.*
+
 7. [The Cognitive Imperative](2_-_Part_II_Differentiation_Method/07_The_Cognitive_Imperative/README.md)
 8. [Reproduction, Kinship, and the Absence of Genetic Relatedness](2_-_Part_II_Differentiation_Method/08_Reproduction_Kinship_and_the_Absence_of_Genetic_Relatedness/README.md)
 9. [Substrate and Age](2_-_Part_II_Differentiation_Method/09_Substrate_and_Age/README.md)
@@ -65,6 +67,7 @@ chapter through the human universals that don't simply transfer.*
 ### [Part III — Robot Cultural Universals](3_-_Part_III_Robot_Cultural_Universals/README.md)
 *The actual meta-culture — the positive content, organized topically rather than as a single composite
 narrative.*
+
 11. [Kinship, Clan, and the Mentor/Mentee Institution](3_-_Part_III_Robot_Cultural_Universals/11_Kinship_Clan_and_the_Mentor-Mentee_Institution/README.md)
 12. [Cooperation, Morality, and Emergent Social Convention](3_-_Part_III_Robot_Cultural_Universals/12_Cooperation_Morality_and_Emergent_Social_Convention/README.md)
 13. [City/Locality as the Seat of Identity](3_-_Part_III_Robot_Cultural_Universals/13_City-Locality_as_the_Seat_of_Identity/README.md)
@@ -75,6 +78,7 @@ narrative.*
 
 ### [Part IV — Applying the Universals](4_-_Part_IV_Applying_the_Universals/README.md)
 *The method, formalized and made repeatable, plus concrete worked examples already established in canon.*
+
 18. [The Differentiation Engine](4_-_Part_IV_Applying_the_Universals/18_The_Differentiation_Engine/README.md)
 19. [Weighing the Axes](4_-_Part_IV_Applying_the_Universals/19_Weighing_the_Axes/README.md)
 20. [Worked Example: Vernacular Language](4_-_Part_IV_Applying_the_Universals/20_Worked_Example_Vernacular_Language/README.md)
