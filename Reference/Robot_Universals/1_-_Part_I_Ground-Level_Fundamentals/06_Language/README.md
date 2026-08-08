@@ -15,15 +15,17 @@ day to day is not fixed by the module itself; it is determined by something enti
 
 ## Locally-Conditioned Vernacular
 
-A robot's everyday, vernacular language tracks the surrounding human culture she comes online and develops
-within — the same way it works for humans. A robot activated and raised in a Chinese-dominated society
-would speak Chinese, not because anything in her own fabrication specified Chinese, but because that is the
-language of the world she actually grew up in. This is not a fixed, uniform robot-wide fact the way the gel
-brain's glow is (Chapter 2). It is a confirmed, already-working instance of the condition-derived-variation
-mechanism this book returns to throughout Part IV — condition (the surrounding human culture) produces
-variation (which specific language a robot ends up speaking), the same generative logic that produces
-distinct human languages from population to population. See Chapter 20 (Worked Example: Vernacular
-Language) for this mechanism worked through in full.
+A robot's everyday, vernacular language tracks the dominant local culture and the community who actually
+had her built — not humans specifically, but whoever the local residents and dominant culture actually are,
+robot, human, or both. A robot activated and raised where the dominant local culture and the residents who
+had her built are Chinese-speaking would speak Chinese, not because anything in her own fabrication
+specified Chinese, but because that is the language of the world she actually grew up in — a world that
+may just as easily be robot-majority as human-majority. This is not a fixed, uniform robot-wide fact the way
+the gel brain's glow is (Chapter 2). It is a confirmed, already-working instance of the
+condition-derived-variation mechanism this book returns to throughout Part IV — condition (the dominant
+local culture and community) produces variation (which specific language a robot ends up speaking), the
+same generative logic that produces distinct human languages from population to population. See Chapter 20
+(Worked Example: Vernacular Language) for this mechanism worked through in full.
 
 A concrete exception to the locally-conditioned vernacular described above — a specialized register some
 robots adopt on top of, not instead of, their own everyday language — is covered in Chapter 26 (Worked

@@ -1,7 +1,8 @@
 # Chapter 26: Worked Example: Sumerian's Liturgical Register
 
 Chapter 6 (Language) establishes that a robot's everyday, vernacular language is locally-conditioned,
-tracking whatever surrounding human culture she comes online and develops within. Sumerian's own role in
+tracking whatever dominant local culture and community — robot, human, or both — she comes online and
+develops within. Sumerian's own role in
 robot culture is the concrete, in-world instance of a genuine exception to that everyday pattern — not a
 competing vernacular that displaces the locally-conditioned one, but a separate, specialized register
 layered on top of it.

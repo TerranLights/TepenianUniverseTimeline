@@ -17,8 +17,9 @@ is true robot-wide. The differentiation engine explains *how* it gets expressed 
 population, without the underlying universal itself ever being in question.
 
 Robot vernacular language is the clearest confirmed instance of this mechanic actually working: condition
-is the surrounding human culture a robot comes online and develops within, and expression is which specific
-language she ends up speaking day to day (Chapter 6, worked through concretely in Chapter 20). The universal
+is the dominant local culture and community — robot, human, or both — a robot comes online and develops
+within, and expression is which specific language she ends up speaking day to day (Chapter 6, worked
+through concretely in Chapter 20). The universal
 — that robots have language at all, locally conditioned rather than fixed — never varies. Which particular
 language a given robot speaks varies constantly, and that variation is not noise to be explained away. It is
 the entire point of running condition through the engine in the first place.
