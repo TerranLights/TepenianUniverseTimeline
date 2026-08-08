@@ -83,4 +83,5 @@ narrative.*
 23. [Worked Example: Courtship Customs](4_-_Part_IV_Applying_the_Universals/23_Worked_Example_Courtship_Customs/README.md)
 24. [Worked Example: Arcanet Etiquette](4_-_Part_IV_Applying_the_Universals/24_Worked_Example_Arcanet_Etiquette/README.md)
 25. [Worked Example: Calethina's Split Brain](4_-_Part_IV_Applying_the_Universals/25_Worked_Example_Calethinas_Split_Brain/README.md)
-26. [Cross-Media Application](4_-_Part_IV_Applying_the_Universals/26_Cross-Media_Application/README.md)
+26. [Worked Example: Sumerian's Liturgical Register](4_-_Part_IV_Applying_the_Universals/26_Worked_Example_Sumerian_Liturgical_Register/README.md)
+27. [Cross-Media Application](4_-_Part_IV_Applying_the_Universals/27_Cross-Media_Application/README.md)

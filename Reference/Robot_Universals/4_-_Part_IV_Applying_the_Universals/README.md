@@ -12,6 +12,7 @@
 23. [Worked Example: Courtship Customs](23_Worked_Example_Courtship_Customs/README.md)
 24. [Worked Example: Arcanet Etiquette](24_Worked_Example_Arcanet_Etiquette/README.md)
 25. [Worked Example: Calethina's Split Brain](25_Worked_Example_Calethinas_Split_Brain/README.md)
-26. [Cross-Media Application](26_Cross-Media_Application/README.md)
+26. [Worked Example: Sumerian's Liturgical Register](26_Worked_Example_Sumerian_Liturgical_Register/README.md)
+27. [Cross-Media Application](27_Cross-Media_Application/README.md)
 
 See the parent [Robot Universals README](../README.md) for the book's overall scope and source material.
