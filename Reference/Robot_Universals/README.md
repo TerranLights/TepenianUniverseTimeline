@@ -1,9 +1,7 @@
 # Robot Universals
 
-**Status: skeleton only — folder structure and chapter subheaders in place, no prose yet (2026-08-07).**
-
 **What this is:** the central, cross-project reference for robot meta-culture across the entire Tepenian
-multimedia universe — this game, the Cryptograph Helix novels, the "Southern Lights" TV continuity, the
+multimedia universe — Inner Tepenia, the Cryptograph Helix novels, the "Southern Lights" TV continuity, the
 Outer Tepenia series, and anything set in this universe going forward. Any robot population, in any
 Tepenia-branded work, should be writable as a specific variation on the floor this book establishes, never
 a contradiction of it.

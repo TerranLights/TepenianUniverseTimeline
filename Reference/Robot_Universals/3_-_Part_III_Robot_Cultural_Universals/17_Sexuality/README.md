@@ -57,7 +57,7 @@ governs the encounter, judged case by case and person by person. The middle grou
 the trust-bond principle sets. It simply does not require a formal, named commitment to clear it.
 
 This directly validates, rather than contradicts, the existing casual "fuckable" character pool alongside
-full romance arcs in the game's own design. That pool was never meant to imply sex means nothing to robots
+full romance arcs in Inner Tepenia's own design. That pool was never meant to imply sex means nothing to robots
 who participate in it, or that casual encounters are the norm rather than the exception. It reflects a
 minority of robots extending real, if narrower, trust on a case-by-case basis, short of the full
 exclusivity a committed romance requires — the same underlying value at a different point on the same
