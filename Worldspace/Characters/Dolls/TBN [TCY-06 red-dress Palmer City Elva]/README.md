@@ -1,11 +1,11 @@
 ## TBN [TCY-06 red-dress Palmer City Elva] / "Elva"
 
 - **Type:** Doll
-- **Role / Archetype:** Leo performer; representative of an established performance house in the Leo district's "Star War" political history
+- **Role / Archetype:** Leo performer; representative of the "grand" tradition in Leo's grand/intimate performance-house divide, currently labeled "The Star War" — **corrected 2026-08-11 (InnerTepeniaGDD's `District_Canon_Reference.md`):** despite the name, the confirmed history has no actual war in it (see Connection to larger narrative below); the name itself is flagged for eventual replacement
 - **Personal timeline/timeframe:** XXXX
 - **Place of origin:** (placeholder)
 - **Primary Location(s) of Residence (if different):** Leo (Entertainment district)
-- **Affiliation(s):** Leo's Star War — established (winning) performance house
+- **Affiliation(s):** Leo's grand-tradition performance house — dominant through 250 years of inherited structural advantage, not victory
 - **Original Doll Model:**
 - **Original Doll Manufacturer:**
 - **Original Doll Website Catalog Page (if applicable):**
@@ -45,7 +45,7 @@ Dark brown hair — very full, voluminous curls and waves, abundant and dramatic
 
 ## Role in Main Story / World
 - Story Function (why this character matters to the plot mechanically): TBD
-- Connection to larger narrative: Elva holds a mid-tier position in Leo's performance hierarchy, working her way toward greater recognition against a social structure that makes prestige hard to hold once gained. She is associated with the Star War established house — the winning side of a mid-2740s performance-house civil war in Leo — though whether she genuinely believes in the house's philosophy or simply uses its standing strategically is undetermined in source material. She and TBN [TCY-42 ravishing extravagant Lillian] ("Lillian," also 7w8 Social, of the rival legacy house) represent the two sides of that historical divide; the nature of their relationship (rivalry, grudging respect, or something more complex) is unresolved in source material.
+- Connection to larger narrative: Elva holds a mid-tier position in Leo's performance hierarchy, working her way toward greater recognition against a social structure that makes prestige hard to hold once gained. She is associated with the grand-tradition house of Leo's grand/intimate performance divide (currently labeled "The Star War," though the confirmed history is a 250-year, nobody's-fault structural gap — a founding-era construction accident, an uncalibrated resource formula, and a 2812 succession death, not an actual conflict) — though whether she genuinely believes in the house's philosophy or simply uses its standing strategically is undetermined in source material. She and TBN [TCY-42 ravishing extravagant Lillian] ("Lillian," also 7w8 Social, of the rival intimate-tradition house) represent the two sides of that historical divide; the nature of their relationship (rivalry, grudging respect, or something more complex) is unresolved in source material.
 - Growth/Change Arc (how they evolve over the course of the story): TBD
 - Relationship Dynamics (beyond simple alliance/rivalry — include contradictory feelings like jealousy, resentment, or hidden admiration): TBD
 
