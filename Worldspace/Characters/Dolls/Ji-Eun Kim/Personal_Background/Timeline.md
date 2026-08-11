@@ -13,6 +13,7 @@
 * Later moved to Concordia; established a nanotech testing facility and continued her research; engineered the Eyes of Gold's gold ocular prosthetics.
 
 ## Long Night / Midnight War
+* Before her own disappearance: raced to complete a piece of personal concealment technology as a defensive gift for someone she loved; they were captured by Upper Earth forces and held at a compound before she could finish it, and did not survive.
 * Disappeared before or during the Long Night War — not as a casualty, but by deliberate choice, using her own nanotech expertise to make herself permanently undetectable.
 
 ## Post-Exile / Tepenia Era (Current)

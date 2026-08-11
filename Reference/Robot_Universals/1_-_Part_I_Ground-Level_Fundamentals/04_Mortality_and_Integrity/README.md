@@ -25,6 +25,40 @@ death. This is a genuinely high bar. A robot can sustain damage serious enough t
 operation, serious enough to require years of ongoing struggle to address, and still not have crossed into
 death, so long as the core cognitive and energy architecture remains theoretically recoverable.
 
+## Lifespan
+
+**Established 2026-08-10.** There is no set, predetermined lifespan for a robot — no fixed
+biological clock the way a human has one. What a robot actually gets is a function of how well
+she is maintained and whether she meets an unnatural end, not a countdown built into her from
+fabrication.
+
+Provided a robot keeps herself reasonably, sufficiently maintained, and provided she is not
+killed by unnatural means (violence, destruction, war), she can realistically expect to live
+somewhere in the range of **200 to 500 years**. This is the ordinary case — not a hard ceiling,
+but the ballpark a robot with normal, competent upkeep falls into before gradual component
+degradation (see "What Counts as Death," above) eventually crosses the death threshold.
+
+Robots with very well-developed knowledge and skill in mechanics and "cybernetic
+blacksmithing" — i.e. robots capable of maintaining and repairing their own architecture to an
+unusually high standard, rather than depending on outside servicing — can realistically live
+well over a thousand years. **Griselda Alejandra Chávez** and **Maggie Aarden** are the
+confirmed named precedents for this tier: both are established as possessing exactly this kind
+of deep, personal mechanical self-sufficiency, and both are still active many centuries past
+what an ordinarily-maintained robot would reach.
+
+This tier is not limited to robots who personally hold this skill. A robot who does not have
+this level of expertise herself, but who has a genuine, ongoing relationship with someone who
+does — and can consult and rely on that person or persons regularly, not as a one-off favor —
+can realistically expect to reach the same 1000+-year range. What matters is reliable access to
+this quality of upkeep, not whether the robot receiving it is the one performing it herself.
+
+This does not make robots immortal. The same "What Counts as Death" threshold above still
+applies regardless of how long a given robot has lived or how skilled she is at her own
+upkeep — a sufficiently catastrophic, irreversible loss of gel-brain or power-source integrity
+ends her the same way it would end a much younger robot. What varies is how long it takes
+ordinary degradation to reach that threshold, and how effectively a robot can keep pushing that
+threshold back through her own skill — not whether the threshold exists at all.
+
 ## Damage as Integrity Loss, Not Function Loss
 
 The threatening thing, for a robot, is never damage to function. A robot can always adapt, retrain, or find

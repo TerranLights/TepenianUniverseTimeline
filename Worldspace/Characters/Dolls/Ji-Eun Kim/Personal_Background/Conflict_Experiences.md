@@ -1,3 +1,5 @@
 # Ji-Eun Kim — Conflict Experiences
 
 Following the Falkland Treaty, she was exiled to Antarctica along with the broader robot population — a distinction between exile and emigration that she carries. She continued her nanotech work through the Long Night War era, but at some point before or during that war, she disappeared — not as a casualty, but by her own deliberate choice, using her own nanotech discipline to engineer her own undetectability. Her testing facility, left behind, now stands in ruins.
+
+Before her own disappearance, she raced to complete a piece of personal concealment technology as a defensive gift for someone she loved, who was captured by Upper Earth forces and held at a compound; they did not survive. She finished the underlying design too late to save them. The permanence and irreversibility of the version she later built for herself is a direct response to that failure — not paranoia, but a refusal to ever again build anything that could be extracted from someone (including herself) under duress the way that loss was.

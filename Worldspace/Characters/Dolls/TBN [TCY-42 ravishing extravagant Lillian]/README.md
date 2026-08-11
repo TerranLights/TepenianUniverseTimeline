@@ -1,11 +1,11 @@
 ## TBN [TCY-42 ravishing extravagant Lillian] / "Lillian"
 
 - **Type:** Doll
-- **Role / Archetype:** Leo performer; representative of a rival (legacy) performance house in the Leo district's "Star War" political history
+- **Role / Archetype:** Leo performer; representative of the intimate-tradition (legacy) performance house in Leo's grand/intimate performance-house divide, currently labeled "The Star War" — **corrected 2026-08-11 (InnerTepeniaGDD's `District_Canon_Reference.md`):** despite the name, the confirmed history has no actual war in it (see Backstory Summary below); the name itself is flagged for eventual replacement
 - **Personal timeline/timeframe:** XXXX
 - **Place of origin:** (placeholder)
 - **Primary Location(s) of Residence (if different):** Leo (Entertainment district)
-- **Affiliation(s):** Leo's Star War — legacy (losing) performance house, still contesting prestige through art
+- **Affiliation(s):** Leo's intimate-tradition (legacy) performance house — structurally disadvantaged, not defeated (see Backstory Summary); still contesting prestige through art
 - **Original Doll Model:**
 - **Original Doll Manufacturer:**
 - **Original Doll Website Catalog Page (if applicable):**
@@ -41,11 +41,11 @@ Black hair, long — partially gathered into a loose side braid on one side whil
 
 ## Backstory Summary
 - Brief Backstory Summary (abbreviated): TBD
-(placeholder — not yet developed in source project). Source notes describe Lillian as affiliated with Leo's Star War legacy (losing) performance house, still competing for prestige against an establishment that controls access to the district's best venues and recognition tiers. Her drive is framed in source design notes as ambition with an unexamined cost — something run over on the way up that she has not yet reckoned with.
+(placeholder — not yet developed in source project). Source notes describe Lillian as affiliated with Leo's intimate-tradition (legacy) performance house, still competing for prestige against an establishment that controls access to the district's best venues and recognition tiers. **Corrected 2026-08-11:** her house's disadvantage is not the outcome of a war or a lost contest — under Leo's confirmed history, a founding-era construction accident (the Twin Founding) split the district's earliest performance venues into a "grand" and an "intimate" tradition, and an uncalibrated resource-allocation formula quietly favored the grand tradition for roughly 250 years, never having been recalibrated once the founding-era scarcity that justified it eased. That gap was compounded further, only a decade or so before the present day, when an unrelated Long Night War death (2812, at Zukelli) handed the grand tradition a fresh, non-hereditary, ambitious new leader right as a post-war resource fight began. Lillian's house never fought and never lost — it simply inherited two centuries of an unexamined structural gap. Her own drive is framed in source design notes as ambition with an unexamined cost — something run over on the way up that she has not yet reckoned with.
 
 ## Role in Main Story / World
 - Story Function (why this character matters to the plot mechanically): TBD
-- Connection to larger narrative: Lillian and TBN [TCY-06 red-dress Palmer City Elva] ("Elva," also 7w8 Social, of the rival established house) represent the two sides of Leo's ongoing Star War political-aesthetic divide, a performance-house civil war dating to the mid-2740s.
+- Connection to larger narrative: Lillian and TBN [TCY-06 red-dress Palmer City Elva] ("Elva," also 7w8 Social, of the rival grand-tradition house) represent the two sides of Leo's ongoing grand/intimate political-aesthetic divide — currently labeled "The Star War," though the confirmed history is a 250-year, nobody's-fault structural gap (a founding-era construction accident, an uncalibrated resource formula, and a 2812 succession death) rather than an actual conflict.
 - Growth/Change Arc (how they evolve over the course of the story): TBD
 - Relationship Dynamics (beyond simple alliance/rivalry — include contradictory feelings like jealousy, resentment, or hidden admiration): TBD
 

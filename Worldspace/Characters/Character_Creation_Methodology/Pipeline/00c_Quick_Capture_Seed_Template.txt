@@ -1,0 +1,20 @@
+NEW CHARACTER — QUICK CAPTURE SEED
+(blank fields, TBD always valid — merges the 00a Minimal Seed Fields
+with the lighter, roster-scale seed-to-README process. See 00a_Initial_Input.md
+and ../Rapid_Intake/seed-to-README-process.md for the full logic this compresses.)
+
+Name (or working ID):
+Core nature/type (leave blank if the setting has only one kind of being):
+
+Personal Vision ("she's basically X but Y", a mood, a defining trait):
+
+
+Personality type (e.g. Enneagram XwY, Self-Pres/Social/Sexual — see ../Enneagram/):
+Place of Origin: TBD
+Location (if different from origin): TBD
+Timeframe (era/date): TBD
+
+Brief Personality Summary (abbreviated): TBD
+Brief Backstory Summary (abbreviated): TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD

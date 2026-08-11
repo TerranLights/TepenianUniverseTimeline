@@ -64,4 +64,4 @@ Following the signing, she is presumed to have first taken up residence in Rothe
 - Character Basis/Inspiration (roughly 30% real people / 30% imagination / 30% famous figures or literary characters / 10% intuitive "magic"): TBD
 - Character Depth — Round or Flat (multidimensional/evolving vs. functional/single-note; flat may suit background, comic-relief, or world-building roles): TBD
 - Anti-Stereotype Check (tentative — may not apply to every character; which stereotype, if any, is being subverted): TBD
-- TODOs: Activation date; what became of the original Midwestland/Colorado Republic resettlement effort; the degree of recognition among Concordia residents of her role as Falkland Treaty signatory; her relationships are not yet established in source material.
+- TODOs: Activation date; what became of the original Midwestland/Colorado Republic resettlement effort; the degree of recognition among Concordia residents of her role as Falkland Treaty signatory; names, species, and full circumstances for her confirmed robot friend and two husbands (see `Personal_Background/Relationships.md`) are not yet established.
