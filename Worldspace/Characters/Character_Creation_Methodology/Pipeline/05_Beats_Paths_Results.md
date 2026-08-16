@@ -16,6 +16,12 @@ Ending-Shape table's Disillusionment straddle case (see below).
 
 ---
 
+**Scope note:** everything in this Stage 5 file — Arc-Space Enumeration, the Midpoint Menu, the full beat
+sequence, the Ending-Shape Cross-Mapping Table, Chiastic Mirroring — is Companion-questline scope (or, more
+generally, scope for a character's one primary arc). If your project has a separate, secondary Romance layer,
+it uses a different, deliberately lighter tool instead — see
+`../Design_Principles/Companion_vs_Romance_Scoping.md`'s "Courtship Sequence."
+
 ## Arc-Space Enumeration — Generating Every Plausible Arc Before Choosing One
 
 **What this is, and why it comes first:** every other tool in this stage (the Midpoint Menu, the beat

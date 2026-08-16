@@ -162,6 +162,10 @@ TBD
 
 *(Skip entirely if your project has no romance system.)*
 
+**How these answers get turned into a finished Romance design:** see
+`../Design_Principles/Companion_vs_Romance_Scoping.md` — B1-B5 below map directly onto that file's Attraction
+Basis, Dealbreaker, Rejection Voice, and Courtship Sequence, in that order.
+
 ### B1. What She's Attracted To, and Why
 
 Based on her personality and history, what draws her to a partner — physical presence, intelligence and wit,

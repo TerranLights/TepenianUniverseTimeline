@@ -90,6 +90,10 @@ Impact Character/Revenant material immediately above into an explicit, checkable
 — worth adapting if your own project has playable-character-driven companion arcs; safe to skip entirely
 otherwise.
 
+**Scope note, added after real cross-checking against production practice:** this Rule, and every other tool in
+this Stage 4 section, is Companion-questline scope only. If your project has a separate Romance layer, it does
+not get its own pass through Stage 4 — see `../Design_Principles/Companion_vs_Romance_Scoping.md`.
+
 - **The core rule**: every companion's personal arc should hinge on something the *player specifically* can do
   that the companion cannot — not because she's generally incapable, but because of a genuine categorical
   exclusion (wrong architecture, no access, barred by her own history or institutional position). The

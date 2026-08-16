@@ -43,13 +43,15 @@ involves an ongoing, deep relationship arc with the protagonist (only relevant i
 kind of character at all — skip it entirely otherwise).
 
 ### `Design_Principles/` — standing rules distilled from real production experience
-Seven short, independent rules, each one born from a real design problem actually encountered and solved, not
+Eight short, independent rules, each one born from a real design problem actually encountered and solved, not
 invented in the abstract: how to keep a character's full arc reachable regardless of how someone experiences
 the story (`Always_Present_Gating.md`), how to build a healthy pool of ways a character's arc can begin
 (`Trigger_Type_Pattern.md`), how to keep a full cast internally consistent by separating what's privately known
 from what's shown (`Mystery_Soft_Detail_Delivery.md`), how to track provisional names at scale
 (`Placeholder_Naming_Convention.md`), how to make sure a rejected candidate — a hypothesis, a casting choice, a
-full arc — never just disappears once something else is chosen instead (`Preserve_Unchosen_Material.md`), and
+full arc — never just disappears once something else is chosen instead (`Preserve_Unchosen_Material.md`), how
+a secondary romance layer draws narrowly from a character's primary arc work instead of duplicating the full
+pipeline (`Companion_vs_Romance_Scoping.md`), and
 two related endings-design rules covering branching outcomes and distribution of good/bad/mixed endings across
 a character's full outcome set (`Dual_Outcome_Branching.md`,
 `No_Good_Endings.md`). Each file states plainly whether it's a universal caution or an optional add-on relevant
