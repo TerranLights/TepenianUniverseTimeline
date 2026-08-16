@@ -14,7 +14,7 @@ If a piece of content doesn't serve one of those three questions, it does not be
 
 - **Game mechanics of any kind** — stat blocks, XP/leveling systems, companion/romance gating, quest triggers, re-spec systems, ending-branch design, UI/UX, engine or asset-pipeline decisions. This is InnerTepeniaGDD's (or OuterTepenia1_GDD's) own design work, not shared canon.
 - **Questline/plot-branch structure** — the specific steps, choices, and branches a player or reader moves through. This repo holds *what happened and why*; it never holds *what a player does about it*. (See the existing, narrower version of this principle: `feedback_backstory_not_questline_scope` memory.)
-- **Novel-specific structural craft** — beat sheets, chapter breakdowns, POV structure, prose-level characterization frameworks (KWML, Want-Need-Idea, etc.). CurrentNovelDocs' and TheCryptographHelixDD's own concern.
+- **Novel-specific structural craft** — beat sheets, chapter breakdowns, POV structure, prose-level characterization frameworks *specific to one project's own writing process* (KWML, Want-Need-Idea, etc.). CurrentNovelDocs' and TheCryptographHelixDD's own concern. **Enneagram typing is an explicit exception to this exclusion — see below.**
 - **Implementation-level detail** — animation rules, asset formats, code architecture, anything about how a specific engine renders or executes something.
 
 ## What this includes
@@ -23,6 +23,7 @@ If a piece of content doesn't serve one of those three questions, it does not be
 - Location facts: geography, founding history (GPS-fact-only per `No_National_Stereotypes.md`), physical routes and infrastructure.
 - Character facts: identity, backstory, relationships, role in shared events — the discoverable, non-quest kind (per the Cradle-network precedent).
 - Cross-project synthesis: reconciling the same character/place/event across multiple sibling projects.
+- **Enneagram typing, exception confirmed 2026-08-11.** Unlike a single project's own prose/craft frameworks (KWML, Want-Need-Idea — genuinely excluded above, since they're that project's own writing tool), Enneagram type is applied identically across every sibling project as a real, shared fact about who a character *is* — squarely a "Who" question, not a project-specific craft method. In scope: a character's confirmed main Type (and optional Undercurrent, `Reference/Enneagram_Undercurrents.md`) as a cross-media fact. Out of scope, still: the mined book source material and the full typing methodology itself — that infrastructure stays in `InnerTepeniaGDD/Worldspace/Enneagram/`, which this repo points to rather than duplicates.
 
 ## Self-check
 
