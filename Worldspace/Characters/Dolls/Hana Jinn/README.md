@@ -60,6 +60,12 @@ What happened to Hana Jinn after her work at A.R.U.Ta.G. — and whether she sur
 ## Canonical Appearances
 - InnerTepeniaGDD — origin — [status: Known to History as of that game's setting] (only project of appearance currently)
 
+## Potential Narrative Hooks
+- **The other half of the thread:** Hana dreamed it up on paper; Mallory Dufay built it and kept people alive
+  doing so. A theorist/hands-on-engineer pairing spanning two different post-war nations. *(Moved here
+  2026-08-15 from InnerTepeniaGDD's own copy of this file — Mallory isn't relevant to that specific project's
+  companion roster, but this cross-character worldbuilding thread belongs in the universal timeline.)*
+
 ## Design Notes & Open Questions
 - Character Basis/Inspiration (roughly 30% real people / 30% imagination / 30% famous figures or literary characters / 10% intuitive "magic"): TBD
 - Character Depth — Round or Flat (multidimensional/evolving vs. functional/single-note; flat may suit background, comic-relief, or world-building roles): TBD
