@@ -1,0 +1,11 @@
+# Images live in character/location folders and are read directly when needed;
+# no need to feed them into the knowledge graph.
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+*.svg
+*.tif
+*.tiff

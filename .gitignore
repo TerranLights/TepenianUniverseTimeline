@@ -1,0 +1,4 @@
+# graphify build artifacts — machine-specific (absolute paths), regenerable.
+# The build plan is kept: it is the resume contract.
+graphify-out/*
+!graphify-out/BUILD_PLAN.md
