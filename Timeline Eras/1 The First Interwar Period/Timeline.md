@@ -376,12 +376,18 @@ driven by anti-robot sentiment reaching an all-time high in the years immediatel
 preceding it. Real developed material now exists for this span (migrated
 2026-07-12), though not yet woven into a single connected narrative:
 
-- **The Sinian Federation is confirmed as one of the Upper Earth powers that drove
-  the war** — "The Sinian Federation was among the Upper Earth nations that
-  persecuted robots and drove the War of Upper Earth" (source: InnerTepeniaGDD's
-  `Local_Cultures/Mirny_Subnet/Zhongshan.md`). This directly answers part of
-  `World_History_Reference.md`'s open "which nations or power blocs were the
-  primary combatants" question — other primary drivers are still TBD.
+- **The Sinian Federation is confirmed as one of the Upper Earth nations that
+  persecuted robots and fought in the war** — "The Sinian Federation was among the
+  Upper Earth nations that persecuted robots and participated in the War of Upper
+  Earth" (source: InnerTepeniaGDD's `Local_Cultures/Mirny_Subnet/Zhongshan.md`).
+  This contributes one name to `World_History_Reference.md`'s open "which nations or
+  power blocs were the primary combatants" question — other combatants are still TBD.
+  **Wording corrected 2026-08-30:** this bullet previously read "one of the Upper
+  Earth powers that **drove** the war," framed as identifying a cause. **No single
+  nation caused the War of Upper Earth** — it was a global human-versus-robot war
+  (and humans who sided with robots), with multiple combatant nations and a complex
+  beginning. **Participation and persecution are established here; causation is
+  not.**
 - **Maggie Aarden** — a Midwestland industrial worker pushed out of her job as
   anti-robot sentiment rose. She organized a "third option": resettling robots out
   of primarily human cities into separate communities in Midwestland and the

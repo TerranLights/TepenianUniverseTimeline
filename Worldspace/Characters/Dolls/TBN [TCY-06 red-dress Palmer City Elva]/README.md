@@ -27,7 +27,7 @@
 **Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
-Dark brown hair — very full, voluminous curls and waves, abundant and dramatic. Grey-blue eyes with a cool, deliberate quality. Red lips, dark red nails. A tight, body-conscious red off-shoulder dress that ends at mid-thigh. Her expression is direct and measuring — not aggressive, but with absolute clarity about what she is evaluating and very little interest in pretending otherwise. She reads as someone who knows exactly what she wants from a room and is deciding whether you qualify before you've finished introducing yourself. (Reference files in `Reference_Images/` folder — Elva_red series.)
+Dark brown hair — very full, voluminous curls and waves, abundant and dramatic. Gray-blue eyes with a cool, deliberate quality. Red lips, dark red nails. A tight, body-conscious red off-shoulder dress that ends at mid-thigh. Her expression is direct and measuring — not aggressive, but with absolute clarity about what she is evaluating and very little interest in pretending otherwise. She reads as someone who knows exactly what she wants from a room and is deciding whether you qualify before you've finished introducing yourself. (Reference files in `Reference_Images/` folder — Elva_red series.)
 
 ## Personality & Voice
 - Brief Personality Summary (abbreviated): TBD

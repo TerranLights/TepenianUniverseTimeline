@@ -151,7 +151,7 @@ not get its own pass through Stage 4 — see `../Design_Principles/Companion_vs_
   cluster of values in conflict with the others'.
 - **The Four Elements of Relationship Sizzle** — a dedicated pair-design checklist: something genuinely in
   common, a real conflict, contrasting qualities, and mutual-transformation potential.
-- **A functional-role catalogue for supporting cast** — Crucial Ally (including the "remorseless sidekick"
+- **A functional-role catalog for supporting cast** — Crucial Ally (including the "remorseless sidekick"
   sub-pattern, who performs morally compromising violence so the protagonist can retain a clean moral center),
   Betrayer and Sympathetic Heavy (a betrayal only lands if real trust was established first; the Sympathetic
   Heavy is its inverse — aligned with the opponent but risking exposure to help the protagonist anyway),
@@ -163,7 +163,7 @@ not get its own pass through Stage 4 — see `../Design_Principles/Companion_vs_
 
 ## Composability Notes (orthogonal systems — cross-reference, not merge)
 
-- **The functional-role catalogue × the Six Flat Archetypes.** A character's *function* (Crucial Ally,
+- **The functional-role catalog × the Six Flat Archetypes.** A character's *function* (Crucial Ally,
   Contagonist, Betrayer, etc.) and her *life-stage content* (Child/Lover/Parent/Ruler/Elder/Mentor) are
   independent axes, not competing systems — any functional role can be cast using any Flat Archetype's
   content. A Mentor-stage Crucial Ally reads differently from a Parent-stage one, and both are valid.
@@ -176,7 +176,7 @@ not get its own pass through Stage 4 — see `../Design_Principles/Companion_vs_
 
 ## Two Staging/Sympathy Techniques Worth Keeping Distinct
 
-- **A general sympathy-lever catalogue** (the non-villain half of "Characters We Love/Characters We Hate") —
+- **A general sympathy-lever catalog** (the non-villain half of "Characters We Love/Characters We Hate") —
   Altruism calibrated by role (Victim/Savior/Sacrifice, each with a specific way to misfire), visible Plan and
   Purpose, Courage paired with Fair Play, the **Draftee-or-Volunteer rule** (volunteering for a thankless task
   earns sympathy, being forced into it reads as weak — and the reverse for a glory-bringing task),

@@ -27,7 +27,7 @@
 **Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
-Blonde, long wavy hair. Grey-blue eyes. Her defining look is a hot pink/fuchsia sequined bodysuit — sparkle-heavy across the chest — with matching long pink satin sleeves trimmed with pink feather cuffs, a diamond choker, hands on hips. The outfit is maximalist, showgirl-adjacent. Her expression is zero-affect — flat, direct, completely disengaged from the performance her clothes are doing. She reads as someone who performs a role precisely because the role has clear standards, and who has been doing it long enough that the performance and the self no longer need to touch; the "unimpressed" quality is a structural condition, not an affect. (Reference files in `Reference_Images/` folder — Miranda series.)
+Blonde, long wavy hair. Gray-blue eyes. Her defining look is a hot pink/fuchsia sequined bodysuit — sparkle-heavy across the chest — with matching long pink satin sleeves trimmed with pink feather cuffs, a diamond choker, hands on hips. The outfit is maximalist, showgirl-adjacent. Her expression is zero-affect — flat, direct, completely disengaged from the performance her clothes are doing. She reads as someone who performs a role precisely because the role has clear standards, and who has been doing it long enough that the performance and the self no longer need to touch; the "unimpressed" quality is a structural condition, not an affect. (Reference files in `Reference_Images/` folder — Miranda series.)
 
 ## Personality & Voice
 - Brief Personality Summary (abbreviated): TBD

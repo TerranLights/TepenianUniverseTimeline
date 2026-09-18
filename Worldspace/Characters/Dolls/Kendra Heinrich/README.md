@@ -27,7 +27,7 @@
 **Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
-Very curly platinum-blonde/ash-blonde hair — abundant, wild-textured, visually commanding — and green-grey eyes. Her build is powerful: very tall, heavily muscled, broad-shouldered, a physical presence that changes the weight of a room. She reads as a person for whom physical scale and force are so native that she does not register them as statements — she is simply this. "War goddess" is not hyperbole so much as a visual fact: she looks like someone who held off an army while innocents ran past, and is still standing there. (See `Reference_Images/` folder.)
+Very curly platinum-blonde/ash-blonde hair — abundant, wild-textured, visually commanding — and green-gray eyes. Her build is powerful: very tall, heavily muscled, broad-shouldered, a physical presence that changes the weight of a room. She reads as a person for whom physical scale and force are so native that she does not register them as statements — she is simply this. "War goddess" is not hyperbole so much as a visual fact: she looks like someone who held off an army while innocents ran past, and is still standing there. (See `Reference_Images/` folder.)
 
 ## Personality & Voice
 - Brief Personality Summary (abbreviated): TBD

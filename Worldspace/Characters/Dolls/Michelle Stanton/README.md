@@ -27,7 +27,7 @@
 **Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
-Sandy/medium blonde hair, grey-blue eyes. In her working attire she wears denim overalls with a white ribbed top underneath, a loaded tool belt (wrench, measuring tape, and other tools visible), and black combat boots with white striped knee-high socks. Her expression reads as direct and faintly challenging — the look of someone who knows their work and wouldn't particularly care if you doubted it, because they'd be right before you finished the sentence.
+Sandy/medium blonde hair, gray-blue eyes. In her working attire she wears denim overalls with a white ribbed top underneath, a loaded tool belt (wrench, measuring tape, and other tools visible), and black combat boots with white striped knee-high socks. Her expression reads as direct and faintly challenging — the look of someone who knows their work and wouldn't particularly care if you doubted it, because they'd be right before you finished the sentence.
 
 In another notable reference, she wears jean shorts, a white crop t-shirt tied at the front, and brown work boots, standing on packed snow and ice in front of a futuristic 8-wheeled all-terrain vehicle (a Rastra) that dwarfs her — the tires alone reach her shoulder — with a maglev rail structure visible in the background. She looks completely at home there; the scale of the vehicle contextualizes the scope of her work rather than diminishing her. Her body language is physical and practical at all times — she dresses for what she does, and what she does is big. (See `Reference_Images/` folder.)
 

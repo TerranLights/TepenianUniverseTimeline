@@ -107,7 +107,7 @@ side-activity, or who touches it once and never returns for a "second visit" Fir
 **General methodology caution:** for a character whose full arc needs to remain reachable by everyone who
 engages with her at all, none of her structurally load-bearing beats can be tied to something *entirely
 optional* — not just "not an introduction scene," but specifically never contingent on a side-mechanic she
-merely happens to also provide. In a linear medium the direct analogue is a subplot that only pays off through
+merely happens to also provide. In a linear medium the direct analog is a subplot that only pays off through
 a scene or chapter a reader could plausibly skip or never reach — the same caution applies regardless of
 whether "optional" means a skippable game mechanic or a skippable narrative thread. This is the origin of
 `../Design_Principles/Always_Present_Gating.md`.

@@ -152,9 +152,9 @@ Character and Revenant kept deliberately separate, since collapsing them loses r
 non-Truth-aligned Revenant case routes toward villain/anti-hero material instead (see
 `../Source_Material/Character_Development_Methodology_-_Villains_and_Antiheroes_-_DRAFT_Ideas.md`); standalone
 tools (the Normal World, the Characteristic Moment, Antagonist vs. Antagonistic Force, the Twelve Archetypal
-Antagonists, Four-Corner Opposition, the Four Elements of Relationship Sizzle, a functional-role catalogue for
+Antagonists, Four-Corner Opposition, the Four Elements of Relationship Sizzle, a functional-role catalog for
 supporting cast); composability notes between the various orthogonal systems above; two staging/sympathy
-techniques (a general sympathy-lever catalogue, plus cat-save/delay-the-worst-act staging); and — as a
+techniques (a general sympathy-lever catalog, plus cat-save/delay-the-worst-act staging); and — as a
 project-specific, fully optional add-on — the Player-Necessity Rule and its four supporting constraints, kept
 here as a real example of what it looks like to adapt this methodology's story material into an actual
 companion-character game system (see `../Design_Principles/` for the generalized versions of the constraints

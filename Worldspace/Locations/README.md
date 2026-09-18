@@ -17,7 +17,7 @@ Each tier is a synthesis of the tier below it — cities roll up into subnets, s
 - **Halley subnet:** Abowasa, Belgrano, Halley, Lazar, Neumayer, Princess Elisabeth, Sanay, Troll
 - **Janbogo/Ross subnet:** Cape Adare, Denison, Dumont d'Urville, Fort McMurdo (Tepenia's historical capital), Janbogo, Scott, Zukelli
 - **Mawson subnet:** Dome Fuji, Mawson, Sayowa
-- **Mirny subnet:** Casey, Davis, Kunlun, Mirny, Shirayuki, Soyuz, Vostok, Zhongshan
+- **Mirny subnet:** Casey, Davis, Kunlun, Mirny, Shirayuki, Sinheung, Vostok, Zhongshan
 - **Palmer subnet:** Esperanza, Juan Carlos, Marambio, Palmer City (Tepenia's first city), Port Lockroy, Rothera, Sejong, Signy
 - **Byrd** — single-city subnet
 - **Amundsen Station** — tracked separately from the 35-city count but essential to the whole-game picture

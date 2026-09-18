@@ -17,7 +17,7 @@ built entirely on the social structure itself, and lose nothing of their weight 
 
 ## Why Maker/Made Holds No Weight
 
-A parent-analogue built on "who specifically made you" does not hold up, and does not function as a real
+A parent-analog built on "who specifically made you" does not hold up, and does not function as a real
 kinship basis for robots. Currently-existing robots have comparatively little control over what kind of
 person a newly-synthesized robot turns out to be — a direct consequence of the mandatory partial
 randomization governing the Personality Module (Chapter 5): even a robot who directly initiates a build

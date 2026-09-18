@@ -27,7 +27,7 @@
 **Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
-Calethina has no physical doll body — she exists solely as a holographic projection. Short platinum-white hair, barely more than a sleek cap, and blue-grey eyes. Her form is rendered holographically throughout: the edges of her body glow ice-blue-white, her figure is semi-translucent, and scan-line rendering patterns run across her image. She wears a silver metallic draped asymmetrical dress that appears to shift slightly with her, and stands on a circular glowing projector platform. She reads as the most coherent and beautiful radio signal one could see — and one that cannot be held. The holographic quality is not a weakness she works around; it is what she is.
+Calethina has no physical doll body — she exists solely as a holographic projection. Short platinum-white hair, barely more than a sleek cap, and blue-gray eyes. Her form is rendered holographically throughout: the edges of her body glow ice-blue-white, her figure is semi-translucent, and scan-line rendering patterns run across her image. She wears a silver metallic draped asymmetrical dress that appears to shift slightly with her, and stands on a circular glowing projector platform. She reads as the most coherent and beautiful radio signal one could see — and one that cannot be held. The holographic quality is not a weakness she works around; it is what she is.
 
 ## Personality & Voice
 - Brief Personality Summary (abbreviated): TBD

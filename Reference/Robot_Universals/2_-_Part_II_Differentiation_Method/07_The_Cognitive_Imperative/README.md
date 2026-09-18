@@ -1,7 +1,7 @@
 # Chapter 7: The Cognitive Imperative
 
 Part I established what robots actually are, at the level of fabrication and physiology. Part II asks a
-different question of that foundation: for each human universal Brown catalogues, does it actually carry
+different question of that foundation: for each human universal Brown catalogs, does it actually carry
 over to a robot, and if not, what — if anything — fills the gap it leaves behind? This chapter takes up the
 first and, in some ways, the clearest case: Brown's own account of why religious belief appears in every
 human society he surveyed.

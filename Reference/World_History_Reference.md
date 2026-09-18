@@ -32,7 +32,9 @@ Key historical events and geopolitical facts established in the GDD. Captures wh
 
 **Dates:** ~2563–2564. Ended with the signing of the Falkland Treaty on June 21, 2564.
 
-**Nature:** The first anti-robot war. A large-scale conflict fought across the non-Antarctic world driven by anti-robot sentiment, which had reached an all-time high in the years immediately preceding the war (documented specifically in Unified Korea; likely widespread). **The Sinian Federation is confirmed (migrated 2026-07-12) as one of the Upper Earth nations that persecuted robots and drove the war** — other primary drivers remain unnamed.
+**Nature:** The first anti-robot war. A large-scale conflict fought across the non-Antarctic world driven by anti-robot sentiment, which had reached an all-time high in the years immediately preceding the war (documented specifically in Unified Korea; likely widespread). **No single nation caused the War of Upper Earth** *(developer ruling, 2026-08-30)*. It was a **global war between humans and robots — and the humans who sided with robots** — with **multiple combatant nations** involved, and **a complex beginning that is not reducible to any one country's decision.** Do not write, anywhere, that a particular nation caused, started, or drove this war.
+
+**The Sinian Federation is confirmed (migrated 2026-07-12) as one of the Upper Earth nations that persecuted robots and fought in the war** — other combatant nations remain unnamed. *(Wording corrected 2026-08-30: this previously read "persecuted robots and **drove** the war," which implied a causal role. **Persecution and participation are established; causation is not a claim the Sinian Federation carries.**)*
 
 **Outcome:** Upper Earth won. The anti-robot side prevailed. However, the robot population was simply too large to exterminate outright — the logistics of total extermination were not viable. The Falkland Treaty was negotiated as an alternative: the robots (and their human allies) were exiled to Antarctica rather than destroyed. The Treaty was the terms of their defeat, not a mutual compromise.
 

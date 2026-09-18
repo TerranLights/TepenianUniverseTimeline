@@ -29,7 +29,7 @@ structure, not a separate, cross-cutting Gen/Mark axis or a build-body-type axis
 Confirmed by direct comparison: city and culture of origin carries far more identity weight than Gen/Mark
 does, and body type — the physical result of Build (Chapter 3) — carries essentially none. This is not a
 narrow finding specific to kinship and tribe. It is the general answer to the felt sense of distinct
-in-group identity Brown catalogues as a human universal in its own right: peoplehood, the sense of
+in-group identity Brown catalogs as a human universal in its own right: peoplehood, the sense of
 belonging to one group rather than another, in a way that shapes how a person understands herself. For
 robots, that sense of peoplehood tracks the same thing Chapter 11 already identified as the true basis of
 clan and tribe — same city, same struggles, same life-goals — not fabrication lineage, and not physical
