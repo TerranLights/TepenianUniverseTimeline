@@ -39,7 +39,7 @@ never aimed at.***
 | **What it is** | *who physically built the research station, centuries before the Falkland Treaty* | ⭐ **who actually settled the city in 2564 and lives there** |
 | **Established by** | real-world history | ***canon: the census, the tier tables, and per-city founding rulings*** |
 | **Status** | ⛔⛔ **GPS COORDINATE ONLY. Everything in this document applies, unchanged** | ✅ **ADMISSIBLE — see the sequencing rule below** |
-| **Worked example** | **Shirayuki sits on the Bharati site.** ⛔ *No Indian or South Asian anything, ever — and canon separately rules that no South Asian population ever came to Tepenia at all* | ⭐ **Shirayuki was allocated to JAPAN by the Jeju-do court and is Japan-founded.** ✅ *That is usable* |
+| **Worked example** | **Shirayuki sits on the Bharati site.** ⛔ *No Indian or South Asian anything, ever — see [[No_Subcontinentals]], a separate binding rule that no South Asian population ever came to Tepenia at all* | ⭐ **Shirayuki was allocated to JAPAN by the Jeju-do court and is Japan-founded.** ✅ *That is usable* |
 | **Its neighbors** | Sinheung sits on the Progress site; Zhongshan on the Zhongshan site | **Sinheung is Korea-founded; Zhongshan is China-founded** |
 
 > ### ⭐⭐ **THE PURPOSE OF THE RULE, STATED BY THE DEVELOPER 2026-09-06:**

@@ -117,8 +117,8 @@ Image of the Second — the same historical event serves as both bookends.
 scene.** The era's actual thematic throughline is already fully developed elsewhere,
 just never dated: Maggie Aarden's coerced signature on the Falkland Treaty (2564) is
 repeatedly called "Tepenia's single deepest historical wound," explicitly tied to
-the *same* theme as the Long Night War's own inciting incident (Akina — see Break
-into Three below) — "a robot denied full agency or personhood, with lasting
+the *same* theme as the Long Night War's own inciting incident (TBN [SE-031], working
+title "Akina," not developer-confirmed — see Break into Three below) — "a robot denied full agency or personhood, with lasting
 consequences for everyone around her" (source: InnerTepeniaGDD's
 `Locations-and-Levels/Super_Ultra_Megasheet/README.md` and
 `.../Concordia-City/Districts/Final_Megasheet_Data_Processing/Throughways/cross-district_throughways.md`).
@@ -368,11 +368,12 @@ personhood, attempts assault on her in Palmer City, and she kills him in
 self-defense. This is the "Doorway of No Return #2" — the single event that commits
 the era irreversibly toward the Long Night War, with no path back.
 
-**Gynoid's identity confirmed 2026-07-12: Akina.** See
+**Gynoid cross-referenced 2026-07-12: `TBN [SE-031]`, working title "Akina" (not
+developer-confirmed).** See
 `Worldspace/Characters/Dolls/TBN [SE-031 Palmer City self-defense Akina]/` —
-"Akina is a Tepenia native... genuinely amicable and loving... but fully capable of
-sudden lethal self-defense," cross-confirmed independently in InnerTepeniaGDD's own
-Leo Deep Dive as this same inciting incident. Her origin city is still undecided
+she is a Tepenia native... genuinely amicable and loving... but fully capable of
+sudden lethal self-defense, cross-confirmed independently in InnerTepeniaGDD's own
+Leo Deep Dive as this same inciting incident. Her name remains unconfirmed. Her origin city is still undecided
 among three candidates (Zukelli — the leading candidate, Dumont d'Urville, Byrd —
 see `TODO.md`). **Her fate is confirmed by implication, not narrated as prose
 anywhere:** she is categorized in the source repo as "Still-Present_-_In-Game,"
@@ -515,7 +516,8 @@ anchored to one percentage range.
 **2026-07-12 cross-reference pass against InnerTepeniaGDD:** Theme Stated, Set-Up,
 Break into Two, Road of Trials, Break into Three, and END all now have real migrated
 detail (see their own sections above) — most notably, the Long Night War's inciting
-gynoid is confirmed as **Akina**. The Zukelli/Janbogo AWOL-defectors strike has been
+gynoid's identity was cross-referenced as `TBN [SE-031]` (working title "Akina," not
+developer-confirmed). The Zukelli/Janbogo AWOL-defectors strike has been
 written into the END section above. Everything below was specifically checked
 against InnerTepeniaGDD and confirmed still genuinely open there too — not just
 unmigrated.
@@ -531,8 +533,8 @@ unmigrated.
   given real drafted prose depends on it.
 - Fill in TBD events for every beat still marked TBD above — Catalyst, Debate,
   All Is Lost, Dark Night of the Soul, Bad Guys Close In, Closing Image.
-- **Develop the ~50-year Finale escalation** (Break into Three's killing, now
-  identified as Akina's, → the actual Long Night War) — confirmed still undeveloped
+- **Develop the ~50-year Finale escalation** (Break into Three's killing, by
+  `TBN [SE-031]` ("Akina," working title only), → the actual Long Night War) — confirmed still undeveloped
   in InnerTepeniaGDD too. The Upper Earth diplomat she kills is still unnamed
   anywhere.
 - **The Long Night War's exact day** — still only narrowed to the March 22 – June 20

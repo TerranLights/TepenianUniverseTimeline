@@ -1,5 +1,7 @@
 ## TBN [SE-031 Palmer City self-defense Akina] / "Akina"
 
+⚠ **"Akina" is a working title only — not developer-confirmed.** Do not cite it as a settled name.
+
 - **Type:** Doll
 - **Role / Archetype:** (placeholder — not yet established in source beyond a warm, hospitality-oriented presence capable of sudden lethal self-defense)
 - **Personal timeline/timeframe:** XXXX
@@ -41,7 +43,7 @@
 
 ## Backstory Summary
 - Brief Backstory Summary (abbreviated): TBD
-Akina is confirmed in source material to be a Tepenia native rather than an Upper-Earth-born robot, though her precise origin city is still undecided. Three candidate origin cities are on record, each weighed against her established personality — warm and hospitable, happy to entertain and help humans in good faith, yet capable of sudden lethal decisiveness if a genuine crisis arises. Full detail on the candidates is in `Personal_Background/Formative_History.md`.
+She is confirmed in source material to be a Tepenia native rather than an Upper-Earth-born robot (a confirmed fact about her origin, not about her name), though her precise origin city is still undecided. Three candidate origin cities are on record, each weighed against her established personality — warm and hospitable, happy to entertain and help humans in good faith, yet capable of sudden lethal decisiveness if a genuine crisis arises. Full detail on the candidates is in `Personal_Background/Formative_History.md`.
 
 ## Role in Main Story / World
 - Story Function (why this character matters to the plot mechanically): TBD
