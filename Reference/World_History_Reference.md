@@ -20,7 +20,7 @@ Key historical events and geopolitical facts established in the GDD. Captures wh
 - Specific causes and triggering events
 - Which nations or power blocs were the primary combatants
 - Scale of damage and how long reconstruction took
-- Which of the game's known geopolitical entities (Unified Korea, Sinian Federation, Sovereign Republic of Hawaii) emerged directly from the post-2083 reconstruction vs. predating it
+- Whether the Sovereign Republic of Hawaii emerged directly from the post-2083 reconstruction or predates it (Unified Korea and the Sinian Federation are both confirmed as post-2083 reconstructions — see their own sections)
 
 ---
 
@@ -153,16 +153,13 @@ placement at the same time. That internal inconsistency is now fixed — both fi
 
 **Status:** Partially confirmed — core facts established, details TBD
 
-**Reunification:** By the late 2200s/early 2300s, Korea was unified. The exact date is TBD, but the country was established as a single entity by at least 2318 (the date of the Jeju-do court ruling).
-
-**Developer ruling, 2026-09-23 — timing tightened:** Korea's reunification happened at an absolute minimum three generations, possibly four, before the Jeju-do court's April 27, 2318 ruling — meaningfully earlier than 2318 itself, closer to the early/mid-2200s than to 2318. The exact year remains open; this project has no fixed generation-length convention yet, so the ruling narrows the reunification date without pinning it to a year.
+**Reunification:** 2111. See `Worldspace/Locations/Earth/Upper_Earth/Asia_East/README.md`.
 
 **Jeju-do and the International Court of Diplomacy:** Korea submitted Jeju-do Island as neutral territory between Korea, Japan, and the Sinian Federation. The International Court of Diplomacy at Jeju-do functioned as a neutral stage for international conflict resolution — specifically for situations where nations were making a genuine attempt to resolve disputes without violence.
 
 **Ji-Eun Kim:** From Unified Korea. Fought her way to the top of her field as a robot nanotech engineer during the period of extreme anti-robot sentiment immediately before the War of Upper Earth. Exiled to Antarctica under the Falkland Treaty's blanket robot provision.
 
 **What is TBD:**
-- Exact reunification date (now bounded: ≥3, possibly 4, generations before 2318 — see ruling above; still not pinned to a year)
 - Unified Korea's political system
 - The specific causes of the anti-robot sentiment spike in the 2500s (after 246 years of robot legal personhood — something drove a reversal)
 - Unified Korea's role in the War of Upper Earth
@@ -178,7 +175,7 @@ placement at the same time. That internal inconsistency is now fixed — both fi
 
 **Function:** Neutral stage for international conflict resolution — used when nations were making a genuine attempt to resolve disputes without resorting to violence.
 
-**Founding date — developer ruling, 2026-09-23:** the Court was already an established institution at an absolute minimum one full generation before it issued the April 27, 2318 robot-personhood ruling. The 2318 ruling is the Court's most significant known decision, not its founding act.
+**Founding date:** 2267. See `Worldspace/Locations/Earth/Upper_Earth/Asia_East/README.md`. The 2318 ruling is the Court's most significant known decision, not its founding act.
 
 **Most significant ruling: April 27, 2318 — Robot Personhood.**
 
@@ -187,7 +184,6 @@ The ruling that granted robots full legal personhood originated from a case invo
 From 2318 to the Falkland Treaty (June 21, 2564) — 246 years — robots had full legal personhood in Upper Earth. The Falkland Treaty effectively stripped this, exiling robots from Upper Earth entirely.
 
 **What is TBD:**
-- Exact founding date (bounded: ≥1 generation before 2318 — see ruling above)
 - Whether the International Court still exists in the game's present
 - What happened to it during or after the War of Upper Earth
 - Other significant rulings
@@ -217,16 +213,18 @@ Her significance is comparable to a founding legal figure — robot personhood, 
 Also known colloquially as **the Iron Federation**. A post-war reconstruction of China following its collapse. "Sinian" derives from the classical Latin/Greek root for China (Sinae/Sino).
 
 **What is known:**
-- The Sinian Federation existed by at least 2318 (referenced as one of the three powers at Jeju-do alongside Unified Korea and Japan)
-- It was built from the collapse of China following some war (which war, when, TBD)
+- **Founding:** 2179. See `Worldspace/Locations/Earth/Upper_Earth/Asia_East/README.md`.
+- It was built from China's collapse following the Nuclear War of 2083 (see above)
 - It was significant enough to be one of the three powers that made Jeju-do a meaningful neutral venue
-- **Developer ruling, 2026-09-23:** the Federation's own founding/unification happened at an absolute minimum three generations, possibly four, before the 2318 Jeju-do ruling — the same lower bound as Unified Korea's reunification (see that section above). By 2318 the Federation was already generations-old, not newly founded.
-- **Supporting visual reference (developer-confirmed 2026-09-23):** `y-files/Map Files/Asia (East)/02 follow-up/asia-east-nations.png` depicts the unified state (Sinian Federation as one federated country, Korea unified) and is confirmed reasonably representative of the geopolitical picture by the time limit above, with one open exception — Qinghai's regional assignment (Tibetan / its own region / Sinian) is still unresolved and drawn hatched/unassigned pending further research (see `CurrentNovelDocs/worldbuilding/nations/east-asia-map-data/README.md`, Region O4).
+- **Supporting visual reference:** the six-map series at `Worldspace/Locations/Earth/Upper_Earth/Asia_East/`
+  (maps `A` through `F`).
+- **Composition:** nine Han states — Zhongyuan, Qin, Bashu, Jin, Wu, Gan, Xiang, Min, and Yue — plus Qinghai,
+  which is part of Qin. Mongolia, Manchuria, East Turkestan, Tibet, and Taiwan are not members.
+- **Qinghai's regional assignment is resolved:** it is part of Qin.
 
 **Development note:** The Sinian Federation is intentionally underdeveloped until the developer has a clearer picture of what the country is actually like. No stories are set there for this reason.
 
 **What is TBD:**
-- Which war caused China's collapse and the federation's formation
 - The federation's political structure and character
 - Its role in the War of Upper Earth
 - Whether it still exists in the game's present
