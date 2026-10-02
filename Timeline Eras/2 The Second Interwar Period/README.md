@@ -16,16 +16,16 @@ project's own location methodology for how that default is applied.
 
 | Act | Roughly | What the people ARE |
 |---|---|---|
-| ⭐ **ACT 1** | **2564 → early 2600s** *(~40–50 years)* | ***"Chinese / Japanese / American / Russian / Mexican **who live in Antarctica**."*** **National-ethnic-origin cultures are still FRESH for them** |
-| ⭐⭐⭐ **ACT 2** | **~late 2600s / early 2700s onward** | ## ***Properly TEPENIAN — in both name and cultural identity.*** **Origin is now ANCESTRY, not identity** |
+| ⭐ **ACT 1** | **2564 → somewhere in the 2600s** *(a hazy range; exact dates come after the new vignettes are written and ordered on the timeline — developer, 2026-10-01)* | ***"Chinese / Japanese / American / Russian / Mexican **who live in Antarctica**."*** **National-ethnic-origin cultures are still FRESH for them** |
+| ⭐⭐⭐ **ACT 2** | **by the late 2600s / early 2700s, onward** | ## ***Properly TEPENIAN — in both name and cultural identity.*** **Origin is now ANCESTRY, not identity** |
 
 > ***"…similar to the way that by the early-1800s, a person from Pennsylvania and a person from Virginia may
 > very well have very different ethnic backgrounds and local cultures — they were both still fundamentally
 > AMERICAN."***
 
 > ## ⚠⚠ **THE ERA SPANS BOTH ACTS AND IS MOSTLY ACT 2.**
-> **Act 1 is roughly the first `18%` of the period.** ***So a story or a location pass that writes its
-> characters as their founding nation is writing the wrong Act for about 200 of these 248 years.***
+> **Act 1 is its earlier part; the boundary is a hazy range.** ***So a story or a location pass that writes its
+> characters as their founding nation is writing the wrong Act for most of these 248 years.***
 
 ---
 

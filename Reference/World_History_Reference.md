@@ -237,7 +237,7 @@ Also known colloquially as **the Iron Federation**. A post-war reconstruction of
 
 **Established:** June 21, 2564, by the Falkland Treaty. Created to receive the robots and human allies exiled from Upper Earth.
 
-**Geographic basis:** Every real Antarctic research station became a Tepenian city as the exile population expanded and built out permanent settlements. The map of Antarctic stations by national possession is the direct source for Tepenia's city geography.
+**Geographic basis:** Every real Antarctic research station became a Tepenian city as the exile population expanded and built out permanent settlements. The positions of the real Antarctic stations are the direct source for Tepenia's city geography — coordinates only. The nation that built or ran a station is never a city's founder; each city's founders are set by geography and access, in the InnerTepeniaGDD Founding Register.
 
 **Known city mappings (confirmed):**
 
