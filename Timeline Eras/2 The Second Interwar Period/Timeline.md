@@ -72,9 +72,9 @@ is made there. Do not assume this resolution has propagated to Cryptograph Helix
 | *Care Package* | Bell | TBD — somewhere within Set-Up | TBD |
 | **Catalyst** | Save the Cat / Bell ("Disturbance") / Campbell ("Call to Adventure") | TBD | ~10.0% |
 | **Debate** | Save the Cat / Bell ("Argument Against Transformation") / Campbell ("Refusal of the Call") | ~2589 – ~2614 | 10.0–20.0% |
-| **Break into Two** | Save the Cat / Bell ("Doorway of No Return #1") | ~2614 | ~20.0% |
-| *B-Story trigger(s)* | Save the Cat | The Arcanet's construction begins — converges with the A-plot at the Midpoint | TBD, →50.0% |
-| *Kick in the Shins* | Bell | TBD — early Road of Trials; NOT Tower construction start (ruled out 2026-07-05, conflicts with established ~12-17yr construction length) | TBD |
+| **Break into Two** | Save the Cat / Bell ("Doorway of No Return #1") | ~2614 — ⚠ developer direction 2026-10-04: the first reliable, repeatable communication between the Peninsula and Casey (Shape D, below) | ~20.0% |
+| *B-Story trigger(s)* | Save the Cat | The Arcanet's construction begins — converges with the A-plot at the Midpoint. ⚠ **Developer direction 2026-10-04 supersedes: the B-Story is the BEGINNING of Amundsen Tower's construction** (Shape D, below); the Arcanet's place under that is open | TBD, →50.0% |
+| *Kick in the Shins* | Bell | TBD — early Road of Trials; NOT Tower construction start (ruled out 2026-07-05, conflicts with established ~12-17yr construction length). ⚠ **Developer direction 2026-10-04: the Kick in the Shins is the CRISIS that shocks people into organizing and beginning the Tower** (where, when and how not chosen; Shape D, below). It comes BEFORE the B-Story trigger | TBD |
 | **Road of Trials / Fun and Games** | Campbell / Save the Cat ("Promise of the Premise") | ~2614 – ~2688 | 20.0–50.0% |
 | *Pet the Dog* | Bell | TBD — must land close to the Midpoint, just before or after | TBD, 50(±1–2)% |
 | **Midpoint / Mirror Moment** | Bell | **~2688** (resolved — Amundsen Tower completion, ±~20yr flexibility; see caveat above) | 50.0% (approximate placement, exact percentage kept for structural convenience) |
@@ -182,7 +182,8 @@ founders would be elderly or already dead — human lifespans aren't meaningfull
 extended here — while the robots present at the founding are still fully active,
 since they live for centuries. This makes robots the one group spanning *both*
 generations, uniquely positioned to bridge (or complicate) the handoff. Three
-candidate shapes for how this plays out, all kept open for now:
+candidate shapes for how this plays out (a fourth, Shape D, was added 2026-10-04),
+all kept open for now:
 
 - **Shape A — the crisis discredits isolationist caution outright.** A prolonged
   hardship hits several early cities at once. The founders' instinct (self-reliance,
@@ -205,6 +206,254 @@ candidate shapes for how this plays out, all kept open for now:
   are the ones willing to actually act on it. Uses the robots-as-memory-keepers theme
   directly (see [[project_tepenia_demographics_reproduction]]) rather than just
   having them present for the transition.
+
+- **Shape D — the day the Peninsula's radio link to Belgrano becomes reliable, joining
+  the Peninsula to the chain that already reaches Casey (added 2026-10-04 and refined
+  the same day; developer idea, "I'm now thinking", NOT a ruling; a live candidate like
+  A to C).** Developer, first statement, verbatim: *"the 'trigger point' for Door #1 (i.e., the
+  'Doorway to Act #2'), I'm now thinking is the moment when somebody in the Peninsula
+  region is able to communicate directly with somebody in Casey for the very first
+  time ever, which is the instigating event that kickstarts the true unification,
+  culturally, of Tepenia as a nation, and not simply a collection of subnets populated
+  by the exiled."*
+  **Developer's refinement, verbatim (2026-10-04, answering the three inferences
+  below, all of which he confirmed):** *"The infrastructure already does exist, yes.
+  Everything between Belgrano and Casey realistically would be working, and so people
+  in Belgrano and people in Casey (and everyone in between) would be able to
+  communicate with each other. People in the Peninsula region would be able to
+  communicate amongst each other. The failure point is radio communication from the
+  Peninsula reaching Belgrano. The day that happens reliably, to such a degree that it
+  can be consistently repeated, is the 'trigger point' for 'Doorway to Act #2'."*
+  **So the trigger is NOT a one-off first-ever Peninsula-to-Casey contact.** Before the
+  doorway there are two networks that each work internally: the Peninsula (the Palmer
+  subnet) and the chain from Belgrano (the Halley subnet) to Casey (the Mirny subnet),
+  with the Weddell Sea between them. The doorway is the first RELIABLE, consistently
+  repeatable crossing of that one broken link, which turns two networks into one
+  national chain (Peninsula to Casey is about 5,700 km, computed by a research agent;
+  the two ends are on nearly opposite sides of the continent).
+  **Why it fits what is already here (all from this file and the research logs):**
+  *(1) The B-story:* the Summary Table already makes the B-story trigger "the Arcanet's
+  construction begins," converging with the Tower at the Midpoint; the crossing
+  becoming reliable at ~2614 followed by the Arcanet's construction gives Door #1 →
+  B-story → Midpoint a causal chain. *(2) The developer's 2026-07-05 direction for this
+  beat:* a crisis that proves isolated cities can't survive alone, plus a generational
+  handoff; a distress call from the Peninsula that finally gets across the Weddell
+  (and on down the chain) would be both a crisis and the first reliable crossing (it
+  can combine with Shape A's cross-city aid, or with B or C; none are mutually
+  exclusive). *(3) The one dated anchor:* Highway 7-ext was built 2611–2614
+  (see the supporting data point below), circumstantial support for "connection begins
+  at this threshold." *(4) Irreversibility:* once the crossing is routine, the two networks
+  are one network and nobody can un-know it, which suits a Doorway of No Return (a
+  reliable link can still be lost later, e.g. at END). *(5) The national-unity law:* it is the first *national*
+  convergence between peoples of different origins, consistent with "differentiate
+  locally, converge nationally."
+  **Constraints and open points (none resolved):**
+  - **Two different "Act 2"s.** The structural Act 2 (Save the Cat) begins at Break
+    into Two, ~2614. The identity-timeline Act 2 ("properly Tepenian," origin is
+    ancestry, not identity) is ruled for the late 2600s or early 2700s, solidified by
+    Amundsen Tower's completion (~2688), and is **"not a switch, not the creation of
+    unity, already in progress"** (see `No_National_Stereotypes.md`; the Tower is only
+    one of its effects). Shape D therefore has to read as the START of a gradual
+    process in ~2614 that the Tower solidifies about 70 years later, **never** as the
+    moment Tepenia becomes unified.
+  - **Why the Weddell crossing was not reliable before ~2614 (and the research
+    agrees it is THE hard hop).** All of this is agent models and estimates, not yet
+    spot-checked (the GDD's `Locations/Towns/Open_Research_Topics.md` §2 and §4, and
+    `Research_Logs/Radio_Physics_*` and `Weddell_Floating_Relay_*`):
+    - **It cannot be split.** No stepping stone cuts the Peninsula-to-Weddell-coast
+      crossing below about 1,500 km. By site: Rothera to Belgrano 1,549 km, Marambio
+      1,686, Palmer City 1,752, Esperanza 1,780, Pergamino (South Shetlands) 1,911; to
+      Halley, Marambio 1,669 and Rothera 1,658. A Weddell-facing station on the
+      southeast Peninsula (Rothera or Marambio) beats one at Palmer City or Pergamino.
+    - **No relay in the middle.** The floating-relay study found no Weddell region calm
+      and safe for an ordinary ship to float for weeks, no surface-mooring precedent in
+      the Weddell ice zone, and no floating HF relay precedent; the crossing is bridged
+      by one long hop, not stepping stones.
+    - **The far end is auroral.** Belgrano is about −70 degrees geomagnetic against the
+      Peninsula's about −55; auroral and storm degradation about 5 to 11% of hours at
+      the Weddell far end, polar-cap absorption about 0.3 to 1% of the time.
+    - **It is within reach of better equipment, which is why it can become reliable.**
+      The study's finding: the direct Peninsula-to-Belgrano hop is already 24 hours a
+      day at 1 kW or with +6 dBi antennas; only the hard case (100 W, 0 dBi, voice, in
+      January) falls short. Levers named by the research, **as candidates for what changes around
+      ~2614, none chosen:** (1) more power and directional antennas at both ends (+6 to
+      +10 dBi is worth about an order of magnitude); (2) several bands with a seasonal
+      and time-of-day frequency plan (summer 7 to 14 MHz, winter 3.5 to 7 MHz); (3)
+      weak-signal digital store-and-forward (works around the clock even at low power);
+      (4) two independent routes (direct, and via Signy or Rothera) so one blackout does
+      not cut both; (5) siting the Weddell-facing station on the southeast Peninsula.
+      Geostationary satellites are only a few degrees above the horizon at this
+      latitude, so a non-HF fallback is limited (satellite and orbital access in canon
+      was NOT checked).
+    **So the barrier is not "nobody could ever reach across", it is "not reliably, and
+    not repeatably".** Sporadic contact across the Weddell may well have happened before
+    ~2614; the doorway is the day it becomes dependable and routine.
+  - **What "directly" means (developer, 2026-10-04): a signal relayed across
+    antennas or relay-points, so NOT a single transmission.** Developer, verbatim:
+    *"'directly' means a signal being relayed across antennas/relay-points. So,
+    obviously not in one single transmission."* "Direct" therefore means the two ends
+    communicate with no separate hand-off or retelling between people, over a relay
+    chain, not that one transmitter reaches the other. **The developer confirmed
+    (2026-10-04) the three inferences drawn from that: the relay infrastructure
+    ALREADY exists; the Weddell crossing is the one hop that cannot be split with land
+    (see the bullet above); and every extra hop adds a failure point** (a four-hop
+    chain is about 66 to 90% available, an estimate; the Weddell-sector node is
+    required for simple antennas and merely helpful for strong ones, agent models).
+    **Settled by the developer's refinement:** everything from Belgrano to Casey, and
+    everyone in between, can already talk to each other, and the Peninsula can already
+    talk within itself; the only missing piece is the Peninsula-to-Belgrano crossing.
+    Highway 7-ext's 2611 to 2614 construction (see below) remains a possible sibling of
+    the build-out, but no source ties them. *Whether the existing relay-points are
+    antennas at existing cities or separate sites is not chosen.*
+  - **Door or Catalyst.** Break into Two is a CHOICE (Snyder, Bell: the protagonist
+    commits). Under the refinement the trigger is a THRESHOLD (the day the crossing
+    works reliably and can be repeated), not a one-off chance event, which moves it away
+    from the Catalyst (this file notes the Catalyst is the one beat allowed to be
+    random) and toward a doorway earned by preparation. Still to decide: whether the
+    door is that day itself, or what Tepenia chooses to do once the two networks are
+    one (build the Arcanet). Not chosen.
+  - **Link to the national radio-comms idea.** The two things that join are already
+    working networks, each with its own practice: the Belgrano-to-Casey chain (Casey's
+    founders are Australia, the Founding Register, `DR-19`; Mawson's are Kazakhstan,
+    Russia and Australia, `DR-53`) and the Peninsula network. *Observation from the
+    Register, not a decision:* the failing link's two ends share a founding stock in
+    places (Belgrano is Argentina-founded, and so are Rothera, Marambio and Esperanza on
+    the Peninsula, `DR-19`; Palmer City is not nation-based, Puerto Abrigo is Chile,
+    Pergamino is Uruguay first, Signy is South Africa and Brazil); under the culture law
+    this is composition naming the stock, and time and place produce the culture. For
+    the developer's principle (*in long-distance communications, the pattern that
+    dominates one area becomes the standard everywhere*): whichever practice already
+    dominates the larger, earlier chain is what the Peninsula joins, so the Peninsula is
+    the newcomer to the net. Whether that practice is Australian-flavored (the
+    comms-posts idea) is open and rests on the in-world founders, not on real-world
+    history (no real source shows Australian dominance of Southern Hemisphere radio
+    culture).
+  - **The crisis AFTER the doorway, and the Tower program (developer, 2026-10-04;
+    answers the earlier "is there a crisis?" question).** Developer, verbatim: *"to
+    address your point about whether there's a crisis, between the 'Doorway to Act #2'
+    and 'B-Story', I think there is a crisis that shocks people into organizing together
+    and collectively beginning construction on Amundsen Tower. I have no idea where,
+    when, or how the crisis happens. It might not even be in any of the subnets where
+    the radio comms infrastructure had already been established; it might be in the
+    Janbogo subnet; I have no idea yet. Even still, it does end up being a complex
+    process that takes the duration of 'B-Story-to-Midpoint' to go from start to full
+    completion, since there are many many moving parts involved in the process. There
+    need to be raw materials, fabricating those raw materials into usable materials,
+    establishing the power and living infrastructure at the pole, the energy management
+    and redistribution network plus data redistribution across the entire country, and
+    so on. It's not just one simple process."*
+    **The sequence this gives (developer's, as stated):** Door #1 (the Peninsula-to-
+    Belgrano crossing becomes reliable, ~2614) → **a crisis** (where, when and how
+    unknown) → people organize together and collectively begin the Tower → the B-Story
+    trigger → a long, many-part program running **B-Story-to-Midpoint** (about 70 years
+    on the era's dates) → the Tower's completion at the Midpoint (~2688, the False
+    Victory). **The program's named parts:** raw materials; fabricating them into usable
+    materials; the power and living infrastructure at the Pole; the energy management
+    and redistribution network; data redistribution across the whole country ("and so
+    on": the list is open). *Reading (inference): "data redistribution across the entire
+    country" is the Arcanet. **Superseded the same day by the developer's beat mapping
+    (the BEAT MAPPING bullet below): the B-Story is now the BEGINNING OF THE TOWER, and
+    the Arcanet's place under that is open.***
+    **Where it meets what is already in this file (flagged, nothing overwritten):**
+    (1) *Shape A.* The 2026-07-05 direction had the crisis AT Break into Two ("a crisis
+    that proves isolated cities can't survive alone"); here it moves to AFTER the
+    doorway, where it turns the new connection into collective action. The other
+    2026-07-05 ingredient, the generational handoff, is not addressed here and stays
+    open. (2) *The Tower's construction length.* The Road of Trials text and the
+    "Kick in the Shins is NOT the Tower's construction start" ruling (2026-07-05) rest
+    on the Infrastructure Sequence, which has Tower construction PROPER beginning only
+    in the final ~12 to 17 years (about 2671 to 2676), the figure the shipping and
+    assembly math in `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`
+    uses (that document calls it "plausibly", derived from the sequence, not a
+    developer-set number). **These can both hold if "beginning construction on the
+    Tower" means beginning the PROGRAM (materials, fabrication, Pole infrastructure,
+    energy and data networks) and the physical Tower build stays the final 12 to 17
+    years; that mostly relabels the old sequence (cities, highways, Arcanet, Hwy 22,
+    then the Tower) as ONE crisis-triggered, collective program instead of unrelated
+    earlier steps.** If instead the physical Tower build is meant to span the whole
+    ~70 years, it overturns that ruling and the design document's throughput math.
+    **Developer decision needed: program, or physical build?** (3) *Kick in the Shins:*
+    **now the crisis itself** (see the BEAT MAPPING bullet below). (4) *Highways.* The sequence puts highways before the
+    Arcanet and the "highways not yet placed" question is still open; Hwy 7-ext
+    (2611 to 2614) and Hwy 22 (reaching the Pole) are the anchors. (5) *Byrd's
+    unresolved "Isolation Crisis" premise* (see below) is an existing, undated
+    candidate hook; nothing is chosen.
+    **Where the crisis happens (not chosen; the developer has no idea yet):** not
+    necessarily in a radio-connected subnet; Janbogo is named as a possibility. Janbogo,
+    Byrd and Amundsen-Scott were never enumerated as inside or outside the
+    Belgrano-to-Casey chain; if a region is outside the working network, news of a
+    crisis there would not have spread by radio (inference), which is one way such a
+    crisis could "shock" people nationally.
+  - **BEAT MAPPING (developer direction, 2026-10-04; replaces the tentative mapping
+    in the previous bullet).** Developer, verbatim: *"that actually works out well. -
+    the first reliable, repeatable communication between the Peninsula and Casey is the
+    'Doorway to Act #2' - the crisis is the 'Kick in the Shins' - the beginning of the
+    construction of Amundsen Tower is the B-Story"*. So: **Break into Two (~2614) =
+    the first reliable, repeatable communication between the Peninsula and Casey (via
+    the Peninsula-to-Belgrano crossing); Kick in the Shins = the crisis; B-Story = the
+    beginning of Amundsen Tower's construction; Midpoint = the Tower's completion
+    (~2688, the False Victory).** Reading, to confirm: "works out well" accepts that the
+    Tower PROGRAM and the physical build can both hold (the ~12 to 17 years stays as the
+    physical final phase), but "the beginning of the construction" is still ambiguous
+    between the two.
+    **What this changes (flagged, nothing overwritten):** (a) *B-Story:* was "the
+    Arcanet's construction" (2026-07-05); the Summary Table row, the B-Story paragraph
+    under Road of Trials and the Open Work line carry flags, and their text is left.
+    (b) *Kick in the Shins:* was open ("NOT the Tower's construction start"; two
+    unchosen candidates: the lost leader, an early infrastructure failure); it is now
+    the crisis. "NOT the construction start" still stands: the crisis is not the build's
+    start, the B-Story is. The two old candidates stay unchosen but remain available as
+    ideas for what the crisis is. It fits Bell's definition (things going wrong, early
+    in Act 2, relevant to the plot) and the 2026-07-05 requirement of a setback-shaped
+    event. (c) *Order:* the Kick in the Shins now comes BEFORE the B-Story trigger; the
+    Summary Table lists the B-Story first, and the methodology placed it "right after
+    Break into Two". (d) **Craft flag, developer decision:** this repo's B-Story
+    definition (Snyder) is a parallel plot that *seemingly* has no connection to the
+    main story, whose disconnection is "load-bearing" until it converges at the
+    Midpoint. A B-Story that IS the start of the Tower is visibly tied to a
+    Tower-completion Midpoint from the beginning. Ways to keep the definition, none
+    chosen: keep a quiet, seemingly-separate thread (the Arcanet, or another) as the
+    B-Story's subject inside the program while the Tower's beginning is its trigger; or
+    accept that this era's B-Story is a deliberate exception; or treat the A-plot as
+    something other than the Tower (the era's theme, robot personhood and "the wound",
+    per Theme Stated), so the Tower strand converges with it at the Midpoint.
+  - **CAUSAL LINK (developer idea, 2026-10-04; "I think I have an idea"; not a
+    ruling).** Developer, verbatim: *"Somehow, something regarding the communication
+    between the Peninsula and Casey triggers a chain of events that *results in* the
+    crisis (the 'Kick in the Shins' moment)"*. **So the sequence is now CAUSAL:** the
+    Doorway (the Peninsula and Casey first communicate reliably, ~2614) → a chain of
+    events set off by that communication → the crisis (the Kick in the Shins) → people
+    organize together and begin the Tower (the B-Story) → the program to the Midpoint
+    (the Tower's completion, ~2688). **The mechanism is NOT chosen** ("somehow,
+    something"); no candidate mechanisms are recorded here. **What this changes
+    (flagged):** (a) the crisis is no longer a chance event; it is a consequence of the
+    doorway, which satisfies the repo's own Kick in the Shins definition (relevant to
+    the plot, internally consistent, "not a random, disconnected setback") and gives
+    the doorway's "no return" a price; (b) *where* the crisis lands is no longer
+    constrained to the radio-connected subnets, because a chain of events that starts
+    from the link can reach elsewhere (the developer's Janbogo possibility stays one
+    option; inference, and it depends on the mechanism); (c) *Shape A's* logic (a crisis
+    that proves isolated cities cannot survive alone) now sits beside "connecting
+    produced the crisis"; both can hold if it is a crisis that only connected action
+    can answer (inference, not chosen); (d) the question of what makes the crossing
+    reliable around ~2614 (power, antennas, band plan, store-and-forward) and the
+    question of what the communication sets off are separate and both open.
+    **Brainstorming candidate mechanisms is event and people design and belongs in
+    05:00 to 14:59.**
+  - **Not chosen (do not invent):** which Peninsula city holds the Weddell-facing
+    station (the research favors Rothera or Marambio); what changed around ~2614
+    (power, antennas, band plan, digital store-and-forward, siting: the candidates
+    above); where, when and how the crisis happens (the developer says there IS one,
+    and that it results from the Peninsula-Casey communication: see the previous two
+    bullets); the date within the ~2589 to
+    ~2614 window; whether Janbogo, Byrd, Amundsen-Scott and the other cities outside the
+    Belgrano-to-Casey line are on the connected side ("everyone in between" was not
+    enumerated); how and when each of the two networks came to exist and who built them;
+    what carries the signal (HF is assumed from the relay and antenna wording; satellite
+    and orbital access were not checked).
+  - **Hours:** this entry records the developer's idea, his refinement, and what was
+    already established. **Developing the event itself (who, where, what happens) is
+    character-of-place and people work and belongs in 05:00 to 14:59.**
 
 None of these are mutually exclusive with each other or with additional shapes not
 yet identified — kept open deliberately, to be chosen from (or combined further)
@@ -231,7 +480,16 @@ Transcontinental Highway) built, reaching the South Pole/Amundsen Station direct
 only then does Amundsen Tower's own construction begin, in the final ~12–17 years of
 this span (per already-established canon on the Tower's own construction timeline).
 
-**B-Story = the Arcanet's construction, established 2026-07-05.** Fits cleanly: the
+> ⚠ **FLAG 2026-10-04 (developer idea, see Shape D under Break into Two; not yet
+> reconciled):** the developer now holds that a crisis after Break into Two shocks
+> people into collectively *beginning* the Tower, and that the whole many-part effort
+> (raw materials, fabrication, Pole power and living infrastructure, the energy and data
+> networks) runs from the B-Story to the Midpoint. Whether that means the PROGRAM starts
+> then (the physical build still the final ~12-17 years, so this paragraph holds) or the
+> physical build itself spans the period (which would overturn this paragraph) is a
+> developer decision. Paragraph left as written.
+
+**B-Story = the Arcanet's construction, established 2026-07-05.** ⚠ **SUPERSEDED by developer direction 2026-10-04: the B-Story is the BEGINNING of Amundsen Tower's construction (see Shape D under Break into Two); the paragraph below is left as written and its Arcanet reading is now open.** Fits cleanly: the
 B-Story starts early in Road of Trials (right after Break into Two, per the general
 methodology) and converges with the main plot at the Midpoint — matching the
 Arcanet's own gradual, subnet-by-subnet buildout culminating around the same time as
@@ -261,7 +519,7 @@ different, sequential things rather than one process, or may simply need
 reconciling.
 
 **Resolved 2026-07-05 — Kick in the Shins is NOT Amundsen Tower's construction
-start.** The developer initially proposed Tower construction *beginning* at Kick in
+start.** ⚠ **2026-10-04: developer direction makes the CRISIS the Kick in the Shins (Shape D under Break into Two). The "NOT the construction start" part still stands (the crisis is not the build's start; the B-Story is). The two candidates below stay unchosen, now as possible ideas for what the crisis is.** The developer initially proposed Tower construction *beginning* at Kick in
 the Shins (early Road of Trials, ~2614) but agreed this conflicts with the
 already-established Infrastructure Sequence, which has construction beginning only
 in the **final ~12-17 years** before the ~2688 Midpoint completion (~2671-2676), not
@@ -539,6 +797,9 @@ unmigrated.
   anywhere.
 - **The Long Night War's exact day** — still only narrowed to the March 22 – June 20
   window; confirmed no file in either repo settles a specific day yet.
+- ⚠ 2026-10-04: the B-Story and the Kick in the Shins now have developer direction
+  (see Shape D under Break into Two, "BEAT MAPPING" and "CAUSAL LINK"); the next item
+  is the older state, left as written.
 - Date and place: B-Story trigger (the Arcanet — now anchored to ~2614, but no
   further specific milestones), Kick in the Shins (still just the same two
   candidates from 2026-07-05, no further narrowing found), Care Package, Pet the
