@@ -17,7 +17,8 @@ set in this universe. This repo is the central reference every other work draws 
 ### The First Interwar Period
 - Sept. 26, 2083 to June 21st, 2564
 - depicts the interval of time beginning from the first global nuclear war up until the signing of the Falkland Treaty
-- at the beginning of this timeline, the world's first-ever fully sentient robot has been successfully created
+- at the beginning of this timeline, there is a global nuclear war spearheaded by the USA and China, stemming from a very unfortunate misunderstanding in Uganda
+- very shortly before the beginning of this timeline, the world's first-ever fully sentient robot has been successfully created
 - at the end of this timeline, there has been a global human/robot war which culminates in the exile of robots to Antarctica
 ### The Second Interwar Period
 - June 21st, 2564 to mid- to late-2812
