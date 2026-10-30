@@ -25,6 +25,8 @@ If a piece of content doesn't serve one of those three questions, it does not be
 - Cross-project synthesis: reconciling the same character/place/event across multiple sibling projects.
 - **Enneagram typing, exception confirmed 2026-08-11.** Unlike a single project's own prose/craft frameworks (KWML, Want-Need-Idea — genuinely excluded above, since they're that project's own writing tool), Enneagram type is applied identically across every sibling project as a real, shared fact about who a character *is* — squarely a "Who" question, not a project-specific craft method. In scope: a character's confirmed main Type (and optional Undercurrent, `Reference/Enneagram_Undercurrents.md`) as a cross-media fact. Out of scope, still: the mined book source material and the full typing methodology itself — that infrastructure stays in `InnerTepeniaGDD/Worldspace/Enneagram/`, which this repo points to rather than duplicates.
 
+- **Universal Design Laws, exception confirmed 2026-10-29.** The author's binding design laws that apply to every character, location, object and event in every project live in `Universal Design Laws/` at the repo root. They govern the "who" and "where" recorded here, so they belong beside that canon. They are not project-specific craft.
+
 ## Self-check
 
 Before adding or porting content here, ask: does this tell you *when*, *where*, or *who*? If the honest answer is "it tells you *how to play/read it*" or "*what mechanically happens next*," it's out of scope — note its existence if useful for cross-reference, but don't port the content itself.
