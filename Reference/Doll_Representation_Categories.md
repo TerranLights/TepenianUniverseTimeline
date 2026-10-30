@@ -8,8 +8,10 @@ future characters and projects.
 ## The Four Categories
 
 1. **Robots** — the only category currently in active use across the Dolliverse. Originally built by humans;
-   later came to be built by each other. See `Robot_Universals/` for the shared cross-series robot canon
-   (biology, culture, the Fundamental Laws), and each project's own repo for project-specific robot mechanics.
+   later came to be built by each other. See `Robot_Universals_Summary.md` for the condensed overview, or
+   `DerivationMechanisms/Characters/Robot-specific/from TepenianUniverseTimeline/Robot_Universals/` for the
+   full book (shared cross-series robot canon: biology, culture, the Fundamental Laws), and each project's
+   own repo for project-specific robot mechanics.
 
 2. **Anthros** — genetically engineered by humans, by splicing human and animal DNA into human-animal hybrids.
    Most prominently (but not limited to) "dog-people," "cat-people," and "rabbit-people." Later developed into

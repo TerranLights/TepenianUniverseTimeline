@@ -9,4 +9,4 @@
 - `Amundsen_Station_Archive_and_Trucking_Network.md` — full research findings on the physical data-hauling network to Amundsen Station across multiple subnets, and its connection to Calethina's lab (the Mountain Pass fabrication chamber).
 - `Doll_Representation_Categories.md` — the four Doll representation categories (robots/anthros/elves/aliens) and their origins; only robots are in active use so far.
 - `Enneagram_Undercurrents.md` — the optional secondary Enneagram profile a character can carry underneath her main Type; full mechanics live in `InnerTepeniaGDD/Worldspace/Enneagram/`, this file holds the cross-media concept and confirmed assignments.
-- `Doll_Height_Transposition.md` — how a Doll's real-world reference sexdoll's height translates into an in-universe living height; the shared method only, per-character applications live in each project's own character files.
+- `Robot_Universals_Summary.md` — condensed overview and pointer to the full Robot Universals book, which moved to `DerivationMechanisms` (a generic differentiation methodology, not when/where/who canon).

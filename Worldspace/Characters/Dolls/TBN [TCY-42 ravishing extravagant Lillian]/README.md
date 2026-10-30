@@ -29,7 +29,7 @@ the psychological source it was built from.
 
 ### Stage 3 Character Data — Core Wound-and-Belief Cluster (confirmed 2026-08-11)
 
-Built via the Character Creation Methodology (`../../Character_Creation_Methodology/Pipeline/03_Character_Data.md`),
+Built via the Character Creation Methodology (`DerivationMechanisms/Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Pipeline/03_Character_Data.md`),
 grounded in her established 7w8 Social-Countertype Enneagram profile and Leo's confirmed grand/intimate divide
 history (`InnerTepeniaGDD`'s `District_Canon_Reference.md`; see also `Formative_History.md` / `Timeline.md` for
 where this slots chronologically). Filled in the methodology's own causal order.

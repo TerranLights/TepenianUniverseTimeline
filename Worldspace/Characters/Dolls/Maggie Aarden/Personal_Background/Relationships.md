@@ -5,7 +5,7 @@
 **Confirmed 2026-08-10, via the Character Creation Methodology worked example:**
 
 * **A robot friend** — name not yet chosen (placeholder TBD, see
-  `../../../Character_Creation_Methodology/Design_Principles/Placeholder_Naming_Convention.md`). Role,
+  `DerivationMechanisms/Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Design_Principles/Placeholder_Naming_Convention.md`). Role,
   relationship texture, and how they know each other are not yet established beyond the confirmed fact of the
   friendship itself.
 * **Two husbands, both during the First Interwar Period** (names not yet chosen, placeholders TBD):

@@ -1,6 +1,6 @@
 ## Jasmine Blakeley / "Jasmine"
 
-*(Built 2026-08-15 from a filled-in seed, transferred per `Character_Creation_Methodology/Rapid_Intake/
+*(Built 2026-08-15 from a filled-in seed, transferred per `DerivationMechanisms/Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Rapid_Intake/
 seed-to-README-process.md`. Placed in this repo rather than InnerTepeniaGDD per the developer's own decision,
 2026-08-15: she isn't famous or historically significant enough to be "known to" the citizens of the Tepenian
 Federation in New Antarctica, so she has no companion or Past-History file in that repo — this baseline profile
