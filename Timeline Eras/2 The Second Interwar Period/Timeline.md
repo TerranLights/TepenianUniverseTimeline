@@ -248,14 +248,14 @@ all kept open for now:
   convergence between peoples of different origins, consistent with "differentiate
   locally, converge nationally."
   **Constraints and open points (none resolved):**
-  - **Two different "Act 2"s.** The structural Act 2 (Save the Cat) begins at Break
-    into Two, ~2614. The identity-timeline Act 2 ("properly Tepenian," origin is
-    ancestry, not identity) is ruled for the late 2600s or early 2700s, solidified by
-    Amundsen Tower's completion (~2688), and is **"not a switch, not the creation of
-    unity, already in progress"** (see `No_National_Stereotypes.md`; the Tower is only
-    one of its effects). Shape D therefore has to read as the START of a gradual
-    process in ~2614 that the Tower solidifies about 70 years later, **never** as the
-    moment Tepenia becomes unified.
+  - **Structural Act 2 vs. national identity's own date.** The structural Act 2
+    (Save the Cat) begins at Break into Two, ~2614. National identity ("properly
+    Tepenian," origin is ancestry, not identity) solidifies in the late 2600s or
+    early 2700s, by Amundsen Tower's completion (~2688) — **"not a switch, not the
+    creation of unity, already in progress"** (see `No_National_Stereotypes.md`; the
+    Tower is only one of its effects). Shape D therefore has to read as the START of
+    a gradual process in ~2614 that the Tower solidifies about 70 years later,
+    **never** as the moment Tepenia becomes unified.
   - **Why the Weddell crossing was not reliable before ~2614 (and the research
     agrees it is THE hard hop).** All of this is agent models and estimates, not yet
     spot-checked (the GDD's `Locations/Towns/Open_Research_Topics.md` §2 and §4, and
